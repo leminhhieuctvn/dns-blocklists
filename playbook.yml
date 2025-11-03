@@ -211,7 +211,10 @@
         cat output/{{ item }}/{{ item }}_adblock.txt \
             output/{{ item }}/{{ item }}_gambling.txt \
             output/{{ item }}/{{ item }}_privacy.txt \
-            | sort -u > output/{{ item }}/{{ item }}_combined.txt
+            | grep -v '^$' \
+            | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' \
+            | sort -u \
+            | grep -v '^$' > output/{{ item }}/{{ item }}_combined.txt
       loop: "{{ group_names }}"
       loop_control:
         label: "{{ item }}"
