@@ -276,7 +276,7 @@
           {% endif %}
           {% endfor %}
         dest: "{{ _output_path }}"
-        validate: named-checkzone _ %s
+        validate: named-checkzone . %s
       vars:
         _filename_full: "{{ item.source.split('/')[-1] }}"          # relay_adblock.txt
         _filename_short: "{{ _filename_full.split('.') | first }}"  # relay_adblock
