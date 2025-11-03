@@ -19,6 +19,9 @@ dns_blocklists_lists:
     type: gambling
     url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt
   
+  - name: hagezi-popupads-onlydomains
+    type: adblock
+    url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt
 
   - name: hagezi-multi-pro-mini-onlydomains
     type: adblock
