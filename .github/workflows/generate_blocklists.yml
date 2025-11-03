@@ -1,0 +1,119 @@
+name: Generate DNS Blocklists
+
+# Workflow will run on schedule, push, or manual trigger
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+    # Only trigger on changes to relevant files
+    paths:
+      - 'inventory/**'
+      - 'playbook.yml'
+      - 'scripts/**'
+      - 'templates/**'
+      - 'files/**'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - name: Install Python dependencies
+        run: |
+          pip install ansible-core requests
+          ansible --version
+      
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y dos2unix bind9-utils
+      
+      - name: Make scripts executable
+        run: |
+          chmod +x scripts/*.sh scripts/*.py
+      
+      - name: Generate social blocklists
+        id: generate_social
+        run: |
+          cd scripts
+          # Generate social blocklist from URLs and ASNs
+          # Note: This is a simplified version without subfinder
+          # For full generation with subdomain discovery, you can install subfinder
+          
+          mkdir -p /tmp/lists
+          rm -f /tmp/lists/output
+          
+          # Add domains from generate_social_blocklists_urls file
+          grep -v -e '^#' -e '^$' generate_social_blocklists_urls | while read -r domain; do
+            echo "0.0.0.0 $domain" >> /tmp/lists/output
+          done
+          
+          # Generate ASN-based entries
+          python3 generate_social_blocklists_asn.py
+          
+          # Combine URLs and ASN entries
+          if [ -f /tmp/AS* ]; then
+            cat /tmp/lists/output /tmp/AS* > ../files/social
+          else
+            cat /tmp/lists/output > ../files/social
+          fi
+          
+          echo "Generated social blocklist with $(wc -l < ../files/social) entries"
+        continue-on-error: true
+      
+      - name: Run Ansible playbook
+        run: |
+          ansible-playbook -i inventory/ playbook.yml
+      
+      - name: Run zonefile generation
+        run: |
+          ansible-playbook -i inventory/ playbook.yml --tags=zonefile
+      
+      - name: Validate generated files
+        run: |
+          cd scripts
+          ./check_zonedata.sh
+      
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain output/)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push changes
+        if: steps.verify-changed-files.outputs.changed == 'true' && github.event_name != 'workflow_dispatch'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/
+          git commit -m "Auto-update blocklists [skip ci]" || exit 0
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Note: For private repos or if you want more control,
+        # use a Personal Access Token in secrets instead
+      
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: blocklist-files
+          path: output/
+          retention-days: 30
+

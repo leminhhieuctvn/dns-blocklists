@@ -5,7 +5,7 @@ dns_blocklists_lists:
   # https://oisd.nl/faq#basic
   - name: oisd-small
     type: adblock
-    url: https://small.oisd.nl/rpz # Use the BIND list directly since we use BIND on our servers
+    url: https://small.oisd.nl/domainswild2
 
   - name: frellwits-swedish-hosts-file
     type: adblock
@@ -15,14 +15,15 @@ dns_blocklists_lists:
     type: adblock
     url: https://v.firebog.net/hosts/AdguardDNS.txt
 
-  - name: hagezi-gambling-onlydomains
+  - name: hagezi-gambling-mini-onlydomains
     type: gambling
     url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt
   
-  - name: hagezi-gambling
-    type: gambling
-    url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling.txt
-  
+
+  - name: hagezi-multi-pro-mini-onlydomains
+    type: adblock
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/gambling.mini-onlydomains.txt
+
   - name: firebog-easylist-privacy
     url: https://v.firebog.net/hosts/Easyprivacy.txt
     type: privacy
@@ -68,7 +69,7 @@ dns_blocklists_lists:
     content: "{{ lookup('ansible.builtin.file', 'files/tracker') }}"
 
   - name: oisd-nsfw
-    url: https://nsfw.oisd.nl/rpz
+    url: https://nsfw-small.oisd.nl/domainswild2
     type: adult
 
   - name: mullvad-social-blocklist

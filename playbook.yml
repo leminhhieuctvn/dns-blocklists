@@ -193,6 +193,29 @@
           - mullvad.net
           - angband.live # Reported via Mastodon as incorrect
 
+    - name: Create combined adblock + gambling + privacy file
+      ansible.builtin.shell: |
+        cat output/{{ item }}/{{ item }}_adblock.txt \
+            output/{{ item }}/{{ item }}_gambling.txt \
+            output/{{ item }}/{{ item }}_privacy.txt \
+            | sort -u > output/{{ item }}/{{ item }}_combined.txt
+      loop: "{{ group_names }}"
+      loop_control:
+        label: "{{ item }}"
+
+    - name: Remove excluded URLs from combined file
+      ansible.builtin.lineinfile:
+        path: output/{{ item.0 }}/{{ item.0 }}_combined.txt
+        state: absent
+        regexp: "{{ item.1 }}"
+      loop: "{{ group_names | product(_dns_blocklists_exclude) | list }}"
+      loop_control:
+        label: "{{ item.1 }}"
+      vars:
+        _dns_blocklists_exclude:
+          - mullvad.net
+          - angband.live # Reported via Mastodon as incorrect
+
 
 - name: Build zonefiles
   hosts: all
