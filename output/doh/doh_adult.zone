@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1762138637    ; serial
+                                        1762141420    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -6828,7 +6828,6 @@ haijiao.com IN CNAME .
 haiporn1.com IN CNAME .
 hairy-vaginas.com IN CNAME .
 hairybabestgp.com IN CNAME .
-hairycuntgirls.com IN CNAME .
 hairyerotica.com IN CNAME .
 hairyfilm.com IN CNAME .
 hairygirly.com IN CNAME .
