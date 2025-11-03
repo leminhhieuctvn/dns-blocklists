@@ -5,7 +5,7 @@
 - name: Build DNS blocklist files
   hosts: all
   connection: local
-  gather_facts: false
+  gather_facts: true
   become: false
 
   tasks:
@@ -16,7 +16,7 @@
         dest: README.md
       tags: readme
 
-    - name: Install dos2unix and bind-utils
+    - name: Install dos2unix and bind-utils (RHEL/Fedora)
       ansible.builtin.dnf:
         name:
           - dos2unix
@@ -25,6 +25,19 @@
       become_user: root
       become: true
       run_once: true
+      when: ansible_pkg_mgr == 'dnf' or ansible_pkg_mgr == 'yum'
+
+    - name: Install dos2unix and bind-utils (Debian/Ubuntu)
+      ansible.builtin.apt:
+        name:
+          - dos2unix
+          - bind9-utils
+        state: present
+        update_cache: yes
+      become_user: root
+      become: true
+      run_once: true
+      when: ansible_pkg_mgr == 'apt'
 
     - name: Ensure output files are cleared
       ansible.builtin.file:

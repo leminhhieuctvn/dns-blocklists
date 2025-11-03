@@ -66,7 +66,7 @@ jobs:
           python3 generate_social_blocklists_asn.py
           
           # Combine URLs and ASN entries
-          if [ -f /tmp/AS* ]; then
+          if ls /tmp/AS* 1> /dev/null 2>&1; then
             cat /tmp/lists/output /tmp/AS* > ../files/social
           else
             cat /tmp/lists/output > ../files/social
