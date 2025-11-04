@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1762141437    ; serial
+                                        1762217852    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -859,7 +859,6 @@ allsearchsite.com IN CNAME .
 allsex.xxx IN CNAME .
 allsexlife.com IN CNAME .
 allteenpornvideos.com IN CNAME .
-allteensvids.com IN CNAME .
 allthegays.com IN CNAME .
 alltheporno.com IN CNAME .
 allthingscfnm.net IN CNAME .
@@ -3888,6 +3887,7 @@ dcbosf.com IN CNAME .
 ddcforum.com IN CNAME .
 ddeva.info IN CNAME .
 ddfnetwork.com IN CNAME .
+ddose007.com IN CNAME .
 de.vu IN CNAME .
 dearlady.us IN CNAME .
 decorativemodels.com IN CNAME .
@@ -6610,6 +6610,7 @@ go4sex.eu IN CNAME .
 gobdsmporn.com IN CNAME .
 gobokep.com IN CNAME .
 god-doujin.com IN CNAME .
+godaddysites.com IN CNAME .
 goddess247.com IN CNAME .
 godesiporn.com IN CNAME .
 godesisex.com IN CNAME .
@@ -7726,6 +7727,7 @@ hotnudephoto.com IN CNAME .
 hotnudeteen.com IN CNAME .
 hotoctopuss.com IN CNAME .
 hotoldermale.com IN CNAME .
+hotornot.com IN CNAME .
 hotpartystripper.com IN CNAME .
 hotpgarden.com IN CNAME .
 hotpic.cc IN CNAME .
@@ -8931,7 +8933,6 @@ joporn.art IN CNAME .
 joporn.center IN CNAME .
 joporn.me IN CNAME .
 joporn.name IN CNAME .
-joporn.net IN CNAME .
 joporn.online IN CNAME .
 joporn.tv IN CNAME .
 joporn.xyz IN CNAME .
@@ -11999,7 +12000,6 @@ oohcams.com IN CNAME .
 oohlala.be IN CNAME .
 oohporno.com IN CNAME .
 ooksex.com IN CNAME .
-oolsugam.com IN CNAME .
 oolveri.com IN CNAME .
 oomaal.in IN CNAME .
 ooo-sex.com IN CNAME .
@@ -12212,7 +12212,6 @@ passionatechat.com IN CNAME .
 passionionline.it IN CNAME .
 passionivicine.com IN CNAME .
 pat.com IN CNAME .
-patricinhas.com IN CNAME .
 patrika.com IN CNAME .
 pattaya-addicts.com IN CNAME .
 pawmanga.com IN CNAME .
@@ -13285,6 +13284,7 @@ pornodrive.cc IN CNAME .
 pornodrive.me IN CNAME .
 pornoeggs.com IN CNAME .
 pornoenespanollatino.com IN CNAME .
+pornoenspanish.es IN CNAME .
 pornoente.tv IN CNAME .
 pornoespaniol.com IN CNAME .
 pornoespanol.blog IN CNAME .
@@ -15135,7 +15135,6 @@ sexbeauty.net IN CNAME .
 sexbebin.com IN CNAME .
 sexbizlaw.com IN CNAME .
 sexbjcam.com IN CNAME .
-sexblag.club IN CNAME .
 sexbombo.com IN CNAME .
 sexbook.com IN CNAME .
 sexbule.xxx IN CNAME .
@@ -15533,6 +15532,7 @@ sextop1.bot IN CNAME .
 sextop1.forum IN CNAME .
 sextop1.la IN CNAME .
 sextop1.men IN CNAME .
+sextop1.moe IN CNAME .
 sextop1.movie IN CNAME .
 sextop1.sale IN CNAME .
 sextop1.skin IN CNAME .
@@ -18369,7 +18369,6 @@ vrninja.tv IN CNAME .
 vrphub.com IN CNAME .
 vrporn.com IN CNAME .
 vrporngalaxy.com IN CNAME .
-vrpornlinks.net IN CNAME .
 vrpornlist.com IN CNAME .
 vrpornmania.com IN CNAME .
 vrpornseek.com IN CNAME .
