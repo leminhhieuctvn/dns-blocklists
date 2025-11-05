@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1762217841    ; serial
+                                        1762304424    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7461,6 +7461,7 @@ bidswitch.net IN CNAME .
 bienvenido.americanindustriesgroup.com IN CNAME .
 bigcustomernetwork.actonservice.com IN CNAME .
 bigdata.clarin.com IN CNAME .
+bigworldfashion.com IN CNAME .
 b.iheart.southwest.com IN CNAME .
 bi.heyloyalty.com IN CNAME .
 bi.irisdating.com IN CNAME .
@@ -9526,6 +9527,7 @@ creationagency.actonservice.com IN CNAME .
 creatives.sunmedia.tv IN CNAME .
 creatorcherry.com IN CNAME .
 creatorpassenger.com IN CNAME .
+creatorsnote.com IN CNAME .
 creator.zmags.com IN CNAME .
 creaturecabbage.com IN CNAME .
 c.refun.do IN CNAME .
