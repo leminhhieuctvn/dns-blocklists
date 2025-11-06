@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1762304424    ; serial
+                                        1762390714    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4872,6 +4872,7 @@ allreach.actonservice.com IN CNAME .
 allrisks.actonservice.com IN CNAME .
 a.lls.org IN CNAME .
 allstarfg.actonservice.com IN CNAME .
+alltypo.com IN CNAME .
 alluringbucket.com IN CNAME .
 allvideometrika.com IN CNAME .
 almalasers.actonservice.com IN CNAME .
@@ -17552,6 +17553,7 @@ justpickaname.com IN CNAME .
 just.playvici.com IN CNAME .
 justsayyes.infor.com IN CNAME .
 justwebcards.com IN CNAME .
+justwowjars.com IN CNAME .
 juzqsq.finanzcheck.de IN CNAME .
 jvbvng.notino.it IN CNAME .
 jviyau.pelicanwater.com IN CNAME .
@@ -24897,6 +24899,7 @@ partnerapp.urbanclap.com IN CNAME .
 partnerdev.extasy.com IN CNAME .
 partner.haru-shop.jp IN CNAME .
 partner.hubinternational.com IN CNAME .
+partnerhut.com IN CNAME .
 partner.librarius.com.ua IN CNAME .
 partnerlinks.io IN CNAME .
 partner.miso.kr IN CNAME .
@@ -28621,6 +28624,7 @@ simg.sh.bwin.de IN CNAME .
 simg.yemeksepeti.com IN CNAME .
 simple.avaya.com IN CNAME .
 simplenaming.com IN CNAME .
+simplesafari.com IN CNAME .
 simplesidewalk.com IN CNAME .
 simple.siegelgale.com IN CNAME .
 simpletopay.americanexpress.com IN CNAME .
@@ -28683,6 +28687,7 @@ sit-smetrics.nab.com.au IN CNAME .
 siusmv.coraltravel.pl IN CNAME .
 six9e.canal.fr IN CNAME .
 sixauthority.com IN CNAME .
+sixpants.com IN CNAME .
 sixscissors.com IN CNAME .
 sizcsi.eobuv.cz IN CNAME .
 sizybn.shipsltd.co.jp IN CNAME .
@@ -40204,6 +40209,7 @@ wats.gogoinflight.com IN CNAME .
 watson.microsoft.com IN CNAME .
 wave.getonthewave.com IN CNAME .
 waveinverter.com IN CNAME .
+wavesimple.com IN CNAME .
 wavesmachine.com IN CNAME .
 wa.vodafone.cz IN CNAME .
 wa.vodafone.de IN CNAME .
