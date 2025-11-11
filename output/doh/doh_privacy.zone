@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1762736538    ; serial
+                                        1762822773    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7273,6 +7273,7 @@ bat.bing.net IN CNAME .
 bat.maydream.com IN CNAME .
 baton.cuetv.online IN CNAME .
 bats.video.yahoo.com IN CNAME .
+battlekite.com IN CNAME .
 battlenet.openapp.link IN CNAME .
 bavvgo.zingat.com IN CNAME .
 bawdybalance.com IN CNAME .
@@ -8511,6 +8512,7 @@ cksfgh.jaycar.com.au IN CNAME .
 ckygge.mohd.it IN CNAME .
 ckyhec.maxisport.com IN CNAME .
 clammychicken.com IN CNAME .
+cland.fyi IN CNAME .
 clanker-events.squarespace.com IN CNAME .
 clariant.actonservice.com IN CNAME .
 clarice.streema.com IN CNAME .
@@ -8921,6 +8923,7 @@ collegeauthority.actonservice.com IN CNAME .
 college.business.oregonstate.edu IN CNAME .
 colliers.actonservice.com IN CNAME .
 coloradoserves.com IN CNAME .
+colorfulpet.com IN CNAME .
 coloringisland.com IN CNAME .
 colors.chamoji.com IN CNAME .
 colossalclouds.com IN CNAME .
@@ -17203,6 +17206,7 @@ isharemetric.rediff.com IN CNAME .
 i.shelf.im IN CNAME .
 ish.tumedia.no IN CNAME .
 isjoui.cainz.com IN CNAME .
+islandwebhelp.com IN CNAME .
 is.lg.com IN CNAME .
 is-log.furunavi.jp IN CNAME .
 isoplexis.actonservice.com IN CNAME .
@@ -17640,6 +17644,7 @@ kennisdomein.pqr.com IN CNAME .
 keoofp.gulfnews.com IN CNAME .
 kep6.destinia.ie IN CNAME .
 keqglr.panvel.com IN CNAME .
+kernellife.com IN CNAME .
 kernenergie.efscle.com IN CNAME .
 kesko.actonservice.com IN CNAME .
 kestlerfinancial.actonservice.com IN CNAME .
@@ -23719,6 +23724,7 @@ net.voopter.com.br IN CNAME .
 network.cogentco.com IN CNAME .
 network.conterra.com IN CNAME .
 networkingexchange.att.com IN CNAME .
+networklast.com IN CNAME .
 network.lightpathfiber.com IN CNAME .
 networkprotection.mcafee.com IN CNAME .
 networks.balluff.com IN CNAME .
@@ -26638,6 +26644,7 @@ rnnstu.rentbeforeowning.com IN CNAME .
 rnybul.gismeteo.lv IN CNAME .
 rnybul.gismeteo.md IN CNAME .
 rnyhid.pepperfry.com IN CNAME .
+roaddynamics.com IN CNAME .
 roadwalks.com IN CNAME .
 ro.aiwan4399.com IN CNAME .
 robotflowermobile.com IN CNAME .
@@ -28421,6 +28428,7 @@ s.guelphmercury.com IN CNAME .
 sgw-analytics.panasonic.com IN CNAME .
 sgwhvw.alura.com.br IN CNAME .
 shadeship.com IN CNAME .
+shadowmade.com IN CNAME .
 shaggytank.com IN CNAME .
 shakegoldfish.com IN CNAME .
 shakysurprise.com IN CNAME .
@@ -32408,6 +32416,7 @@ squalidscrew.com IN CNAME .
 squarecamel.com IN CNAME .
 squeakzinc.com IN CNAME .
 squealingturn.com IN CNAME .
+squidlogic.com IN CNAME .
 squirrel.cividi.ch IN CNAME .
 squirrel.malaynahocker.com IN CNAME .
 squishybears.com IN CNAME .
@@ -33126,6 +33135,7 @@ starify.appsonic.fr IN CNAME .
 starkscale.com IN CNAME .
 starman.fathomdns.com IN CNAME .
 starman.floorcleanse.co.uk IN CNAME .
+starsmarter.com IN CNAME .
 start.adelaide.edu.au IN CNAME .
 startercost.com IN CNAME .
 start.hearsaysocial.com IN CNAME .
@@ -34283,6 +34293,7 @@ storea8tracking.alc.co.jp IN CNAME .
 store.echovisuals.com IN CNAME .
 store.esquirrel.at IN CNAME .
 stormwind.actonservice.com IN CNAME .
+stormyflower.com IN CNAME .
 s.toronto.com IN CNAME .
 s.toyotafinancial.com IN CNAME .
 st.picshuffle.com IN CNAME .
@@ -40721,6 +40732,7 @@ wqytxm.kurly.com IN CNAME .
 wrapstretch.com IN CNAME .
 wretchedfloor.com IN CNAME .
 wrhv.education.gouv.fr IN CNAME .
+writerhubs.com IN CNAME .
 writewealth.com IN CNAME .
 wrkbha.lyst.de IN CNAME .
 wrlnvt.pepita.hu IN CNAME .
