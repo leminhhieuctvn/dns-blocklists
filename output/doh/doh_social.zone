@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1762822767    ; serial
+                                        1762909159    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -77,26 +77,26 @@ like.video IN CNAME .
 like-video.com IN CNAME .
 bsky.app IN CNAME .
 misskey.io IN CNAME .
-24.0.221.136.103.rpz.ip IN CNAME .
-24.0.253.18.71.rpz.ip IN CNAME .
-24.0.223.136.103.rpz.ip IN CNAME .
-24.0.132.26.118.rpz.ip IN CNAME .
-24.0.248.45.101.rpz.ip IN CNAME .
-23.0.220.136.103.rpz.ip IN CNAME .
-48.2404:9dc0:cd07::.rpz.ip IN CNAME .
-24.0.251.18.71.rpz.ip IN CNAME .
 24.0.220.136.103.rpz.ip IN CNAME .
+48.2404:9dc0:cd01::.rpz.ip IN CNAME .
+24.0.132.26.118.rpz.ip IN CNAME .
+24.0.247.18.71.rpz.ip IN CNAME .
+24.0.251.18.71.rpz.ip IN CNAME .
+24.0.250.18.71.rpz.ip IN CNAME .
+24.0.248.18.71.rpz.ip IN CNAME .
+48.2404:9dc0:cd07::.rpz.ip IN CNAME .
+23.0.220.136.103.rpz.ip IN CNAME .
+24.0.223.136.103.rpz.ip IN CNAME .
+24.0.248.45.101.rpz.ip IN CNAME .
+24.0.253.18.71.rpz.ip IN CNAME .
 24.0.255.18.71.rpz.ip IN CNAME .
 24.0.252.18.71.rpz.ip IN CNAME .
-48.2404:9dc0:cd01::.rpz.ip IN CNAME .
-48.2404:9dc0:cd03::.rpz.ip IN CNAME .
 22.0.248.45.101.rpz.ip IN CNAME .
-48.2404:9dc0:cd05::.rpz.ip IN CNAME .
-24.0.247.18.71.rpz.ip IN CNAME .
-24.0.222.136.103.rpz.ip IN CNAME .
-24.0.248.18.71.rpz.ip IN CNAME .
+48.2404:9dc0:cd03::.rpz.ip IN CNAME .
+24.0.221.136.103.rpz.ip IN CNAME .
 48.2404:9dc0:cd06::.rpz.ip IN CNAME .
-24.0.250.18.71.rpz.ip IN CNAME .
+24.0.222.136.103.rpz.ip IN CNAME .
+48.2404:9dc0:cd05::.rpz.ip IN CNAME .
 48.2a03:2880:f23a::.rpz.ip IN CNAME .
 48.2a03:2880:f189::.rpz.ip IN CNAME .
 24.0.31.134.129.rpz.ip IN CNAME .
