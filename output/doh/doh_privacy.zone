@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1762909166    ; serial
+                                        1762995553    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7338,6 +7338,7 @@ beacon.aimtell.com IN CNAME .
 beacon.cdnma.com IN CNAME .
 beacon.cdn.qq.com IN CNAME .
 beaconcdn.qq.com IN CNAME .
+beacon.coofis.com IN CNAME .
 beacon.dropbox.com IN CNAME .
 beacon.errorception.com IN CNAME .
 beacon.flow.io IN CNAME .
@@ -9527,6 +9528,7 @@ crafthenry.com IN CNAME .
 crashchance.com IN CNAME .
 cratecamera.com IN CNAME .
 crawford-industries.actonservice.com IN CNAME .
+createdip.com IN CNAME .
 create.encoreglobal.com IN CNAME .
 create.encore-mx.com IN CNAME .
 creationagency.actonservice.com IN CNAME .
@@ -10755,6 +10757,7 @@ demo.emaillpb.adobe.com IN CNAME .
 demo.gomi.do IN CNAME .
 demojobsapp.epoise.com IN CNAME .
 demo-mktg.vodafone.com IN CNAME .
+demorewards.com IN CNAME .
 de.mywd.com IN CNAME .
 denpjz.jamesedition.com IN CNAME .
 denver.thexlife.co IN CNAME .
@@ -10765,6 +10768,7 @@ deployinput.com IN CNAME .
 descargar.billeteramango.com IN CNAME .
 descargar.telocompro.com.bo IN CNAME .
 descarga.veikul.com IN CNAME .
+desertgates.com IN CNAME .
 de.sharpmarketing.eu IN CNAME .
 design.informabi.com IN CNAME .
 design.nanawall.com IN CNAME .
@@ -13611,6 +13615,7 @@ freezingbuilding.com IN CNAME .
 frenchgerleman.actonservice.com IN CNAME .
 frequentflesh.com IN CNAME .
 freshatl.azurewebsites.net IN CNAME .
+freshlyhuman.com IN CNAME .
 fresnel-events.vimeocdn.com IN CNAME .
 fr-go.experian.com IN CNAME .
 fridaymarketing.actonservice.com IN CNAME .
@@ -14963,7 +14968,6 @@ hauhws.asgoodasnew.de IN CNAME .
 hauixd.halistores.com IN CNAME .
 hauzdj.quellogiusto.it IN CNAME .
 haxdym.min-breeder.com IN CNAME .
-haystack.wavve.com IN CNAME .
 hazawl.veke.fi IN CNAME .
 hazmatworkshop.com IN CNAME .
 hbaazk.bukalapak.com IN CNAME .
@@ -16984,6 +16988,7 @@ insight.velocify.com IN CNAME .
 insight.wittkieffer.com IN CNAME .
 insitez.blob.core.windows.net IN CNAME .
 ins.leavitt.com IN CNAME .
+inspirebees.com IN CNAME .
 inspire.changehealthcare.com IN CNAME .
 inspire.ubmfashion.com IN CNAME .
 instagram.xx.fbcdn.net.iberostar.com IN CNAME .
@@ -23600,6 +23605,7 @@ myretailmatch.actonservice.com IN CNAME .
 my.showin.gs IN CNAME .
 mysingleromance.com IN CNAME .
 mysite.webroot.com IN CNAME .
+mysketchpad.com IN CNAME .
 my-staging.villa.ge IN CNAME .
 mystery.vfmleonardo.com IN CNAME .
 mysticalagoon.com IN CNAME .
@@ -24165,6 +24171,7 @@ offers.la-z-boy.com IN CNAME .
 offer.slgnt.eu IN CNAME .
 offers.storagepipe.com IN CNAME .
 offgridcrops.com IN CNAME .
+offshoreassets.com IN CNAME .
 offshorecyclone.com IN CNAME .
 offshoregeology.com IN CNAME .
 ofgreencolumn.com IN CNAME .
@@ -34401,6 +34408,7 @@ sturdysnail.com IN CNAME .
 sturton-lation.com IN CNAME .
 stw.extrem-down.zone IN CNAME .
 st.wir-entdecken-bayern.de IN CNAME .
+stylelockers.com IN CNAME .
 styles.hautelook.com IN CNAME .
 stylishbuds.com IN CNAME .
 su1.les-suites.ca IN CNAME .
