@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1763341221    ; serial
+                                        1763427550    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -6833,6 +6833,7 @@ assets2.suncorp.com.au IN CNAME .
 assets2.terrischeer.com.au IN CNAME .
 assets2.vanz.vero.co.nz IN CNAME .
 assets2.vero.co.nz IN CNAME .
+assets.9gtb.com IN CNAME .
 assets.channelplay.in IN CNAME .
 assets.datarize.ai IN CNAME .
 assets.eafit.edu.co IN CNAME .
@@ -7996,6 +7997,7 @@ bu.actonservice.com IN CNAME .
 bu.adpinfo.com IN CNAME .
 buasmk.earthshoes.com IN CNAME .
 bubblewrapp.actonservice.com IN CNAME .
+bubblyaction.com IN CNAME .
 budibu.saksfifthavenue.com IN CNAME .
 buf.lemonde.fr IN CNAME .
 bugdsm.buffalo-boots.com IN CNAME .
@@ -8125,6 +8127,7 @@ caderonline.bu.edu IN CNAME .
 cadsuta.net IN CNAME .
 caf.actonservice.com IN CNAME .
 cafefrench.com IN CNAME .
+cafescampfires.com IN CNAME .
 cafirebreather.com IN CNAME .
 cagkpu.suitdirect.co.uk IN CNAME .
 cakeagenda.com IN CNAME .
@@ -8379,6 +8382,7 @@ cesa6.actonservice.com IN CNAME .
 cesario.bt.no IN CNAME .
 cfaexam.quantresear.ch IN CNAME .
 cfa.fidelity.com IN CNAME .
+cf.api.instant.one IN CNAME .
 cfb.8it.me IN CNAME .
 cf.campagnes-france.com IN CNAME .
 c.fingerprint.com IN CNAME .
@@ -11337,6 +11341,7 @@ domself.de IN CNAME .
 d.omsnative.de IN CNAME .
 donjigrad.viessmann.rs IN CNAME .
 do-not-tracker.org IN CNAME .
+doomhedge.com IN CNAME .
 dopljl.noleggiosemplice.it IN CNAME .
 doppler-beacon.cbsivideo.com IN CNAME .
 doppler-client-events.cbsivideo.com IN CNAME .
@@ -12924,6 +12929,7 @@ events.newsroom.bi IN CNAME .
 events.nuance.com IN CNAME .
 events.oakstreethealth.com IN CNAME .
 events.ocdn.eu IN CNAME .
+events-ocu.zipify.com IN CNAME .
 events.oddo-bhf.com IN CNAME .
 events.onet.pl IN CNAME .
 events.paramount.tech IN CNAME .
@@ -17359,6 +17365,7 @@ jdzmqj.thousandtrails.com IN CNAME .
 jeccmq.wehkamp.nl IN CNAME .
 jeedmact.sc.com IN CNAME .
 jeffersonawards.actonservice.com IN CNAME .
+jellyfinstream.com IN CNAME .
 jelndb.truereligion.com IN CNAME .
 jelr1.dili.fr IN CNAME .
 jensenhughes.actonservice.com IN CNAME .
@@ -25204,6 +25211,7 @@ pixel.tuko.co.ke IN CNAME .
 pixelvariety.com IN CNAME .
 pixel.veritone-ce.com IN CNAME .
 pixel.videohub.tv IN CNAME .
+pixel.wetracked.io IN CNAME .
 pixel.wp.com IN CNAME .
 pixel.wp.pl IN CNAME .
 pixel.yabidos.com IN CNAME .
@@ -38989,6 +38997,7 @@ t.valcyte.com IN CNAME .
 tvcoag.brw.pl IN CNAME .
 t.veranstaltungsticket-bahn.de IN CNAME .
 tver-metrics.streaks.jp IN CNAME .
+t.vibe.co IN CNAME .
 t.villanova.com IN CNAME .
 t.virginiasports.com IN CNAME .
 tvkfms.nta.co.jp IN CNAME .
