@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1763513897    ; serial
+                                        1763600237    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7662,6 +7662,7 @@ bopmkf.lolahome.es IN CNAME .
 boqufs.2nn.jp IN CNAME .
 boredcrown.com IN CNAME .
 boringberry.com IN CNAME .
+boringpirate.com IN CNAME .
 boss.openapp.link IN CNAME .
 bot.asksyllable.com IN CNAME .
 botb.rtl2.de IN CNAME .
@@ -8165,6 +8166,7 @@ campaign.daimlertruck.com IN CNAME .
 campaign-direct.eisai.jp IN CNAME .
 campaign-direct.ketsuatsu-taisaku.xyz IN CNAME .
 campaign-direct.kouketsuatsu-health.xyz IN CNAME .
+campaign.fbot.me IN CNAME .
 campaign-fbsg.fujifilm.com IN CNAME .
 campaign.fr.mazda.be IN CNAME .
 campaign.glory-global.com IN CNAME .
@@ -9388,6 +9390,7 @@ copycarpenter.com IN CNAME .
 copyfranchise.com IN CNAME .
 copyrightaccesscontrols.com IN CNAME .
 copyvibes.com IN CNAME .
+coralcranes.com IN CNAME .
 coralreverie.com IN CNAME .
 core-apps.b-cdn.net IN CNAME .
 corgibeachday.com IN CNAME .
@@ -10672,6 +10675,7 @@ dd.seloger-bureaux-commerces.com IN CNAME .
 dd.seloger.com IN CNAME .
 dd.selogerneuf.com IN CNAME .
 ddsndt.azubiyo.de IN CNAME .
+dd.viator.com IN CNAME .
 de5zarwna0j2q.cloudfront.net IN CNAME .
 dealerrelations.cargurus.com IN CNAME .
 dealfastfood.openapp.link IN CNAME .
@@ -13380,6 +13384,7 @@ flnkmj.hometogo.fr IN CNAME .
 f-log-at.grammarly.io IN CNAME .
 flog.pressplay.cc IN CNAME .
 f-log-test.grammarly.io IN CNAME .
+floodedpixel.com IN CNAME .
 floodprincipal.com IN CNAME .
 floorforce.actonservice.com IN CNAME .
 flotech.actonservice.com IN CNAME .
@@ -15230,6 +15235,7 @@ homecareresources.rosemarksystem.com IN CNAME .
 home.edm.globalsources.com IN CNAME .
 homehardware.actonservice.com IN CNAME .
 homelycrown.com IN CNAME .
+homelyheater.com IN CNAME .
 homeslick.com IN CNAME .
 home.usg.com IN CNAME .
 honestharbor.com IN CNAME .
@@ -43473,6 +43479,7 @@ xlog-va.byteoversea.com IN CNAME .
 xlog-va-useast2a.byteoversea.com IN CNAME .
 log-boot.capcutapi.com IN CNAME .
 log-sg.capcutapi.com IN CNAME .
+log-v2-boot.capcutapi.com IN CNAME .
 log16-normal.capcutapi.com IN CNAME .
 log16-normal-sg.capcutapi.com IN CNAME .
 log16-normal-us-ttp.capcutapi.us IN CNAME .
@@ -43480,27 +43487,37 @@ log32-normal.capcutapi.com IN CNAME .
 log32-normal-sg.capcutapi.com IN CNAME .
 mcs.capcutapi.us IN CNAME .
 mcs-normal-sg.capcutapi.com IN CNAME .
+mcs-v2-boot.capcutapi.com IN CNAME .
 mcs16-normal-us-ttp.capcutapi.us IN CNAME .
 mon.capcutapi.us IN CNAME .
 mon-boot.capcutapi.com IN CNAME .
 mon-sg.capcutapi.com IN CNAME .
+mon-v2-boot.capcutapi.com IN CNAME .
 mon16-normal-sg.capcutapi.com IN CNAME .
 mon16-normal-us-ttp.capcutapi.us IN CNAME .
 mon32-normal-sg.capcutapi.com IN CNAME .
 mssdk.capcutapi.us IN CNAME .
 mssdk-boot.capcutapi.com IN CNAME .
 mssdk-sg.capcutapi.com IN CNAME .
+mssdk-v2-boot.capcutapi.com IN CNAME .
+mssdk16-normal.capcutapi.com IN CNAME .
+mssdk16-normal-sg.capcutapi.com IN CNAME .
 mssdk16-normal-us-ttp.capcutapi.us IN CNAME .
+mssdk32-normal.capcutapi.com IN CNAME .
+mssdk32-normal-sg.capcutapi.com IN CNAME .
 pc-mon-boot.capcutapi.com IN CNAME .
 pc-mon-normal-sg.capcutapi.com IN CNAME .
+pc-mon-v2-boot.capcutapi.com IN CNAME .
 pc-mon16-normal-us-ttp.capcutapi.us IN CNAME .
 tnc-boot.capcutapi.com IN CNAME .
 tnc-sg.capcutapi.com IN CNAME .
+tnc-v2-boot.capcutapi.com IN CNAME .
 tnc-va.capcutapi.com IN CNAME .
 tnc-va-us-looki.capcutapi.com IN CNAME .
 tnc16-normal-us-ttp.capcutapi.us IN CNAME .
 mon-boot.tiktokv.com.edgekey.net IN CNAME .
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net IN CNAME .
+mon16-normal-no1a.tiktokv.eu.station IN CNAME .
 abtest-ch.snssdk.com IN CNAME .
 analytics.snssdk.com IN CNAME .
 applog.snssdk.com IN CNAME .
