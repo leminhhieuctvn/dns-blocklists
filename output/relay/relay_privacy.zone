@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1763946159    ; serial
+                                        1764032311    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4654,6 +4654,7 @@ aeotgu.asi-reisen.de IN CNAME .
 aep-target.credit-suisse.com IN CNAME .
 aepxlg.adobe.com IN CNAME .
 aerezb.nepamall.com IN CNAME .
+aerialapps.com IN CNAME .
 aeromark.actonservice.com IN CNAME .
 aesus.so-net.ne.jp IN CNAME .
 aeuati.wedio.com IN CNAME .
@@ -5364,6 +5365,7 @@ analytics.pagefly.io IN CNAME .
 analytics.palitra.ge IN CNAME .
 analytics.pangle-ads.com IN CNAME .
 analytics.partcommunity.com IN CNAME .
+analytics.passes.com IN CNAME .
 analytics.pgatour.com IN CNAME .
 analytics.pgncs.notion.so IN CNAME .
 analytics.phn.com IN CNAME .
@@ -5393,6 +5395,7 @@ analytics.pixels.ai IN CNAME .
 analytics.plasmic.app IN CNAME .
 analytics.plex.tv IN CNAME .
 analytics.plumbworld.co.uk IN CNAME .
+analyticsplusdev.clientify.net IN CNAME .
 analytics.pnc.com IN CNAME .
 analytics.pointdrive.linkedin.com IN CNAME .
 analytics.pollardwater.com IN CNAME .
@@ -8002,6 +8005,7 @@ buasmk.earthshoes.com IN CNAME .
 bubblewrapp.actonservice.com IN CNAME .
 bubblyaction.com IN CNAME .
 budibu.saksfifthavenue.com IN CNAME .
+buffet.identityservices.io IN CNAME .
 buf.lemonde.fr IN CNAME .
 bugdsm.buffalo-boots.com IN CNAME .
 bugjyl.jkattire.co.uk IN CNAME .
@@ -13432,6 +13436,7 @@ foambench.com IN CNAME .
 fog.pixual.co IN CNAME .
 fokbrd.impo.ch IN CNAME .
 followborder.com IN CNAME .
+fontserif.com IN CNAME .
 foodbrochure.advancedtech.com IN CNAME .
 foodczar.com IN CNAME .
 foodfunfestivals.com IN CNAME .
@@ -13767,6 +13772,7 @@ fzqjvw.oakandluna.com IN CNAME .
 fzu4.bysidecar.com IN CNAME .
 g10102301085.co IN CNAME .
 g10300385420.co IN CNAME .
+g10498469755.co IN CNAME .
 g11686975765.co IN CNAME .
 g11885060100.co IN CNAME .
 g1188506010.co IN CNAME .
@@ -13774,6 +13780,7 @@ g12083144435.co IN CNAME .
 g12281228770.co IN CNAME .
 g1386590346.co IN CNAME .
 g1584674682.co IN CNAME .
+g1584674683.co IN CNAME .
 g1584674684.co IN CNAME .
 g1782759015.co IN CNAME .
 g1782759016.co IN CNAME .
@@ -13784,6 +13791,7 @@ g2048.rgluk.com IN CNAME .
 g2575096355.co IN CNAME .
 g2insights-cdn.azureedge.net IN CNAME .
 g4p.redtram.com IN CNAME .
+g594253006.co IN CNAME .
 g792337340.co IN CNAME .
 g792337342.co IN CNAME .
 g792337343.co IN CNAME .
@@ -13792,6 +13800,7 @@ g8913795075.co IN CNAME .
 g9111879410.co IN CNAME .
 g9508048080.co IN CNAME .
 g9706132415.co IN CNAME .
+g9904216750.co IN CNAME .
 g990421675.co IN CNAME .
 g990421676.co IN CNAME .
 g993dvyzae.branch.salesfloor.net IN CNAME .
@@ -13863,6 +13872,7 @@ gedozw.autoscout24.cz IN CNAME .
 geekbackyard.com IN CNAME .
 gefkkw.cyberport.de IN CNAME .
 gejzgq.gehaltsvergleich.com IN CNAME .
+gemorganic.com IN CNAME .
 generaleducation.graduateprogram.org IN CNAME .
 generalprose.com IN CNAME .
 generateoffice.com IN CNAME .
@@ -21249,6 +21259,7 @@ maxclientstatapi.com IN CNAME .
 maxcruisers.com IN CNAME .
 maxepv.com IN CNAME .
 maxtat.55truck.com IN CNAME .
+maybetony.com IN CNAME .
 maz.zba.jp IN CNAME .
 mbaco.actonservice.com IN CNAME .
 mbainfo.ust.hk IN CNAME .
@@ -26053,6 +26064,7 @@ queenskart.com IN CNAME .
 query1.petametrics.com IN CNAME .
 quest.epoise.com IN CNAME .
 questintegrity.actonservice.com IN CNAME .
+questionate.com IN CNAME .
 question.snapiio.com IN CNAME .
 questions.theanswerco.com IN CNAME .
 questrominfo.bu.edu IN CNAME .
@@ -28618,6 +28630,7 @@ show.decorex.com IN CNAME .
 show.kbb.co.uk IN CNAME .
 showsteel.com IN CNAME .
 shqmetrics.sony.com IN CNAME .
+shredform.com IN CNAME .
 shredquiz.com IN CNAME .
 shrek.6.cn IN CNAME .
 shrewsburyshow.com IN CNAME .
@@ -34855,6 +34868,7 @@ tag.elevaate.io IN CNAME .
 tag.flagship.io IN CNAME .
 tagger.opecloud.com IN CNAME .
 tagger.ope.scmp.com IN CNAME .
+tag.getamigo.io IN CNAME .
 tagging.shiftdigitalapps.io IN CNAME .
 tagging.sliponline.nl IN CNAME .
 tagging.steelseries.com IN CNAME .
@@ -40320,6 +40334,7 @@ webanalytics.logitech.com IN CNAME .
 webanalytics.logitech.com.cn IN CNAME .
 webanalytics.logitechg.com IN CNAME .
 webanalytics.logitechg.com.cn IN CNAME .
+web.analytics.metrobyt-mobile.com IN CNAME .
 webanalytics.proff.no IN CNAME .
 webanalyticsssl.websense.com IN CNAME .
 webapi.3cx.com IN CNAME .
