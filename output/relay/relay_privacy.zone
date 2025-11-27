@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1764118774    ; serial
+                                        1764205102    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4879,6 +4879,7 @@ alltypo.com IN CNAME .
 alluringbucket.com IN CNAME .
 allvideometrika.com IN CNAME .
 almalasers.actonservice.com IN CNAME .
+almondbuns.com IN CNAME .
 almostsugar.com IN CNAME .
 al.mtrx.dev IN CNAME .
 al.mtrxs.dev IN CNAME .
@@ -11306,6 +11307,7 @@ dm-target.thermofisher.com IN CNAME .
 dmtgo.upc.biz IN CNAME .
 dmuwlm.fonteynspas.com IN CNAME .
 dmvbpz.swimoutlet.com IN CNAME .
+dmw2pzbenclyd.cloudfront.net IN CNAME .
 dmxhgf4zuwdvu.cloudfront.net IN CNAME .
 dn34cbtcv9mef.cloudfront.net IN CNAME .
 d.nativendo.de IN CNAME .
@@ -23419,6 +23421,7 @@ motista.actonservice.com IN CNAME .
 motm.adp.ca IN CNAME .
 motorsports.locktonaffinity.net IN CNAME .
 motu-teamblue.services IN CNAME .
+mountedbattery.com IN CNAME .
 mousebusters.odencat.com IN CNAME .
 move.azets.com IN CNAME .
 move.azets.dk IN CNAME .
@@ -24072,6 +24075,7 @@ nudgeduck.com IN CNAME .
 nu.esri.nl IN CNAME .
 nukktn.dorko.hu IN CNAME .
 nullnorth.com IN CNAME .
+nullradar.com IN CNAME .
 numbers.monthlyphotos.com IN CNAME .
 numerousnest.com IN CNAME .
 nums.upscale.app IN CNAME .
@@ -24634,6 +24638,7 @@ organiccdn.io IN CNAME .
 organizations.stratfor.com IN CNAME .
 orhdev.com IN CNAME .
 orientedargument.com IN CNAME .
+originblocks.com IN CNAME .
 origin-smetrics.go365.com IN CNAME .
 origin-target.humana.com IN CNAME .
 origin.www.images.2.forms.healthcare.philips.com IN CNAME .
@@ -28746,6 +28751,7 @@ siusmv.coraltravel.pl IN CNAME .
 six9e.canal.fr IN CNAME .
 sixauthority.com IN CNAME .
 sixpants.com IN CNAME .
+sixquickrun.com IN CNAME .
 sixscissors.com IN CNAME .
 sizcsi.eobuv.cz IN CNAME .
 sizybn.shipsltd.co.jp IN CNAME .
