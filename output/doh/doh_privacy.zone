@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1764551393    ; serial
+                                        1764637187    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -12731,6 +12731,7 @@ esqjac.costakreuzfahrten.de IN CNAME .
 esqxrp.bonprix-fl.be IN CNAME .
 esri.nl.actonservice.com IN CNAME .
 es-sa.siemensplmevents.com IN CNAME .
+essaygiants.com IN CNAME .
 essayspin.com IN CNAME .
 es.sharpmarketing.eu IN CNAME .
 essmnx.edreams.ch IN CNAME .
@@ -13308,6 +13309,7 @@ fiber.zayo.com IN CNAME .
 fiduciaryfirst.actonservice.com IN CNAME .
 fieldconfig.com IN CNAME .
 fight.offtherecord.com IN CNAME .
+figsprotein.com IN CNAME .
 fiimox.lebenskraftpur.de IN CNAME .
 filament-stats.herokuapp.com IN CNAME .
 filbrandtco.actonservice.com IN CNAME .
@@ -14821,6 +14823,7 @@ gravitykick.com IN CNAME .
 graylog.prod.cams.run IN CNAME .
 grayoranges.com IN CNAME .
 grayreceipt.com IN CNAME .
+grayscaleart.com IN CNAME .
 gr-business.vodafone.com IN CNAME .
 grc2.secureforms.mcafee.com IN CNAME .
 grc.openapp.link IN CNAME .
@@ -24543,6 +24546,7 @@ onlineshop.ricoh.no IN CNAME .
 onlineshop.ricoh.pl IN CNAME .
 online.siteboosters.de IN CNAME .
 online.spsglobal.com IN CNAME .
+onlinestarten.net IN CNAME .
 onlinevacationcenter.actonservice.com IN CNAME .
 onlywoofs.com IN CNAME .
 onmlkjiion.carte-gr.total.fr IN CNAME .
@@ -24639,6 +24643,7 @@ ordpmx.victorianplumbing.co.uk IN CNAME .
 oregonstate.actonservice.com IN CNAME .
 organiccdn.io IN CNAME .
 organizations.stratfor.com IN CNAME .
+orgbackups.com IN CNAME .
 orhdev.com IN CNAME .
 orientedargument.com IN CNAME .
 originblocks.com IN CNAME .
@@ -27710,6 +27715,7 @@ seahorseinfo.agilent.com IN CNAME .
 sealingdev.actonservice.com IN CNAME .
 sealtravels.com IN CNAME .
 seamarketny.actonservice.com IN CNAME .
+seamlesssalon.com IN CNAME .
 seao.business.samsung.com IN CNAME .
 search.anonymous.ads.brave.com IN CNAME .
 seatsmoke.com IN CNAME .
@@ -28806,6 +28812,7 @@ s.leolabs.org IN CNAME .
 slewvr.gp.se IN CNAME .
 s.lexusfinancial.com IN CNAME .
 slickcontent.com IN CNAME .
+slimesupplies.net IN CNAME .
 slinksuggestion.com IN CNAME .
 slipstream.skyscanner.net IN CNAME .
 s.logsss.com IN CNAME .
@@ -33237,7 +33244,6 @@ stat.funshion.net IN CNAME .
 stat.glaze.ai IN CNAME .
 stat.gomastercard.com.au IN CNAME .
 stat.guiasjuridicas.es IN CNAME .
-stat.i3.dmm.com IN CNAME .
 static.fengkongcloud.com IN CNAME .
 static.osalta.eu IN CNAME .
 static-tracking.klaviyo.com IN CNAME .
@@ -40771,6 +40777,7 @@ worriedwine.com IN CNAME .
 wotasia2.login.wargaming.net.iberostar.com IN CNAME .
 wotasia3.login.wargaming.net.iberostar.com IN CNAME .
 woutkw.type.jp IN CNAME .
+wowfunnow.com IN CNAME .
 wowrdm.stepstone.at IN CNAME .
 wozdcc.vidaxl.at IN CNAME .
 wpauvu.obuvki.bg IN CNAME .
