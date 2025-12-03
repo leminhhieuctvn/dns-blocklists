@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1764637187    ; serial
+                                        1764723628    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -43964,6 +43964,7 @@ vhs.wwstat.com.ctdns.cn IN CNAME .
 trackercollect.ddxq.mobi IN CNAME .
 trackerfeed.ddxq.mobi IN CNAME .
 vhs.wwstat.com.eo.dnse0.com IN CNAME .
+ads-api.vivo.com IN CNAME .
 asia-abeacdataonrt-stsdk.vivoglobal.com IN CNAME .
 asia-abeacdataort-stsdk.vivoglobal.com IN CNAME .
 asia-ad-mkt-vivofs.vivoglobal.com IN CNAME .
@@ -44178,6 +44179,7 @@ tr-weather.vivoglobal.com IN CNAME .
 err.up.vivoglobal.com IN CNAME .
 xn-ex-adreq-asa-c5b.vivoglobal.com IN CNAME .
 zasc-cota.vivoglobal.com IN CNAME .
+zasc-vcode-od.vivoglobal.com IN CNAME .
 h4g3z1-native.vivo.web.app IN CNAME .
 vhs.wwstat.com IN CNAME .
 alphonso.tv IN CNAME .
