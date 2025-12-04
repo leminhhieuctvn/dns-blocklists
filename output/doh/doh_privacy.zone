@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1764723628    ; serial
+                                        1764809979    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -6718,6 +6718,7 @@ archiv.promatis.de IN CNAME .
 arch.net.jumia.ug IN CNAME .
 arch.onjoyri.de IN CNAME .
 archswimming.com IN CNAME .
+arclet.net IN CNAME .
 a.redbrickhealth.com IN CNAME .
 a.replaytheseries.com IN CNAME .
 a-reporting.nytimes.com IN CNAME .
@@ -8232,6 +8233,7 @@ capablecup.com IN CNAME .
 capping.sirius.press IN CNAME .
 capplanllc.actonservice.com IN CNAME .
 capriciouscorn.com IN CNAME .
+captainstick.com IN CNAME .
 captivatingcanyon.com IN CNAME .
 captivatingillusion.com IN CNAME .
 captivatingpanorama.com IN CNAME .
@@ -12733,6 +12735,7 @@ esri.nl.actonservice.com IN CNAME .
 es-sa.siemensplmevents.com IN CNAME .
 essaygiants.com IN CNAME .
 essayspin.com IN CNAME .
+essential-apps-analytics.herokuapp.com IN CNAME .
 es.sharpmarketing.eu IN CNAME .
 essmnx.edreams.ch IN CNAME .
 estadisticas.lanacion.com.ar IN CNAME .
@@ -14709,6 +14712,7 @@ go.thegrocer.co.uk IN CNAME .
 go.ticketbiz.se IN CNAME .
 go.tigertool.com IN CNAME .
 go.tinder.com IN CNAME .
+gotlunched.com IN CNAME .
 go.tm4.com IN CNAME .
 go.tmacteex.org IN CNAME .
 gotoaws.dresslily.com IN CNAME .
@@ -24774,6 +24778,7 @@ o.webmd.com IN CNAME .
 owen.prolitteris.ch IN CNAME .
 owlreporter.com IN CNAME .
 owlsr.us IN CNAME .
+owlstwo.com IN CNAME .
 owp-sg-prop.americanexpress.com IN CNAME .
 owp-tw.americanexpress.com IN CNAME .
 owpysc.lampenundleuchten.at IN CNAME .
@@ -25228,6 +25233,7 @@ pixel.newscred.com IN CNAME .
 pixel.nine.com.au IN CNAME .
 pixel.patch.com IN CNAME .
 pixel.poptok.com IN CNAME .
+pixel.propublica.org IN CNAME .
 pixel.pub.lilyai.net IN CNAME .
 pixel.redgifs.com IN CNAME .
 pixel.roymorgan.com IN CNAME .
@@ -34345,6 +34351,7 @@ stocktheme.com IN CNAME .
 stomachscience.com IN CNAME .
 stonechin.com IN CNAME .
 st.onemazdausa.com IN CNAME .
+stonepole.com IN CNAME .
 stopstomach.com IN CNAME .
 s.topya.com IN CNAME .
 storage.lulu-row1.com IN CNAME .
