@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1765674377    ; serial
+                                        1765760736    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -43402,6 +43402,7 @@ ads-bdapi-th.heytapmobile.com IN CNAME .
 ads-bdapi-vn.heytapmobile.com IN CNAME .
 adx-ads-fr.heytapmobile.com IN CNAME .
 adx-ads-ru.heytapmobile.com IN CNAME .
+bdapi-ads-sg.heytapmobile.com IN CNAME .
 cloudi-in.browser.heytapmobile.com IN CNAME .
 cloudi-sg.browser.heytapmobile.com IN CNAME .
 cloudi-th.browser.heytapmobile.com IN CNAME .
@@ -43433,6 +43434,8 @@ browserfiles.heytapmobile.com IN CNAME .
 api-gl.cdo.heytapmobile.com IN CNAME .
 api-id.cdo.heytapmobile.com IN CNAME .
 api-in.cdo.heytapmobile.com IN CNAME .
+cldata-ads-fr.heytapmobile.com IN CNAME .
+cldata-ads-ru.heytapmobile.com IN CNAME .
 conf-in-dc.heytapmobile.com IN CNAME .
 u-id.cpc.heytapmobile.com IN CNAME .
 dc.heytapmobile.com IN CNAME .
@@ -43474,6 +43477,8 @@ push-dc-us.heytapmobile.com IN CNAME .
 bsf.sc.heytapmobile.com IN CNAME .
 slb-apisnd-in.heytapmobile.com IN CNAME .
 sms-ads-in.heytapmobile.com IN CNAME .
+sms-ads-ru.heytapmobile.com IN CNAME .
+stgdata-ads-fr.heytapmobile.com IN CNAME .
 api-id.theme.heytapmobile.com IN CNAME .
 report-eu.uc.heytapmobile.com IN CNAME .
 report-in.uc.heytapmobile.com IN CNAME .
