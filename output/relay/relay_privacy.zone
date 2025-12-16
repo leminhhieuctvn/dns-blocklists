@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1765760736    ; serial
+                                        1765846966    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -3849,7 +3849,6 @@ aa-metrics.salonboard.com IN CNAME .
 aa-metrics.s-lms.net IN CNAME .
 aa-metrics.tabroom.jp IN CNAME .
 aa-metrics.trip-ai.jp IN CNAME .
-aamt.msnbc.com IN CNAME .
 aamt.nbcnews.com IN CNAME .
 aamt.newsapp.telemundo.com IN CNAME .
 aamt.today.com IN CNAME .
@@ -4857,6 +4856,7 @@ ali8.alinea.fr IN CNAME .
 aliasanvil.com IN CNAME .
 alias.cloud-marketing.dimensiondata.com IN CNAME .
 alibabapizza.openapp.link IN CNAME .
+alib.nine.com.au IN CNAME .
 alicat.actonservice.com IN CNAME .
 a.lifehacker.ru IN CNAME .
 alikeaddition.com IN CNAME .
@@ -5131,6 +5131,7 @@ analytics.codeskulptor.org IN CNAME .
 analytics.codigo.se IN CNAME .
 analytics.cognyte.com IN CNAME .
 analytics-coletor-site.ojc.com.br IN CNAME .
+analytics-collect.karakuri.ai IN CNAME .
 analytics.combatefreestyle.com IN CNAME .
 analytics.competitoor.com IN CNAME .
 analytics.conad.it IN CNAME .
@@ -5215,6 +5216,7 @@ analytics.genial.ly IN CNAME .
 analytics.geoutletstore.com IN CNAME .
 analytics.gestore.com IN CNAME .
 analytics.getshogun.com IN CNAME .
+analytics.getsnworks.com IN CNAME .
 analytics.gewaterheater.com IN CNAME .
 analytics.glance.inmobi.com IN CNAME .
 analytics.global.sky.com IN CNAME .
@@ -9400,6 +9402,7 @@ coop.vmware.com IN CNAME .
 coordinatedcoat.com IN CNAME .
 cooyxg.tennis-point.de IN CNAME .
 copilot-telemetry.githubusercontent.com IN CNAME .
+copperstills.net IN CNAME .
 copycarpenter.com IN CNAME .
 copyfranchise.com IN CNAME .
 copyrightaccesscontrols.com IN CNAME .
@@ -9499,6 +9502,7 @@ count.yandeg.ru IN CNAME .
 courageousbaby.com IN CNAME .
 covenant.psjhealth.org IN CNAME .
 coverlayer.com IN CNAME .
+cowbelltime.com IN CNAME .
 cowhmc.docmorris.de IN CNAME .
 coyizl.embracon.com.br IN CNAME .
 cozydusk.com IN CNAME .
@@ -11929,6 +11933,7 @@ eicyds.qoo10.jp IN CNAME .
 eifeou.pandahall.com IN CNAME .
 eiftfa.fashionette.de IN CNAME .
 eightgreens.com IN CNAME .
+eighthlayer.net IN CNAME .
 eikwax.marmot.com IN CNAME .
 eimcqw.dickies.com IN CNAME .
 e-img.hover.to IN CNAME .
@@ -12706,6 +12711,7 @@ era.easyvoyage.com IN CNAME .
 erb.tremblant.ca IN CNAME .
 e.replacementdevicelawsuit.com IN CNAME .
 erepublic.actonservice.com IN CNAME .
+e.revenue.cat IN CNAME .
 ergrbp.hobidunya.com IN CNAME .
 ermiph.petermanningnyc.com IN CNAME .
 eroar.lionsclubs.org IN CNAME .
@@ -15115,6 +15121,7 @@ hesprh.sony.jp IN CNAME .
 heuida.shopafrm.com IN CNAME .
 hevqaz.submarino.com.br IN CNAME .
 heyaxr.fashiondays.bg IN CNAME .
+heycomputers.com IN CNAME .
 hfc195b.com IN CNAME .
 hf.forevernetworks.com IN CNAME .
 hfmogh.piatradesign.ro IN CNAME .
@@ -15461,6 +15468,7 @@ iconmediapixel.com IN CNAME .
 iconnode.com IN CNAME .
 icslearn.actonsoftware.com IN CNAME .
 ictrjw.barcastores.com IN CNAME .
+icywinter.com IN CNAME .
 id.a-mx.com IN CNAME .
 idbkfy.kango-roo.com IN CNAME .
 iddu1vvb7sk8-a.akamaihd.net IN CNAME .
@@ -19612,6 +19620,7 @@ maddeningpowder.com IN CNAME .
 madebyintent.com IN CNAME .
 madisoncres.actonservice.com IN CNAME .
 madlysuccessful.com IN CNAME .
+madoverrice.com IN CNAME .
 madrid.report.botm.transparentedge.io IN CNAME .
 m.aecrimecentral.com IN CNAME .
 maeketing.net.gafas.es IN CNAME .
@@ -36619,6 +36628,8 @@ tracking.care.salinasvalleyhealth.com IN CNAME .
 tracking.carsales.com.au IN CNAME .
 tracking.cat898.com IN CNAME .
 tracking.cdiscount.com IN CNAME .
+tracking.cds.dmm.co.jp IN CNAME .
+tracking.cds.dmm.com IN CNAME .
 tracking.cello-square.com IN CNAME .
 tracking.cengage.com IN CNAME .
 tracking.cenomicenters.com IN CNAME .
@@ -39907,6 +39918,7 @@ vanishmemory.com IN CNAME .
 vapxga.sieh-an.de IN CNAME .
 varys.asongofzandc.xyz IN CNAME .
 vatrack.hinet.net IN CNAME .
+vault.gostatera.com IN CNAME .
 vazulp.graniph.com IN CNAME .
 vbe.voyage-prive.be IN CNAME .
 vbkryy.pasonacareer.jp IN CNAME .
@@ -40695,6 +40707,7 @@ whispermeeting.com IN CNAME .
 whitepapers.blackboard.com IN CNAME .
 whitepapers.rockwellautomation.com IN CNAME .
 whoami.akamai.net.iberostar.com IN CNAME .
+wholepagecache.com IN CNAME .
 whoogled.com IN CNAME .
 whqkyq.leasingmarkt.de IN CNAME .
 whwiab.pamono.it IN CNAME .
