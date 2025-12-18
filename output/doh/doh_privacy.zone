@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1765933020    ; serial
+                                        1766019507    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -3860,6 +3860,7 @@ aans.athome.com IN CNAME .
 aa.pacificdentalservices.com IN CNAME .
 aa.paramountplus.com IN CNAME .
 a-api.skz.dev IN CNAME .
+a.apkeditor.io IN CNAME .
 aa.popculture.com IN CNAME .
 aa.poptv.com IN CNAME .
 aa.postbank.de IN CNAME .
@@ -4876,6 +4877,7 @@ allreach.actonservice.com IN CNAME .
 allrisks.actonservice.com IN CNAME .
 a.lls.org IN CNAME .
 allstarfg.actonservice.com IN CNAME .
+allsunflowers.com IN CNAME .
 alltypo.com IN CNAME .
 alluringbucket.com IN CNAME .
 allvideometrika.com IN CNAME .
@@ -7575,6 +7577,7 @@ blog.b2lead.com IN CNAME .
 blog.myomnipod.com IN CNAME .
 blog.tagcentral.fr IN CNAME .
 blog.trinityconsultants.com IN CNAME .
+bloomsend.com IN CNAME .
 blsoof.wirwinzer.de IN CNAME .
 bl-test.curatedplanet.com IN CNAME .
 bluebusiness.actonservice.com IN CNAME .
@@ -15020,6 +15023,7 @@ hauhws.asgoodasnew.de IN CNAME .
 hauixd.halistores.com IN CNAME .
 hauzdj.quellogiusto.it IN CNAME .
 haxdym.min-breeder.com IN CNAME .
+hayweb.net IN CNAME .
 hazawl.veke.fi IN CNAME .
 hazmatworkshop.com IN CNAME .
 hbaazk.bukalapak.com IN CNAME .
@@ -15145,6 +15149,7 @@ highfalutinbox.com IN CNAME .
 highfalutinhoney.com IN CNAME .
 highlights-schadenmanager.schwacke.de IN CNAME .
 highlights-schwackenet.schwacke.de IN CNAME .
+highnoongear.com IN CNAME .
 hightouch-events.com IN CNAME .
 highway.cablecar.sph.com.sg IN CNAME .
 hi.hellobar.com IN CNAME .
@@ -17611,6 +17616,7 @@ jubileo-ppb.carte-gr.total.fr IN CNAME .
 jufhxk.audienhearing.com IN CNAME .
 juicebard.com IN CNAME .
 juiceblocks.com IN CNAME .
+juicingoasis.com IN CNAME .
 jujtcq.amnibus.com IN CNAME .
 jumbo.zomato.com IN CNAME .
 jumpstartinc.actonservice.com IN CNAME .
@@ -23530,6 +23536,7 @@ msub.mmail.northeast.aaa.com IN CNAME .
 m.suda.io IN CNAME .
 msufcu.actonservice.com IN CNAME .
 ms.vk.com IN CNAME .
+ms.vk.ru IN CNAME .
 msz3.destinia.cn IN CNAME .
 mt48.net IN CNAME .
 mtag.mman.kr IN CNAME .
@@ -26429,6 +26436,7 @@ renaultbankdirekt.efscle.com IN CNAME .
 rentinfinity.com IN CNAME .
 renting.aldautomotive.es IN CNAME .
 rent.mgrc.com IN CNAME .
+rentpenny.com IN CNAME .
 repdata.12newsnow.com IN CNAME .
 repdata.9news.com IN CNAME .
 repdata.app.com IN CNAME .
@@ -40092,6 +40100,7 @@ visualscience.external.bbc.co.uk IN CNAME .
 vitalimages.actonservice.com IN CNAME .
 vitalmedia.actonservice.com IN CNAME .
 vitals.cgddrd.me IN CNAME .
+vitals.flyingpress.com IN CNAME .
 viu.actonservice.com IN CNAME .
 viu.viubyhub.com IN CNAME .
 vividcanopy.com IN CNAME .
