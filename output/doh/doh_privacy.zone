@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1766365474    ; serial
+                                        1766451691    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -9726,6 +9726,7 @@ cumbersomecarpenter.com IN CNAME .
 cupcakegem.com IN CNAME .
 cups.republicoftea.com IN CNAME .
 curated.fieldtest.cc IN CNAME .
+curatedtea.com IN CNAME .
 curbminers.com IN CNAME .
 curbneon.com IN CNAME .
 cure.trueface.org IN CNAME .
@@ -11454,6 +11455,7 @@ driver.dctaxi.com IN CNAME .
 driver.jugnoo.in IN CNAME .
 drive.seagate.com IN CNAME .
 drive.waitrapp.com IN CNAME .
+droidwiz.com IN CNAME .
 drollwharf.com IN CNAME .
 d.rp-online.de IN CNAME .
 drugtest.questdiagnostics.com IN CNAME .
@@ -11649,6 +11651,7 @@ ea.rentacar.fr IN CNAME .
 ea.reunica.com IN CNAME .
 earnbaht.com IN CNAME .
 ea.roxy.eu IN CNAME .
+earthlybuzz.com IN CNAME .
 earthups.com IN CNAME .
 ea.sadyr.es IN CNAME .
 ea.smallable.com IN CNAME .
@@ -13283,6 +13286,7 @@ febcyv.joshi-spa.jp IN CNAME .
 fedexfield.redskins.com IN CNAME .
 fedsched.actonservice.com IN CNAME .
 feeblestamp.com IN CNAME .
+feedandpurr.com IN CNAME .
 feedback.aon.com IN CNAME .
 feedback.avigilon.com IN CNAME .
 feedback.campbellmetal.com IN CNAME .
@@ -13426,6 +13430,7 @@ flourishingcollaboration.com IN CNAME .
 flourishingendeavor.com IN CNAME .
 flourishinginnovation.com IN CNAME .
 flourishingpartnership.com IN CNAME .
+flowersonthebay.com IN CNAME .
 flowersornament.com IN CNAME .
 flowerstreatment.com IN CNAME .
 flowerycreature.com IN CNAME .
@@ -13463,6 +13468,7 @@ fnvma.milanuncios.com IN CNAME .
 foambench.com IN CNAME .
 fog.pixual.co IN CNAME .
 fokbrd.impo.ch IN CNAME .
+folderplan.com IN CNAME .
 followborder.com IN CNAME .
 fontserif.com IN CNAME .
 foodbrochure.advancedtech.com IN CNAME .
@@ -37461,6 +37467,7 @@ tr.asp207e.espmp-nifr.net IN CNAME .
 tr.asp207f.espmp-cufr.net IN CNAME .
 tr.asp2.espmp-agfr.net IN CNAME .
 tr.assoc.cfsr-retine.com IN CNAME .
+tr.attribuly.com IN CNAME .
 travel.caradonna.com IN CNAME .
 travel.cruisesforless.com IN CNAME .
 travel.ec-ovc.com IN CNAME .
@@ -43623,8 +43630,10 @@ tnc-v2-boot.capcutapi.com IN CNAME .
 tnc-va.capcutapi.com IN CNAME .
 tnc-va-us-looki.capcutapi.com IN CNAME .
 tnc16-normal-us-ttp.capcutapi.us IN CNAME .
+frontier.capcutw.us IN CNAME .
 mon-boot.tiktokv.com.edgekey.net IN CNAME .
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net IN CNAME .
+frontier.capcutw.us.edgesuite.net IN CNAME .
 abtest-ch.snssdk.com IN CNAME .
 analytics.snssdk.com IN CNAME .
 applog.snssdk.com IN CNAME .
