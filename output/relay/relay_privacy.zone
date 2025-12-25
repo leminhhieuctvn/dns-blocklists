@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1766538132    ; serial
+                                        1766624525    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -6333,7 +6333,6 @@ app.mycirclecare.com IN CNAME .
 app.mylogoinc.com IN CNAME .
 app.myrbhs.com.au IN CNAME .
 app.mywaggle.com IN CNAME .
-app.naga.com IN CNAME .
 app.naked.insure IN CNAME .
 app.nala.money IN CNAME .
 app.nalogi.online IN CNAME .
@@ -7394,7 +7393,6 @@ beewhispering.com IN CNAME .
 beginnerpancake.com IN CNAME .
 be-go.experian.com IN CNAME .
 behave.sn.at IN CNAME .
-belgium.wolterskluwer.com IN CNAME .
 belong.curtin.edu.au IN CNAME .
 beneficios.davivienda.hn IN CNAME .
 beneficios.davivienda.sv IN CNAME .
@@ -8239,6 +8237,7 @@ cannonchange.com IN CNAME .
 canvasandsocks.com IN CNAME .
 caowuq.babyliss-romania.ro IN CNAME .
 capablecup.com IN CNAME .
+capi.connatix.com IN CNAME .
 capping.sirius.press IN CNAME .
 capplanllc.actonservice.com IN CNAME .
 capriciouscorn.com IN CNAME .
@@ -9629,6 +9628,7 @@ csghyg.reginaclinic.jp IN CNAME .
 cs.hot.net.il IN CNAME .
 c.sibnet.ru IN CNAME .
 csi.gstatic.com IN CNAME .
+cs.media.net IN CNAME .
 csmetrics.wilton.com IN CNAME .
 csm.magnetintell.com IN CNAME .
 cs.nakanohito.jp IN CNAME .
@@ -13551,10 +13551,13 @@ forms.xtralis.com IN CNAME .
 form.vocalink.com IN CNAME .
 forpci3.siege-corp.com IN CNAME .
 fortunatemark.com IN CNAME .
+forwardslashetc.com IN CNAME .
+fossilzero.com IN CNAME .
 fourier.taobao.com IN CNAME .
 fourmtagservices.appspot.com IN CNAME .
 fourpawsahead.com IN CNAME .
 fourtimessmelly.com IN CNAME .
+foxlagoon.com IN CNAME .
 foxt.actonservice.com IN CNAME .
 foxtinfo.foxt.com IN CNAME .
 foxtrotdata.com IN CNAME .
@@ -14853,6 +14856,7 @@ graylog.prod.cams.run IN CNAME .
 grayoranges.com IN CNAME .
 grayreceipt.com IN CNAME .
 grayscaleart.com IN CNAME .
+graywords.net IN CNAME .
 gr-business.vodafone.com IN CNAME .
 grc2.secureforms.mcafee.com IN CNAME .
 grc.openapp.link IN CNAME .
@@ -19469,7 +19473,6 @@ lqsowt.mona-mode.fr IN CNAME .
 lqvfkk.sosyopix.com IN CNAME .
 lqxjrk.fbs.com IN CNAME .
 lravwm.spa.cz IN CNAME .
-lrbelgium.wolterskluwer.com IN CNAME .
 lrdnuu.shopee.co.th IN CNAME .
 lrdxki.hakutou-shop.com IN CNAME .
 l.redcross.or.ke IN CNAME .
@@ -38944,7 +38947,6 @@ trx-cdn.zip.co IN CNAME .
 tr.xlead.digital IN CNAME .
 tr.xleads.digital IN CNAME .
 trx.zip.co IN CNAME .
-try.abtasty.com IN CNAME .
 try.blackboard.com IN CNAME .
 try.jaranda.kr IN CNAME .
 try.joonapp.io IN CNAME .
