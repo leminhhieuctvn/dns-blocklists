@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1766624483    ; serial
+                                        1766710915    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -3539,7 +3539,6 @@ cupido.no IN CNAME .
 curbate.tv IN CNAME .
 curiowhisper.com IN CNAME .
 curitibaacompanhantes.com IN CNAME .
-curse.com IN CNAME .
 curvemag.com IN CNAME .
 curvette.ro IN CNAME .
 curvyerotic.com IN CNAME .
@@ -6280,7 +6279,6 @@ godreports.com IN CNAME .
 godzillaporno.com IN CNAME .
 goefast.com IN CNAME .
 gofile.download IN CNAME .
-gofile.io IN CNAME .
 gofucker.com IN CNAME .
 gofucker.net IN CNAME .
 gofuckporn.com IN CNAME .
@@ -13205,7 +13203,6 @@ queerclick.com IN CNAME .
 queerdiary.com IN CNAME .
 queermenow.net IN CNAME .
 quickflirt.com IN CNAME .
-quickmeme.com IN CNAME .
 quienhabla.mx IN CNAME .
 quizilla.com IN CNAME .
 qwbabes.com IN CNAME .
@@ -17261,7 +17258,6 @@ woodmancastingx.com IN CNAME .
 woodmanforum.com IN CNAME .
 woor.pl IN CNAME .
 woosex.net IN CNAME .
-wordlys.com IN CNAME .
 workescort.ru IN CNAME .
 world-escort-guide.com IN CNAME .
 worldalltv.com IN CNAME .
