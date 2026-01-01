@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1767143048    ; serial
+                                        1767229762    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5770,6 +5770,7 @@ api.ryanyao.design IN CNAME .
 apis.4bn.xyz IN CNAME .
 api.sae.systems IN CNAME .
 apisensor.actonservice.com IN CNAME .
+apitiny.net IN CNAME .
 api-visitor-analytics.intercom.com IN CNAME .
 api-websystems.landing.ni.com IN CNAME .
 api.wipmania.com IN CNAME .
@@ -9409,6 +9410,7 @@ cookiex.ngd.yahoo.com IN CNAME .
 cooking-app.lkk.com IN CNAME .
 coolestcatcare.com IN CNAME .
 coolguesthouse.com IN CNAME .
+coolkidsdistrict.com IN CNAME .
 coop.vmware.com IN CNAME .
 coordinatedcoat.com IN CNAME .
 cooyxg.tennis-point.de IN CNAME .
@@ -11292,7 +11294,6 @@ dls.guidrr.com IN CNAME .
 dl.shopwell.com IN CNAME .
 dl-stage.6tst.com IN CNAME .
 dl-stage.zola.com IN CNAME .
-dlswbr.baidu.com IN CNAME .
 dl.tablelist.com IN CNAME .
 dl-test.4buy.net IN CNAME .
 dl-test.boutiqat.com IN CNAME .
@@ -19338,6 +19339,7 @@ loveseashore.com IN CNAME .
 love.vidora.su IN CNAME .
 lowercases.com IN CNAME .
 lowermybills.actonsoftware.com IN CNAME .
+lowerthewatts.net IN CNAME .
 lowgxl.yokumoku.jp IN CNAME .
 lozano.net.anwalt.de IN CNAME .
 lozjnq.stateandliberty.com IN CNAME .
@@ -19550,6 +19552,7 @@ luaqlg.blissy.com IN CNAME .
 lub-links.eyecue.io IN CNAME .
 lucanet.actonservice.com IN CNAME .
 lucid.mjhassoc.com IN CNAME .
+luckyshelf.com IN CNAME .
 ludicrousarch.com IN CNAME .
 luegnh.sneakercage.gr IN CNAME .
 lujaqg.e-blooming.com IN CNAME .
@@ -19565,6 +19568,7 @@ lumpygnome.com IN CNAME .
 lumpylumber.com IN CNAME .
 lumpywood.com IN CNAME .
 lumtjt.plumbingonline.ca IN CNAME .
+lunarcave.com IN CNAME .
 lunchroomlock.com IN CNAME .
 l.unfy.ai IN CNAME .
 luptbq.lampsplus.com IN CNAME .
@@ -19655,6 +19659,7 @@ maddeningpowder.com IN CNAME .
 madebyintent.com IN CNAME .
 madisoncres.actonservice.com IN CNAME .
 madlysuccessful.com IN CNAME .
+madnessbuzz.com IN CNAME .
 madoverrice.com IN CNAME .
 madrid.report.botm.transparentedge.io IN CNAME .
 m.aecrimecentral.com IN CNAME .
@@ -23212,7 +23217,6 @@ mholland.net.anwalt.de IN CNAME .
 mhrkxi.thetrybe.com.au IN CNAME .
 mhwbhn.tohapi.fr IN CNAME .
 mhz-design.actonservice.com IN CNAME .
-miao.baidu.com IN CNAME .
 michiganrobotflower.com IN CNAME .
 microfocus.qm-g.com IN CNAME .
 microlearning.att.com IN CNAME .
@@ -23649,6 +23653,7 @@ mx.information.maileva.com IN CNAME .
 mxmwqo.biosante.com.br IN CNAME .
 mx.mywd.com IN CNAME .
 mxpdsu.bhv.fr IN CNAME .
+mxradon.com IN CNAME .
 mxsvjc.hackers.ac IN CNAME .
 my8yyx7wcyyt.dev.monumentmetals-pwa.stgin.com IN CNAME .
 mya.actonservice.com IN CNAME .
@@ -25307,6 +25312,7 @@ pixel.tuko.co.ke IN CNAME .
 pixelvariety.com IN CNAME .
 pixel.veritone-ce.com IN CNAME .
 pixel.videohub.tv IN CNAME .
+pixel.visitiq.io IN CNAME .
 pixel.wetracked.io IN CNAME .
 pixel.wp.com IN CNAME .
 pixel.wp.pl IN CNAME .
@@ -32444,6 +32450,7 @@ spaces.martela.se IN CNAME .
 spain.thomsonreuters.com IN CNAME .
 spam.carte-gr.total.fr IN CNAME .
 spamtitan.actonservice.com IN CNAME .
+spaning.creavite.co IN CNAME .
 sp-app.fixly.pl IN CNAME .
 spareapp.com IN CNAME .
 sparkgoal.com IN CNAME .
