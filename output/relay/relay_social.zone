@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1767229763    ; serial
+                                        1767315845    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
