@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1767402012    ; serial
+                                        1767488985    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -48232,7 +48232,6 @@ flow.sec.miui.com IN CNAME .
 gamebox.sec.miui.com IN CNAME .
 srv.greenguard.sec.miui.com IN CNAME .
 app.greengurad.sec.miui.com IN CNAME .
-info.analysis.kp.sec.miui.com IN CNAME .
 mazu.sec.miui.com IN CNAME .
 nav.sec.miui.com IN CNAME .
 p.sec.miui.com IN CNAME .
