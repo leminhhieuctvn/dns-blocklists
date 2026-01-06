@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1767575263    ; serial
+                                        1767661396    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -14886,6 +14886,7 @@ grn.openapp.link IN CNAME .
 grocerycrew.com IN CNAME .
 grocerydog.com IN CNAME .
 grofag.hollandandbarrett.ie IN CNAME .
+groovespacing.com IN CNAME .
 groovyornament.com IN CNAME .
 grouchybrothers.com IN CNAME .
 grouchypush.com IN CNAME .
@@ -22547,6 +22548,7 @@ metrics.monclick.it IN CNAME .
 metrics.moneta.cz IN CNAME .
 metrics.moodys.com IN CNAME .
 metrics.moosejaw.com IN CNAME .
+metrics.morethings.digital IN CNAME .
 metrics.morganshotelgroup.com IN CNAME .
 metrics.morganstanley.com IN CNAME .
 metrics.morningadvertiser.co.uk IN CNAME .
@@ -23469,6 +23471,7 @@ mon.zijieapi.com IN CNAME .
 moodlerooms.blackboard.com IN CNAME .
 mooncrustpizza.com IN CNAME .
 moorshoes.com IN CNAME .
+morefolks.com IN CNAME .
 morefriendly.com IN CNAME .
 more.groups.be IN CNAME .
 moreinfo.onnowdigital.com IN CNAME .
@@ -23627,6 +23630,7 @@ munnin.hicsuntdra.co IN CNAME .
 mupmos.levis.com.au IN CNAME .
 muqtti.motoin.de IN CNAME .
 mushywaste.com IN CNAME .
+musicflashcard.com IN CNAME .
 muteknife.com IN CNAME .
 mutemailbox.com IN CNAME .
 mutualhappy.com IN CNAME .
@@ -23946,9 +23950,11 @@ nhqkbl.semilac.pl IN CNAME .
 ni8.lafuma-boutique.com IN CNAME .
 ni8.lafuma.com IN CNAME .
 niblewren.co IN CNAME .
+nicefollows.com IN CNAME .
 nidays.austria.ni.com IN CNAME .
 nidays.suisse.ni.com IN CNAME .
 nidays.switzerland.ni.com IN CNAME .
+nid.mansionglobal.com IN CNAME .
 nid.thesun.co.uk IN CNAME .
 nid.thetimes.com IN CNAME .
 niftygraphs.com IN CNAME .
@@ -24232,6 +24238,7 @@ observe-nexus.pointandplace.com IN CNAME .
 observer.ip-label.net IN CNAME .
 obs.esnlocco.com IN CNAME .
 obseu.netgreencolumn.com IN CNAME .
+obsidiangems.com IN CNAME .
 obs.jollyoutdoorjogger.com IN CNAME .
 obs.system1onesource.com IN CNAME .
 obtfhl.bellemaison.jp IN CNAME .
@@ -35875,6 +35882,7 @@ tittendestages.net.anwalt.de IN CNAME .
 t.iuhoosiers.com IN CNAME .
 tivan.naver.com IN CNAME .
 tivixv.nutribullet.com IN CNAME .
+t.jasper.ai IN CNAME .
 tjbhng.hemington.com.tr IN CNAME .
 tj.img4399.com IN CNAME .
 tjitde.dodo.it IN CNAME .
@@ -39492,6 +39500,7 @@ usb-vna.coppermountaintech.com IN CNAME .
 us-central1-markuphero.cloudfunctions.net IN CNAME .
 usdbbx.mmartan.com.br IN CNAME .
 use.fvr.to IN CNAME .
+use.hetzner.com IN CNAME .
 uselesslumber.com IN CNAME .
 use.lunos.app IN CNAME .
 userballot.com IN CNAME .
