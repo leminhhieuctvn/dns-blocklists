@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1767747812    ; serial
+                                        1767834214    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5086,6 +5086,7 @@ analytics.bleacherreport.com IN CNAME .
 analytics.blue IN CNAME .
 analytics.boing.es IN CNAME .
 analytics.bolavip.com IN CNAME .
+analytics.bomiv.com IN CNAME .
 analytics.boomerangtv.co.uk IN CNAME .
 analytics.box.com IN CNAME .
 analytics.boxlunch.com IN CNAME .
@@ -24339,6 +24340,7 @@ ojm4.palladiumhotelgroup.com IN CNAME .
 ojmxro.yatsan.com IN CNAME .
 ojufuk.vincecamuto.com IN CNAME .
 ojvxtz.junonline.jp IN CNAME .
+okaysurethat.com IN CNAME .
 okhwxl.rnainc.jp IN CNAME .
 oksiqv.styletread.com.au IN CNAME .
 oktagv.immobilienscout24.at IN CNAME .
@@ -24346,6 +24348,7 @@ okto1.spsglobal.com IN CNAME .
 oldandindie.com IN CNAME .
 oldfashionedoffer.com IN CNAME .
 old.globalservices.arrow.com IN CNAME .
+oldportcoffee.com IN CNAME .
 olhqou.realsimple.com IN CNAME .
 olklgn.jh-profishop.de IN CNAME .
 olpmni.acer.com IN CNAME .
@@ -24587,6 +24590,7 @@ on.dextra.ch IN CNAME .
 one2.onestep.fr IN CNAME .
 one.appice.io IN CNAME .
 onecloud.avaya.com IN CNAME .
+onecrow.net IN CNAME .
 onedropocean.com IN CNAME .
 one.godigit.com IN CNAME .
 oneid.mmstat.com IN CNAME .
@@ -24852,6 +24856,7 @@ owen.prolitteris.ch IN CNAME .
 owlreporter.com IN CNAME .
 owlsr.us IN CNAME .
 owlstwo.com IN CNAME .
+owltin.com IN CNAME .
 owp-sg-prop.americanexpress.com IN CNAME .
 owp-tw.americanexpress.com IN CNAME .
 owpysc.lampenundleuchten.at IN CNAME .
@@ -36375,6 +36380,7 @@ track.bannedcelebs.com IN CNAME .
 track.bestbuy.ca IN CNAME .
 track.bestpornsites.tv IN CNAME .
 track.biz.lguplus.com IN CNAME .
+track.bomiv.com IN CNAME .
 track.btdmp.com IN CNAME .
 track.buyma.com IN CNAME .
 track.cafu.com IN CNAME .
@@ -42934,6 +42940,7 @@ diagassets.apple.com IN CNAME .
 diagnostics.apple.com IN CNAME .
 dz1dt3wqswdezgx4j2ryem5iad.apple.com IN CNAME .
 experiments.apple.com IN CNAME .
+graffiti-tags.apple.com IN CNAME .
 iad.apple.com IN CNAME .
 iadcontent.apple.com IN CNAME .
 iadmoo.apple.com IN CNAME .
@@ -42977,6 +42984,7 @@ me.apple-dns.net IN CNAME .
 probe.me.apple-dns.net IN CNAME .
 applemediaservices.com IN CNAME .
 cstat.cdn-apple.com IN CNAME .
+securemetrics.apple.com.cn IN CNAME .
 feedbackws.icloud.com.cn IN CNAME .
 cdn-xp-ingest.edge.apple IN CNAME .
 experiments.apple.com.edgekey.net IN CNAME .
