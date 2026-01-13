@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1768179968    ; serial
+                                        1768265951    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4988,6 +4988,7 @@ a.munters.us IN CNAME .
 amusedbucket.com IN CNAME .
 amusementmorning.com IN CNAME .
 amvtwk.thebottleclub.com IN CNAME .
+a.n11.com IN CNAME .
 ana.3751chat.com IN CNAME .
 ana.chat.shalove.net IN CNAME .
 anaconda.net.anwalt.de IN CNAME .
@@ -5348,6 +5349,7 @@ analytics.navyfederal.org IN CNAME .
 analytics.ncaa.com IN CNAME .
 analytics.neoogilvy.uy IN CNAME .
 analytics.net.dz.jumia.com IN CNAME .
+analytics.netronline.dev IN CNAME .
 analytics.newscred.com IN CNAME .
 analytics.newsifier.nl IN CNAME .
 analytics.nike.com IN CNAME .
@@ -8018,6 +8020,7 @@ bu.adpinfo.com IN CNAME .
 buasmk.earthshoes.com IN CNAME .
 bubblewrapp.actonservice.com IN CNAME .
 bubblyaction.com IN CNAME .
+buddycanvas.com IN CNAME .
 budibu.saksfifthavenue.com IN CNAME .
 buffet.identityservices.io IN CNAME .
 buf.lemonde.fr IN CNAME .
@@ -9528,6 +9531,7 @@ cozytryst.com IN CNAME .
 cpa.hh.ru IN CNAME .
 cp.cp.twendee.jp IN CNAME .
 cp.deltadentalwa.com IN CNAME .
+cp.filext.com IN CNAME .
 cpgo.avatacar.com IN CNAME .
 cpihrinfo.cpihr.com IN CNAME .
 cpiibb.top-office.com IN CNAME .
@@ -9541,6 +9545,7 @@ cp.rootielearning.com IN CNAME .
 cpt.itv.com IN CNAME .
 cpt.postnl.be IN CNAME .
 cpt.postnl.nl IN CNAME .
+cpu-api.infor.pl IN CNAME .
 cpx.golem.de IN CNAME .
 cpxl.golem.de IN CNAME .
 cpx.smind.si IN CNAME .
@@ -12870,6 +12875,7 @@ evanescentedge.com IN CNAME .
 evasivejar.com IN CNAME .
 e.vcty.co IN CNAME .
 evelynn.landing.ni.com IN CNAME .
+evencoating.com IN CNAME .
 evenement.ricoh.fr IN CNAME .
 event1.thermofisher.com IN CNAME .
 event1.thermoscientific.com IN CNAME .
@@ -18076,6 +18082,7 @@ leadhit.io IN CNAME .
 leadmanagement.leads360.com IN CNAME .
 leadmanagement.velocify.com IN CNAME .
 leads.commercial.keurig.com IN CNAME .
+leads.whatboxdigital.com IN CNAME .
 leadsy.ai IN CNAME .
 leadtracking.plumvoice.com IN CNAME .
 leafpilot.com IN CNAME .
@@ -26385,6 +26392,7 @@ recs.shareaholic.com IN CNAME .
 recv-entry.tbs.co.jp IN CNAME .
 recv-jnn.tbs.co.jp IN CNAME .
 recv.tbs.co.jp IN CNAME .
+recyclehits.com IN CNAME .
 redbasketball.com IN CNAME .
 redbooks.actonservice.com IN CNAME .
 redbricksoap.com IN CNAME .
@@ -26795,6 +26803,7 @@ rnyhid.pepperfry.com IN CNAME .
 roaddynamics.com IN CNAME .
 roadwalks.com IN CNAME .
 ro.aiwan4399.com IN CNAME .
+roamhousing.com IN CNAME .
 robotflowermobile.com IN CNAME .
 robotgarages.com IN CNAME .
 rochelle.wantsext.me IN CNAME .
@@ -26822,6 +26831,7 @@ routes.navibration.com IN CNAME .
 rovememoirs.com IN CNAME .
 rowsrm.atasunoptik.com.tr IN CNAME .
 roxtec.actonservice.com IN CNAME .
+royalsbagels.com IN CNAME .
 royalsweeper.com IN CNAME .
 royzgi.giftishow.com IN CNAME .
 rpfkgf.rp-online.de IN CNAME .
@@ -26928,6 +26938,7 @@ rum.uptime.com IN CNAME .
 rup5.destinia.ru IN CNAME .
 ruralrobin.com IN CNAME .
 ru-ru.siemensplmevents.com IN CNAME .
+rusticfrench.com IN CNAME .
 rusticprice.com IN CNAME .
 ruthlessdegree.com IN CNAME .
 ruvdkw.turk.net IN CNAME .
@@ -27531,6 +27542,7 @@ sanl.six02.com IN CNAME .
 sanmet.originenergy.com.au IN CNAME .
 sa.oprah.com IN CNAME .
 sapi.tremendous.com IN CNAME .
+sapnest.com IN CNAME .
 sappmetrics.sprint.com IN CNAME .
 sa.recoding.tech IN CNAME .
 sa.reebok.co.uk IN CNAME .
@@ -27625,6 +27637,7 @@ sc.doctorwho.tv IN CNAME .
 scenicapparel.com IN CNAME .
 scenicchicago.com IN CNAME .
 scenicdrops.com IN CNAME .
+scentedkindly.com IN CNAME .
 s.chatie.ai IN CNAME .
 scheduling.qualifi.hr IN CNAME .
 schinnerer.actonservice.com IN CNAME .
@@ -36361,6 +36374,7 @@ trace.insead.edu IN CNAME .
 trace.qq.com IN CNAME .
 tracer.autoscout24.ch IN CNAME .
 trace.swaven.com IN CNAME .
+track1.avplayer.com IN CNAME .
 track2.cliplister.com IN CNAME .
 track2.dulingo.com IN CNAME .
 track2.mycliplister.com IN CNAME .
@@ -37037,6 +37051,7 @@ tracking.pgi.com IN CNAME .
 tracking.piercingladies.de IN CNAME .
 tracking.pioneer.com IN CNAME .
 tracking.pirelli.com IN CNAME .
+tracking.pixelz.com IN CNAME .
 tracking.plascoid.com IN CNAME .
 tracking.plinga.de IN CNAME .
 tracking.precisely.com IN CNAME .
