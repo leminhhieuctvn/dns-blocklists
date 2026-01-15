@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1768352731    ; serial
+                                        1768438873    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -10413,6 +10413,7 @@ data.mail.telia.dk IN CNAME .
 data.mailtest.lexmei.online IN CNAME .
 data.main-ding.de IN CNAME .
 data.mainpost.de IN CNAME .
+data.manga-passion.de IN CNAME .
 data.mapp.com IN CNAME .
 data.markadsmal.islandsbanki.is IN CNAME .
 data.marketing.aeptest.a.intuit.com IN CNAME .
@@ -27633,6 +27634,7 @@ sc.cmt.com IN CNAME .
 sc.coutts.com IN CNAME .
 sc.cvent.com IN CNAME .
 sc.disneylandparis.com IN CNAME .
+scdn.literatur-couch.de IN CNAME .
 sc.doctorwho.tv IN CNAME .
 scenicapparel.com IN CNAME .
 scenicchicago.com IN CNAME .
@@ -27643,6 +27645,7 @@ scheduling.qualifi.hr IN CNAME .
 schinnerer.actonservice.com IN CNAME .
 sc.hl.co.uk IN CNAME .
 sc.hm.com IN CNAME .
+scholarloop.com IN CNAME .
 sc.holtsmilitarybank.co.uk IN CNAME .
 schwacke.autovistagroup.com IN CNAME .
 schwaebischhall.efscle.com IN CNAME .
@@ -28357,6 +28360,7 @@ sedgwickpooling.sedgwick.com IN CNAME .
 seedscissors.com IN CNAME .
 seek.intel.com IN CNAME .
 seekmyshop.com IN CNAME .
+seekremote.com IN CNAME .
 seek.uwa.edu.au IN CNAME .
 seenvault.com IN CNAME .
 seespice.com IN CNAME .
@@ -35736,6 +35740,7 @@ t.fullres.net IN CNAME .
 tfunqc.domonet.jp IN CNAME .
 tfuodg.memolife.de IN CNAME .
 t.fuzeon.com IN CNAME .
+t.gazetteer.co IN CNAME .
 t.gazyva.com IN CNAME .
 tgbfha.lily-brw.com IN CNAME .
 t.gene.com IN CNAME .
