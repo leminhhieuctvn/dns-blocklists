@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1768438906    ; serial
+                                        1768525464    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -43626,6 +43626,7 @@ dhfs-th.oppomobile.com IN CNAME .
 dhfs-vn.oppomobile.com IN CNAME .
 dhfsf.oppomobile.com IN CNAME .
 h4g3z1-native.oppo-realme.web.app IN CNAME .
+frontier23-normal-alisg.tiktokv.com.bpgslb.com IN CNAME .
 frontier.byteoversea.com IN CNAME .
 gplog-sg.byteoversea.com IN CNAME .
 gplog-va.byteoversea.com IN CNAME .
@@ -43705,9 +43706,16 @@ tnc-va.capcutapi.com IN CNAME .
 tnc-va-us-looki.capcutapi.com IN CNAME .
 tnc16-normal-us-ttp.capcutapi.us IN CNAME .
 frontier.capcutw.us IN CNAME .
+frontier-ru.tiktokv.com.edgekey.net IN CNAME .
 mon-boot.tiktokv.com.edgekey.net IN CNAME .
+mssdk-boot.tiktokv.com.edgekey.net IN CNAME .
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net IN CNAME .
+frontier.tiktokv-eu.com.edgesuite.net IN CNAME .
+frontier16-normal-no1a.tiktokv.eu.edgesuite.net IN CNAME .
+frontier16-normal-useastred.tiktokv.eu.edgesuite.net IN CNAME .
 frontier.capcutw.us.edgesuite.net IN CNAME .
+frontier.tiktokv.us.edgesuite.net IN CNAME .
+frontier-ttp2.tiktokv.us.edgesuite.net IN CNAME .
 abtest-ch.snssdk.com IN CNAME .
 analytics.snssdk.com IN CNAME .
 applog.snssdk.com IN CNAME .
@@ -43797,6 +43805,17 @@ ad-instantpage-va.tiktokv.com IN CNAME .
 adinstantpage16-normal-useastred.tiktokv.eu IN CNAME .
 frontier.tiktokv.com IN CNAME .
 frontier.tiktokv.us IN CNAME .
+frontier-i18n.tiktokv.com IN CNAME .
+frontier-my2.tiktokv.com IN CNAME .
+frontier-ru.tiktokv.com IN CNAME .
+frontier-ttp2.tiktokv.us IN CNAME .
+frontier-va.tiktokv.com IN CNAME .
+frontier100-normal-alisg.tiktokv.com IN CNAME .
+frontier100-normal-useast1a.tiktokv.com IN CNAME .
+frontier16-normal-no1a.tiktokv.eu IN CNAME .
+frontier16-normal-useastred.tiktokv.eu IN CNAME .
+frontier23-normal-alisg.tiktokv.com IN CNAME .
+frontier23-normal-useast1a.tiktokv.com IN CNAME .
 live-video-log16-normal-alisg.tiktokv.com IN CNAME .
 location.tiktokv.com IN CNAME .
 location-i18n.tiktokv.com IN CNAME .
@@ -43925,6 +43944,7 @@ mon32-normal.tiktokv.com IN CNAME .
 mon32-normal-alisg.tiktokv.com IN CNAME .
 mon32-normal-useast1a.tiktokv.com IN CNAME .
 monbk.tiktokv.com IN CNAME .
+mssdk-boot.tiktokv.com IN CNAME .
 mssdk-i18n.tiktokv.com IN CNAME .
 mssdk-phx.tiktokv.com IN CNAME .
 mssdk-quic-i18n.tiktokv.com IN CNAME .
@@ -44076,6 +44096,7 @@ xlog16-normal-c-useast2a.tiktokv.com IN CNAME .
 xlog16-normal-no1a.tiktokv.eu IN CNAME .
 xlog16-platform-ycru.tiktokv.com IN CNAME .
 xlog16-tmp-normal-useast1a.tiktokv.com IN CNAME .
+frontier.tiktokv-eu.com IN CNAME .
 log-snssdk.tiktokv-us.com IN CNAME .
 ads-ie.tiktokw.eu IN CNAME .
 ads-ttp2.tiktokw.eu IN CNAME .
@@ -44095,6 +44116,7 @@ mcs16-normal-useastred.tiktokw.eu IN CNAME .
 mssdk.tiktokw.eu IN CNAME .
 mssdk.tiktokw.us IN CNAME .
 mssdk16-normal-useastred.tiktokw.eu IN CNAME .
+frontier.tiktokv-eu.com.ttdns3.com IN CNAME .
 h4g3z1-native.tiktok.extended.web.app IN CNAME .
 vhs.wwstat.com.eo.unicomcdn.com.cn IN CNAME .
 adxlog-adnet.vivo.com.cn IN CNAME .
