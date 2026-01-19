@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1768611679    ; serial
+                                        1768784848    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -43715,16 +43715,31 @@ tnc-va.capcutapi.com IN CNAME .
 tnc-va-us-looki.capcutapi.com IN CNAME .
 tnc16-normal-us-ttp.capcutapi.us IN CNAME .
 frontier.capcutw.us IN CNAME .
+mcs-i18n.tiktok.com.edgekey.net IN CNAME .
+mcs-sg.tiktok.com.edgekey.net IN CNAME .
+mcs-va.tiktok.com.edgekey.net IN CNAME .
 frontier-ru.tiktokv.com.edgekey.net IN CNAME .
+mcs-sg.tiktokv.com.edgekey.net IN CNAME .
+mcs-va.tiktokv.com.edgekey.net IN CNAME .
+mcs-va-useast2a.tiktokv.com.edgekey.net IN CNAME .
 mon-boot.tiktokv.com.edgekey.net IN CNAME .
 mssdk-boot.tiktokv.com.edgekey.net IN CNAME .
+mcs.us.tiktok.com.edgesuite.net IN CNAME .
+mcs-ttp2.us.tiktok.com.edgesuite.net IN CNAME .
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net IN CNAME .
+mcs.us.tiktokv.com.edgesuite.net IN CNAME .
 frontier.tiktokv-eu.com.edgesuite.net IN CNAME .
 frontier16-normal-no1a.tiktokv.eu.edgesuite.net IN CNAME .
 frontier16-normal-useastred.tiktokv.eu.edgesuite.net IN CNAME .
+mcs-ie2.tiktokw.eu.edgesuite.net IN CNAME .
+mcs16-normal-no1a.tiktokw.eu.edgesuite.net IN CNAME .
+mcs16-normal-useastred.tiktokw.eu.edgesuite.net IN CNAME .
 frontier.capcutw.us.edgesuite.net IN CNAME .
 frontier.tiktokv.us.edgesuite.net IN CNAME .
 frontier-ttp2.tiktokv.us.edgesuite.net IN CNAME .
+mcs.tiktokv.us.edgesuite.net IN CNAME .
+mcs-ttp2.tiktokv.us.edgesuite.net IN CNAME .
+mcs.tiktokw.us.edgesuite.net IN CNAME .
 abtest-ch.snssdk.com IN CNAME .
 analytics.snssdk.com IN CNAME .
 applog.snssdk.com IN CNAME .
@@ -43802,6 +43817,7 @@ analytics-ttp2.us.tiktok.com IN CNAME .
 mcs.us.tiktok.com IN CNAME .
 mcs-ttp2.us.tiktok.com IN CNAME .
 mssdk.us.tiktok.com IN CNAME .
+mcs.tiktok-row.net IN CNAME .
 sf16-telemetry-proxy-oci.tiktokcdn-us.com IN CNAME .
 ad.tiktokv.com IN CNAME .
 ad.tiktokv.us IN CNAME .
@@ -44125,7 +44141,13 @@ mcs16-normal-useastred.tiktokw.eu IN CNAME .
 mssdk.tiktokw.eu IN CNAME .
 mssdk.tiktokw.us IN CNAME .
 mssdk16-normal-useastred.tiktokw.eu IN CNAME .
+mcs-sg.tiktok.com.ttdns2.com IN CNAME .
+mcs-va.tiktok.com.ttdns2.com IN CNAME .
+mcs-va.tiktokv.com.ttdns2.com IN CNAME .
+mcs-va-useast2a.tiktokv.com.ttdns2.com IN CNAME .
 frontier.tiktokv-eu.com.ttdns3.com IN CNAME .
+mcs-ie.tiktokw.eu.ttdns3.com IN CNAME .
+mcs-ie2.tiktokw.eu.ttdns3.com IN CNAME .
 h4g3z1-native.tiktok.extended.web.app IN CNAME .
 vhs.wwstat.com.eo.unicomcdn.com.cn IN CNAME .
 adxlog-adnet.vivo.com.cn IN CNAME .
