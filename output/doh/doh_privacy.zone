@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1768784848    ; serial
+                                        1768870964    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4726,6 +4726,7 @@ a.fxnetworks.com IN CNAME .
 agcjee.sklep-nasiona.pl IN CNAME .
 agcmtb.nameit.com IN CNAME .
 agcs-knowledge.allianz.com IN CNAME .
+agencysignals.com IN CNAME .
 agentcomm.mercuryinsurance.com IN CNAME .
 a.getemoji.me IN CNAME .
 a.getflowbox.com IN CNAME .
@@ -5196,6 +5197,7 @@ analytics.faceitanalytics.com IN CNAME .
 analytics.faprika.net IN CNAME .
 analytics.fatmedia.io IN CNAME .
 analytics.favcy.com IN CNAME .
+analytics-fe.digital-cloud.medallia.com IN CNAME .
 analytics-fe.digital-cloud-prem.medallia.com IN CNAME .
 analytics.ferguson.com IN CNAME .
 analytics.firespring.com IN CNAME .
@@ -8364,6 +8366,7 @@ cc.swiftype.com IN CNAME .
 cctrkom.creditcards.com IN CNAME .
 ccztgy.elgiganten.dk IN CNAME .
 cdanjoyner4374.myre.io IN CNAME .
+cdapi.collegedunia.com IN CNAME .
 cd.chemistanddruggist.co.uk IN CNAME .
 cdeatz.spartoo.it IN CNAME .
 cdfhpj.automobile.it IN CNAME .
@@ -8840,7 +8843,6 @@ cnpxwl.cheapcaribbean.com IN CNAME .
 cnsecurity.actonservice.com IN CNAME .
 cns-service.actonservice.com IN CNAME .
 cnstats.cdev.eu IN CNAME .
-cnstrc.com IN CNAME .
 cnt.3dmy.net IN CNAME .
 cntccc.publicrec.com IN CNAME .
 cnt.hd21.com IN CNAME .
@@ -13575,6 +13577,7 @@ fortunatemark.com IN CNAME .
 forwardslashetc.com IN CNAME .
 fossilzero.com IN CNAME .
 fourier.taobao.com IN CNAME .
+fourlevelsgame.com IN CNAME .
 fourmtagservices.appspot.com IN CNAME .
 fourpawsahead.com IN CNAME .
 fourtimessmelly.com IN CNAME .
@@ -23535,6 +23538,7 @@ mp.pitchero.com IN CNAME .
 m.premier.info.shutterstock.com IN CNAME .
 mprkxf.teebooks.com IN CNAME .
 m.providers.alto.com IN CNAME .
+mp.sintra.ai IN CNAME .
 mp.theepochtimes.com IN CNAME .
 mqesfg.bpm-power.com IN CNAME .
 mqhaxf.keds.com IN CNAME .
@@ -33270,6 +33274,7 @@ staging.refer.wagr.us IN CNAME .
 stahhx.inversapub.com IN CNAME .
 stahl.actonservice.com IN CNAME .
 stakedances.com IN CNAME .
+stakeschips.com IN CNAME .
 stakingbasket.com IN CNAME .
 stakingshock.com IN CNAME .
 stakingsmile.com IN CNAME .
@@ -34427,6 +34432,7 @@ st.iceportal.de IN CNAME .
 sticketsmetrics.masters.com IN CNAME .
 stiffgame.com IN CNAME .
 stiffstem.com IN CNAME .
+stillpeace.com IN CNAME .
 st.img-bahn.de IN CNAME .
 stimulatingsneeze.com IN CNAME .
 stingsquirrel.com IN CNAME .
@@ -35892,8 +35898,10 @@ tiglck.technopolis.bg IN CNAME .
 tiktok.tray.com.br IN CNAME .
 tilanalytics.timesinternet.in IN CNAME .
 tilt.bankofamerica.com IN CNAME .
+tiltonbots.com IN CNAME .
 time.aktion-mensch.de IN CNAME .
 timeclock.mytoolr.com IN CNAME .
+timecrossed.com IN CNAME .
 timejs.game.163.com IN CNAME .
 timing.uhrforum.de IN CNAME .
 timing.whenandhowagency.com IN CNAME .
@@ -37553,6 +37561,7 @@ tr.attribuly.com IN CNAME .
 travel.caradonna.com IN CNAME .
 travel.cruisesforless.com IN CNAME .
 travel.ec-ovc.com IN CNAME .
+travelerpic.com IN CNAME .
 travelmarketreport.actonservice.com IN CNAME .
 travel.onlinevacationcenter.com IN CNAME .
 travel.stage.x.unikoom.com IN CNAME .
@@ -40061,6 +40070,7 @@ veqvek.ctvnews.ca IN CNAME .
 veqvek.much.com IN CNAME .
 veqvek.thebeaverton.com IN CNAME .
 veqvek.tsn.ca IN CNAME .
+veradata.network IN CNAME .
 vercel-vitals.axiom.co IN CNAME .
 verdantanswer.com IN CNAME .
 verdantlabyrinth.com IN CNAME .
