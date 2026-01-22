@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1769043901    ; serial
+                                        1769049971    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4500,6 +4500,7 @@ $TTL 3600
 1-h-win-casino.ru IN CNAME .
 1-handed.com IN CNAME .
 1-knickerbocker.com IN CNAME .
+1-maltcasino.com IN CNAME .
 1-memocasino.com IN CNAME .
 1-online-casino-deutschland.com IN CNAME .
 1-online-casino-portal.com IN CNAME .
@@ -5384,6 +5385,7 @@ $TTL 3600
 1047ky.com IN CNAME .
 1048.casino IN CNAME .
 10482.com IN CNAME .
+1048877cc998.xgoxwcldkz.top IN CNAME .
 1048ky.com IN CNAME .
 1049.casino IN CNAME .
 1049ky.com IN CNAME .
@@ -8890,6 +8892,7 @@ $TTL 3600
 1337g.casino IN CNAME .
 1337games.net IN CNAME .
 1337ky.com IN CNAME .
+1337ul.8609.cc IN CNAME .
 1337x.net IN CNAME .
 1337x.ru IN CNAME .
 133802.com IN CNAME .
@@ -10751,6 +10754,7 @@ $TTL 3600
 1661ky.com IN CNAME .
 1661tyc.com IN CNAME .
 1662ky.com IN CNAME .
+1663.casino IN CNAME .
 166340.com IN CNAME .
 16636v.com IN CNAME .
 16637.com IN CNAME .
@@ -24854,6 +24858,7 @@ $TTL 3600
 2768ky.com IN CNAME .
 2769ky.com IN CNAME .
 276bf6.r.axf8.net IN CNAME .
+276eefe2165e.cmsdurbv.top IN CNAME .
 276k.vip IN CNAME .
 276kaiyun.net IN CNAME .
 276kaiyun.vip IN CNAME .
@@ -24878,6 +24883,7 @@ $TTL 3600
 2773x.com IN CNAME .
 2773y.com IN CNAME .
 277484.top IN CNAME .
+2774c5d7b48b.zxmenhmo.top IN CNAME .
 2774ky.com IN CNAME .
 2775ky.com IN CNAME .
 2775y.com IN CNAME .
@@ -31236,6 +31242,7 @@ $TTL 3600
 390bbb.com IN CNAME .
 390ccc.com IN CNAME .
 390ddd.com IN CNAME .
+391.casino IN CNAME .
 3911999.com IN CNAME .
 391205.vip IN CNAME .
 3912288.com IN CNAME .
@@ -32649,6 +32656,7 @@ $TTL 3600
 411sync.com IN CNAME .
 411vote.org IN CNAME .
 412188.com IN CNAME .
+4122.casino IN CNAME .
 412353.com IN CNAME .
 412354.com IN CNAME .
 412357.com IN CNAME .
@@ -32730,6 +32738,7 @@ $TTL 3600
 419627.vip IN CNAME .
 41975.wang IN CNAME .
 419750.com IN CNAME .
+419casinoroyal.com IN CNAME .
 419d970452e24570b90c984cf6ac7f84.fp.measure.office.com IN CNAME .
 419revolution.org IN CNAME .
 41a16bf6b8d54bffa29c575a23c72bce.fp.measure.office.com IN CNAME .
@@ -35308,6 +35317,7 @@ $TTL 3600
 494996.com IN CNAME .
 494a.com IN CNAME .
 494f7bc4b87f48a99f21dd33ff1f50ea.fp.measure.office.com IN CNAME .
+495.9415.cc IN CNAME .
 495368.com IN CNAME .
 49549500.com IN CNAME .
 49549501.com IN CNAME .
@@ -36862,6 +36872,7 @@ $TTL 3600
 52688v.com IN CNAME .
 526ba1d00f364720876b45dcf491199b.fp.measure.office.com IN CNAME .
 526bdb9ba487402d8eae1a0e8deab77f.fp.measure.office.com IN CNAME .
+526c5dc94e12.cndsdsva.top IN CNAME .
 526d43cc6c.com IN CNAME .
 526ojktpnjjeeovguvbf.cfd IN CNAME .
 52711.party IN CNAME .
@@ -36979,6 +36990,7 @@ $TTL 3600
 53.localytics.com IN CNAME .
 530.org IN CNAME .
 53004.bid IN CNAME .
+530076989109.cndsdsva.top IN CNAME .
 530111.com IN CNAME .
 5307888.com IN CNAME .
 530808.com IN CNAME .
@@ -39950,7 +39962,6 @@ $TTL 3600
 594oo.com IN CNAME .
 5953777.com IN CNAME .
 5953839637cc4b729235edf48527dad9.fp.measure.office.com IN CNAME .
-59557com.yuhuan.cc IN CNAME .
 5955888.com IN CNAME .
 595595.vip IN CNAME .
 59560.com IN CNAME .
@@ -40390,6 +40401,7 @@ $TTL 3600
 5d489674c56046cdbe6dbbdbd50e9d22.fp.measure.office.com IN CNAME .
 5d4a1.v.fwmrm.net IN CNAME .
 5d4d1bb29b.com IN CNAME .
+5d58890195ae.cndsdsva.top IN CNAME .
 5d67d2639f52446daf4216abec1fdfdd.fp.measure.office.com IN CNAME .
 5d7k30pv1u.com IN CNAME .
 5d87fec5971c50fbe30a788460eb1566.fp.measure.office.com IN CNAME .
@@ -44092,6 +44104,7 @@ $TTL 3600
 674675.com IN CNAME .
 67493.com IN CNAME .
 67493k.com IN CNAME .
+674betsmove.com IN CNAME .
 674ds900.com IN CNAME .
 674f.com IN CNAME .
 674f6b84a98742148aa2a73c2abd5d60.fp.measure.office.com IN CNAME .
@@ -44334,6 +44347,7 @@ $TTL 3600
 680248.com IN CNAME .
 68044.vip IN CNAME .
 680642cdf3.com IN CNAME .
+680ad07504ce.xgoxwcldkz.top IN CNAME .
 680yh.com IN CNAME .
 681024.com IN CNAME .
 68117.com IN CNAME .
@@ -47142,6 +47156,7 @@ $TTL 3600
 75494.com IN CNAME .
 754961.com IN CNAME .
 754986.com IN CNAME .
+754betsmove.com IN CNAME .
 754yh.com IN CNAME .
 755-ct.c3tag.com IN CNAME .
 755.casino IN CNAME .
@@ -47176,6 +47191,7 @@ $TTL 3600
 755bet.com IN CNAME .
 755bet.net IN CNAME .
 755betsc.com IN CNAME .
+755betsmove.com IN CNAME .
 755betsy.com IN CNAME .
 755lovejili.cc IN CNAME .
 755pnl.com IN CNAME .
@@ -49490,6 +49506,7 @@ $TTL 3600
 7807666.com IN CNAME .
 780777.com IN CNAME .
 7808e.com IN CNAME .
+780betsmove.com IN CNAME .
 780e32c7eb404105931127b9cab146db.fp.measure.office.com IN CNAME .
 780jl.com IN CNAME .
 781.casino IN CNAME .
@@ -50666,7 +50683,9 @@ $TTL 3600
 7k-189.casino IN CNAME .
 7k-198.casino IN CNAME .
 7k-2026.casino IN CNAME .
+7k-208.casino IN CNAME .
 7k-217.casino IN CNAME .
+7k-219.casino IN CNAME .
 7k-296.casino IN CNAME .
 7k-341-casino.biz IN CNAME .
 7k-35.casino IN CNAME .
@@ -50703,10 +50722,12 @@ $TTL 3600
 7k-9005.casino IN CNAME .
 7k-913.casino IN CNAME .
 7k-92.casino IN CNAME .
+7k-932.casino IN CNAME .
 7k-939.casino IN CNAME .
 7k-9614.casino IN CNAME .
 7k-964.casino IN CNAME .
 7k-97.casino IN CNAME .
+7k-981.casino IN CNAME .
 7k-99.casino IN CNAME .
 7k-999.casino IN CNAME .
 7k-casino-7ka.top IN CNAME .
@@ -51372,7 +51393,9 @@ $TTL 3600
 7slots-2026-site.live IN CNAME .
 7slots-2026-tr-games.life IN CNAME .
 7slots-2026-tr.life IN CNAME .
+7slots-2026-zone.top IN CNAME .
 7slots-2026.space IN CNAME .
+7slots-2026tr.art IN CNAME .
 7slots-2026tr.ink IN CNAME .
 7slots-2026tr.live IN CNAME .
 7slots-2026tr.online IN CNAME .
@@ -51387,6 +51410,7 @@ $TTL 3600
 7slots-en.org IN CNAME .
 7slots-game-online.digital IN CNAME .
 7slots-games-best.live IN CNAME .
+7slots-games-hub.top IN CNAME .
 7slots-ge.vip IN CNAME .
 7slots-giris1.com IN CNAME .
 7slots-guncelgiris.com IN CNAME .
@@ -53398,7 +53422,6 @@ $TTL 3600
 860535.com IN CNAME .
 860669.com IN CNAME .
 860860.vip IN CNAME .
-8609.cc IN CNAME .
 8609f3248e134b258dd2c6c989b64a3b.fp.measure.office.com IN CNAME .
 8610057e9f1d4d3f959ac55aec44d3d9.fp.measure.office.com IN CNAME .
 86124673.xyz IN CNAME .
@@ -53688,6 +53711,7 @@ $TTL 3600
 872518.com IN CNAME .
 8726n.com IN CNAME .
 8729365.com IN CNAME .
+872betsmove.com IN CNAME .
 872thvip.com IN CNAME .
 872thwin.com IN CNAME .
 873007.com IN CNAME .
@@ -58187,6 +58211,7 @@ $TTL 3600
 903847.vu IN CNAME .
 903e9c75f6.com IN CNAME .
 903wct.com IN CNAME .
+904.9415.cc IN CNAME .
 904.casino IN CNAME .
 9041155.com IN CNAME .
 904202.com IN CNAME .
@@ -58243,6 +58268,7 @@ $TTL 3600
 90787.com IN CNAME .
 907900f0d0.a08b551f9a.com IN CNAME .
 907bets10.com IN CNAME .
+908.8609.cc IN CNAME .
 90808.com IN CNAME .
 9080bet.net IN CNAME .
 9081155.com IN CNAME .
@@ -58430,6 +58456,7 @@ $TTL 3600
 9137t.com IN CNAME .
 913913.vip IN CNAME .
 913wct.com IN CNAME .
+914.9415.cc IN CNAME .
 914.casino IN CNAME .
 9140555.com IN CNAME .
 91419aff923143f79d7695547e645c3a.fp.measure.office.com IN CNAME .
@@ -59036,6 +59063,7 @@ $TTL 3600
 92558v.com IN CNAME .
 9256dfb0d334408f8756e327ce579ca3.fp.measure.office.com IN CNAME .
 925892.com IN CNAME .
+926.9415.cc IN CNAME .
 926.casino IN CNAME .
 9261.casino IN CNAME .
 926278.top IN CNAME .
@@ -59077,6 +59105,7 @@ $TTL 3600
 927fu.com IN CNAME .
 927gwvf.lol IN CNAME .
 927sj2719fh38yh2e3.cfd IN CNAME .
+928.9415.cc IN CNAME .
 928.casino IN CNAME .
 928.xiaoranxinli.com IN CNAME .
 928000.com IN CNAME .
@@ -59509,7 +59538,6 @@ $TTL 3600
 940sss.com IN CNAME .
 940wct.com IN CNAME .
 9411155.com IN CNAME .
-9415.cc IN CNAME .
 9416aaaa.com IN CNAME .
 9416dddd.com IN CNAME .
 94191.pizza IN CNAME .
@@ -60755,6 +60783,7 @@ $TTL 3600
 984a6ddeb1.com IN CNAME .
 984de901d55543da80c9e944c3000388.fp.measure.office.com IN CNAME .
 984jl.com IN CNAME .
+985.8609.cc IN CNAME .
 985.casino IN CNAME .
 9851.casino IN CNAME .
 98521.vip IN CNAME .
@@ -60925,6 +60954,7 @@ $TTL 3600
 987betsport.com IN CNAME .
 987betsx.com IN CNAME .
 987f9e203d.com IN CNAME .
+988.8609.cc IN CNAME .
 9881368.com IN CNAME .
 9881p.com IN CNAME .
 9882226.com IN CNAME .
@@ -65007,6 +65037,7 @@ a3880.casalemedia.com IN CNAME .
 a38820.actonservice.com IN CNAME .
 a38951.actonservice.com IN CNAME .
 a38ac7e5a4.e3eb6c71e7.com IN CNAME .
+a38f0f2b74c4.cmsdurbv.top IN CNAME .
 a39173.actonservice.com IN CNAME .
 a39176.actonservice.com IN CNAME .
 a39177.actonservice.com IN CNAME .
@@ -96580,6 +96611,7 @@ b840554.com IN CNAME .
 b842212.com IN CNAME .
 b844556.com IN CNAME .
 b84c0f125bc74b0d8b2395bc68b7d2b9.fp.measure.office.com IN CNAME .
+b84c7e3bdff5.cmsdurbv.top IN CNAME .
 b84f93087e.com IN CNAME .
 b851585.com IN CNAME .
 b8583.com IN CNAME .
@@ -99552,6 +99584,7 @@ bb69000.com IN CNAME .
 bb69053.com IN CNAME .
 bb69724.com IN CNAME .
 bb69821.com IN CNAME .
+bb6b7391a692.zxmenhmo.top IN CNAME .
 bb6d55ceb3094d40b3a4997765515510.fp.measure.office.com IN CNAME .
 bb6vip.net IN CNAME .
 bb7272.com IN CNAME .
@@ -100293,7 +100326,6 @@ bcslotsatplaza.com IN CNAME .
 bcsportsbook.com IN CNAME .
 bcstavka.com IN CNAME .
 bcsxtjeqlakry.com IN CNAME .
-bctnodv.top IN CNAME .
 bctrades.io IN CNAME .
 bctt.igaming-service.io IN CNAME .
 bctuafpdwarbm.site IN CNAME .
@@ -139760,7 +139792,6 @@ cms100.xyz IN CNAME .
 cmsanalytics.admicro.vn IN CNAME .
 cmsapi.jbo88.biz IN CNAME .
 cmsczokibeotb.online IN CNAME .
-cmsdurbv.top IN CNAME .
 cmshow.gtimg.cn IN CNAME .
 cmslku.jetcost.it IN CNAME .
 cmsqd1.alphonso.tv IN CNAME .
@@ -139947,7 +139978,6 @@ cnd88vip.store IN CNAME .
 cndghne.vidaaaaa030.me IN CNAME .
 cndghne.vidaaaaa031.me IN CNAME .
 cndpt.fr IN CNAME .
-cndsdsva.top IN CNAME .
 cnduoumdmxtrt.online IN CNAME .
 cndw.top IN CNAME .
 cne.pt.cdn-dysxb.com IN CNAME .
@@ -140107,7 +140137,6 @@ cnweide.com IN CNAME .
 cnwetuaniiaal.site IN CNAME .
 cnwintime.com IN CNAME .
 cnwuamf.top IN CNAME .
-cnwucnf.top IN CNAME .
 cnxddc.lodenfrey.com IN CNAME .
 cnxudpbqadnzg.space IN CNAME .
 cny.yoyo.org IN CNAME .
@@ -147959,7 +147988,6 @@ cvbwtmpzxwxkl.site IN CNAME .
 cvc777.com IN CNAME .
 cvcglqxybcnqp.space IN CNAME .
 cvclso.fust.ch IN CNAME .
-cvcnmtf.top IN CNAME .
 cvdbvcrpzjrgv.website IN CNAME .
 cvdinc.com IN CNAME .
 cvdjkxsucrcya.website IN CNAME .
@@ -148021,6 +148049,7 @@ cw.amdahlryes.com IN CNAME .
 cw.hemalnihils.shop IN CNAME .
 cw.nu IN CNAME .
 cw.songbagkennell.com IN CNAME .
+cw32brt.vipspotflirts.life IN CNAME .
 cwalk88.biz IN CNAME .
 cwawlwdjdtxem.space IN CNAME .
 cwbbtpgbohgu.com IN CNAME .
@@ -156333,43 +156362,58 @@ dcgnheouhmnlx.online IN CNAME .
 dcgpsjmcytukn.website IN CNAME .
 dchealthpsychology.com IN CNAME .
 dciaqvmankh.in IN CNAME .
+dciclc.bctnodv.top IN CNAME .
 dciclc.bucnmtv.top IN CNAME .
 dciclc.bucnwtv.top IN CNAME .
 dciclc.cnwuamf.top IN CNAME .
+dciclc.cnwucnf.top IN CNAME .
 dciclc.cucnmtf.top IN CNAME .
 dciclc.cucnwtf.top IN CNAME .
+dciclc.cvcnmtf.top IN CNAME .
+dciclc.ectnodw.top IN CNAME .
 dciclc.enwuamw.top IN CNAME .
 dciclc.eucnwtw.top IN CNAME .
 dciclc.hnwuamu.top IN CNAME .
 dciclc.hucnmtu.top IN CNAME .
 dciclc.hucnwtu.top IN CNAME .
+dciclc.hvcnmtu.top IN CNAME .
 dciclc.inwuamo.top IN CNAME .
 dciclc.iucnwto.top IN CNAME .
+dciclc.ivcnmto.top IN CNAME .
 dciclc.jnwuama.top IN CNAME .
 dciclc.jucnmta.top IN CNAME .
 dciclc.jucnwta.top IN CNAME .
+dciclc.jvcnmta.top IN CNAME .
 dciclc.kctnodd.top IN CNAME .
 dciclc.knwuamd.top IN CNAME .
 dciclc.kucnmtd.top IN CNAME .
 dciclc.kucnwtd.top IN CNAME .
+dciclc.kvcnmtd.top IN CNAME .
+dciclc.lctnodl.top IN CNAME .
 dciclc.lucnmtl.top IN CNAME .
 dciclc.lucnwtl.top IN CNAME .
 dciclc.mctnodx.top IN CNAME .
 dciclc.mucnmtx.top IN CNAME .
 dciclc.mucnwtx.top IN CNAME .
+dciclc.octnodk.top IN CNAME .
 dciclc.oucnmtk.top IN CNAME .
 dciclc.oucnwtk.top IN CNAME .
+dciclc.qctnody.top IN CNAME .
 dciclc.qnwuamy.top IN CNAME .
 dciclc.qucnmty.top IN CNAME .
 dciclc.qucnwty.top IN CNAME .
+dciclc.sctnodb.top IN CNAME .
 dciclc.snwuamb.top IN CNAME .
 dciclc.sucnwtb.top IN CNAME .
+dciclc.tctnodi.top IN CNAME .
 dciclc.tnwuami.top IN CNAME .
 dciclc.tucnmti.top IN CNAME .
 dciclc.tucnwti.top IN CNAME .
+dciclc.uctnodt.top IN CNAME .
 dciclc.unwuamt.top IN CNAME .
 dciclc.uucnmtt.top IN CNAME .
 dciclc.uucnwtt.top IN CNAME .
+dciclc.wctnode.top IN CNAME .
 dciclc.wnwuame.top IN CNAME .
 dciclc.wucnmte.top IN CNAME .
 dciclc.wucnwte.top IN CNAME .
@@ -156381,6 +156425,21 @@ dcintl.push.heytapmobile.com IN CNAME .
 dcintl1.push.heytapmobile.com IN CNAME .
 dcirm.calocurb.com IN CNAME .
 dciuocgwopyla.website IN CNAME .
+dcivlv.bctnodv.top IN CNAME .
+dcivlv.cnwucnf.top IN CNAME .
+dcivlv.cvcnmtf.top IN CNAME .
+dcivlv.ectnodw.top IN CNAME .
+dcivlv.hvcnmtu.top IN CNAME .
+dcivlv.ivcnmto.top IN CNAME .
+dcivlv.jvcnmta.top IN CNAME .
+dcivlv.kvcnmtd.top IN CNAME .
+dcivlv.lctnodl.top IN CNAME .
+dcivlv.octnodk.top IN CNAME .
+dcivlv.qctnody.top IN CNAME .
+dcivlv.sctnodb.top IN CNAME .
+dcivlv.tctnodi.top IN CNAME .
+dcivlv.uctnodt.top IN CNAME .
+dcivlv.wctnode.top IN CNAME .
 dcjg1gv1px1h.cloudfront.net IN CNAME .
 dcjm-tms.gestalterbank.de IN CNAME .
 dcjm-tms.hannoversche-volksbank.de IN CNAME .
@@ -166636,6 +166695,7 @@ e459aa8e655c4a90949f19d1f8f2dca8.fp.measure.office.com IN CNAME .
 e487a41ae0.com IN CNAME .
 e488.macombdaily.com IN CNAME .
 e48ae8de2c4c40e1a83905c156449b20.fp.measure.office.com IN CNAME .
+e49e0b120ad5.cndsdsva.top IN CNAME .
 e4a65ecfeef74c0a97168fe89e84ce69.fp.measure.office.com IN CNAME .
 e4c5f15aa03048af8386e6f9520bdda0.fp.measure.office.com IN CNAME .
 e4c9e52a0d27409b9858e6f0d0ea2a8e.fp.measure.office.com IN CNAME .
@@ -167959,7 +168019,6 @@ ectexasnews.com IN CNAME .
 ectftop.top IN CNAME .
 ectjr.knotfest.com IN CNAME .
 ectkbq.wakacje.pl IN CNAME .
-ectnodw.top IN CNAME .
 ectsofcukorpor.com IN CNAME .
 ectuklyeconen.com IN CNAME .
 ectygsdcobpzj.website IN CNAME .
@@ -177308,6 +177367,7 @@ f948061a5c664127a84bae9a84281e9a.fp.measure.office.com IN CNAME .
 f94f.com IN CNAME .
 f956765dbb214e85a0b0b30001a70cd2.fp.measure.office.com IN CNAME .
 f96d275104104b2794e78fbd53d787ad.fp.measure.office.com IN CNAME .
+f971bc9f9ae8.xgoxwcldkz.top IN CNAME .
 f97352f7aca449afa8073ce391dce3bb.fp.measure.office.com IN CNAME .
 f979592f34.com IN CNAME .
 f97feec1b5.com IN CNAME .
@@ -203899,6 +203959,7 @@ gwp.nuggad.net IN CNAME .
 gwpifpeauhhwk.online IN CNAME .
 gwpkpiodcnobu.online IN CNAME .
 gwqlpymz.com IN CNAME .
+gwqpmrg.vipspotflirts.life IN CNAME .
 gwrk10x.life IN CNAME .
 gwrnyuotjylvbck.com IN CNAME .
 gwropn.soelu.com IN CNAME .
@@ -212993,7 +213054,6 @@ hvbet998.com IN CNAME .
 hvbetvip.com IN CNAME .
 hvbkb.dosaze.com IN CNAME .
 hvccutgusxtfe.website IN CNAME .
-hvcnmtu.top IN CNAME .
 hvd-store.com IN CNAME .
 hvddxj.icu IN CNAME .
 hvdponfpbcgyr.site IN CNAME .
@@ -224002,7 +224062,6 @@ ivbxao.roastmarket.de IN CNAME .
 ivcajmpbwmrat.online IN CNAME .
 ivcbrasil.org.br IN CNAME .
 ivcnkhedxpigg.site IN CNAME .
-ivcnmto.top IN CNAME .
 ivcsmrt.com IN CNAME .
 ivcxpw.kogan.com IN CNAME .
 ivcymdknugpjt.site IN CNAME .
@@ -233459,7 +233518,6 @@ jv81i.com IN CNAME .
 jv9hg.com IN CNAME .
 jvbvng.notino.it IN CNAME .
 jvcmzawlaxowm.space IN CNAME .
-jvcnmta.top IN CNAME .
 jvcnxdiodvhbw.site IN CNAME .
 jvdoukkjmbwaq.website IN CNAME .
 jvebyd.com IN CNAME .
@@ -235008,6 +235066,7 @@ k8cc9.com IN CNAME .
 k8cc99.com IN CNAME .
 k8ccc.com IN CNAME .
 k8com.com IN CNAME .
+k8cpmrdll.vipspotflirts.life IN CNAME .
 k8e001.com IN CNAME .
 k8euro.com IN CNAME .
 k8fb.com IN CNAME .
@@ -236389,6 +236448,7 @@ kcnjivjem.net IN CNAME .
 kcnnrj.cn IN CNAME .
 kcnoeqivvzana.online IN CNAME .
 kcokamid.top IN CNAME .
+kcolb.site IN CNAME .
 kcolbda.com IN CNAME .
 kcoljf.ilsanghabo.com IN CNAME .
 kcpeds.com IN CNAME .
@@ -241907,7 +241967,6 @@ kvbojuxkwvcfk.global IN CNAME .
 kvbrzbxhqizoq.site IN CNAME .
 kvcd7w375h.ru IN CNAME .
 kvcddxmzgvmrk.online IN CNAME .
-kvcnmtd.top IN CNAME .
 kvcon.de IN CNAME .
 kvcytjbllaeao.site IN CNAME .
 kvdnetmzqvwxw.store IN CNAME .
@@ -244558,7 +244617,6 @@ lcskincarecenter.com IN CNAME .
 lcskp.myfreebird.com IN CNAME .
 lcsopa.onamae.com IN CNAME .
 lctfgw.evernew.ca IN CNAME .
-lctnodl.top IN CNAME .
 lcuaerlknisgy.space IN CNAME .
 lcugatnuhfpo.com IN CNAME .
 lcugj.pestie.com IN CNAME .
@@ -272807,7 +272865,6 @@ misterhabs.com IN CNAME .
 misteriboxsimpati.xyz IN CNAME .
 misterindo.net IN CNAME .
 misteritogel.xyz IN CNAME .
-mistermgermens.shop IN CNAME .
 misterocasino.com IN CNAME .
 misterspil.com IN CNAME .
 misterspil.net IN CNAME .
@@ -273685,7 +273742,6 @@ mngisv.112.2o7.net IN CNAME .
 mngitwincities.112.2o7.net IN CNAME .
 mngiyhnat.112.2o7.net IN CNAME .
 mngiyrkdr.112.2o7.net IN CNAME .
-mngr.kcolb.site IN CNAME .
 mnhjk.com IN CNAME .
 mnhjkl.com IN CNAME .
 mnhtoanlytvijav.com IN CNAME .
@@ -289295,7 +289351,6 @@ octbbet.com IN CNAME .
 octettealanylscaridea.cfd IN CNAME .
 octillion.tv IN CNAME .
 octinvemb.com IN CNAME .
-octnodk.top IN CNAME .
 octo25.me IN CNAME .
 octoberads.space IN CNAME .
 octoberreplicalocate.com IN CNAME .
@@ -297098,6 +297153,7 @@ pacificflowg.info IN CNAME .
 pacificlifereprod.112.2o7.net IN CNAME .
 pacificpoker.com IN CNAME .
 pacificrealmsg.info IN CNAME .
+pacifics.sbs IN CNAME .
 pacificspins.com IN CNAME .
 pacificspinscasino-ca.com IN CNAME .
 pacificspinscasino.org IN CNAME .
@@ -317288,7 +317344,6 @@ qcsvxobneexyu.site IN CNAME .
 qcszfukqffzqz.online IN CNAME .
 qctjfywk.bestpetfoods.nl IN CNAME .
 qctltbddoojgy.website IN CNAME .
-qctnody.top IN CNAME .
 qctop.com IN CNAME .
 qctt24h.24h.com.vn IN CNAME .
 qcuncolm.com IN CNAME .
@@ -337598,7 +337653,6 @@ sct.sacratu.com.br IN CNAME .
 sctaylor.com IN CNAME .
 sctennnews.com IN CNAME .
 sctexasnews.com IN CNAME .
-sctnodb.top IN CNAME .
 scuba.bornofwater.com IN CNAME .
 scubaclicks.com IN CNAME .
 scuddedjimjam.cfd IN CNAME .
@@ -344882,7 +344936,6 @@ shelter57.com IN CNAME .
 shemalesofhentai.com IN CNAME .
 shemaletubesx.com IN CNAME .
 shemcreeksc.com IN CNAME .
-shemrec.cc IN CNAME .
 shemscasino.fr IN CNAME .
 shenajou.com IN CNAME .
 shenandoahvalleynews.com IN CNAME .
@@ -346135,7 +346188,6 @@ si.hit.gemius.pl IN CNAME .
 si.jz39.com IN CNAME .
 si.lgsmartad.com IN CNAME .
 si.nuggad.net IN CNAME .
-si.pacifics.sbs IN CNAME .
 si.ptqy.gitv.tv IN CNAME .
 si.seinercasual.click IN CNAME .
 si.sporulekakis.com IN CNAME .
@@ -378872,7 +378924,6 @@ tcsmgstagingserver.com IN CNAME .
 tcss.qq.com IN CNAME .
 tctbgheohtgfnm.net IN CNAME .
 tctm.co IN CNAME .
-tctnodi.top IN CNAME .
 tctrbtdxbscuw.site IN CNAME .
 tcudrocivr.com IN CNAME .
 tcus.team-consulting.com IN CNAME .
@@ -397363,7 +397414,6 @@ uct.service.usercentrics.eu IN CNAME .
 uctbets.com IN CNAME .
 ucthb.com IN CNAME .
 uctiz.snoopslimes.co IN CNAME .
-uctnodt.top IN CNAME .
 ucuhvo.jm-bruneau.be IN CNAME .
 ucuhyu.com IN CNAME .
 ucuoknexq.global IN CNAME .
@@ -406433,7 +406483,6 @@ vi.lgsmartad.com IN CNAME .
 vi.liveen.vn IN CNAME .
 vi.ml314.com IN CNAME .
 vi.oppa888.com IN CNAME .
-vi.pacifics.sbs IN CNAME .
 vi.sienitenovices.com IN CNAME .
 vi.slimmedguarded.com IN CNAME .
 vi.spratstatters.com IN CNAME .
@@ -408775,7 +408824,6 @@ vipspel.buzz IN CNAME .
 vipspel.com IN CNAME .
 vipspinsamurai.com IN CNAME .
 vipsports.eu IN CNAME .
-vipspotflirts.life IN CNAME .
 vipsta1.com IN CNAME .
 vipstakes.com IN CNAME .
 vipsukcasino2026.com IN CNAME .
@@ -416419,7 +416467,6 @@ wct.softonic.ru IN CNAME .
 wct.softonic.se IN CNAME .
 wct77.com IN CNAME .
 wctexasnews.com IN CNAME .
-wctnode.top IN CNAME .
 wctr.aures.ag IN CNAME .
 wctr.bodenverkauf.de IN CNAME .
 wctr.hh-klebetechnologie.de IN CNAME .
@@ -446983,7 +447030,6 @@ wwwspielcasino.de IN CNAME .
 wwwstat.rz.uni-leipzig.de IN CNAME .
 wwwsy669com.4599.cc IN CNAME .
 wwwtarget.com IN CNAME .
-wwwtk1976com.yuhuan.cc IN CNAME .
 wwwtwa.com IN CNAME .
 wwwvaycasino274.com IN CNAME .
 wwww-393bet.com IN CNAME .
@@ -448618,7 +448664,6 @@ xgogi.com IN CNAME .
 xgokhtmizpgj.com IN CNAME .
 xgolyqyfjuuwn.online IN CNAME .
 xgoqw.sweettgirl.com IN CNAME .
-xgoxwcldkz.top IN CNAME .
 xgozhrjmwwgxf.site IN CNAME .
 xgr5.com IN CNAME .
 xgraph.net IN CNAME .
@@ -455305,6 +455350,7 @@ yugzxuplswhpp.website IN CNAME .
 yuhfdwesaa.appspot.com IN CNAME .
 yuhkgedgnxjmh.space IN CNAME .
 yuhuads.com IN CNAME .
+yuhuan.cc IN CNAME .
 yuhutop.site IN CNAME .
 yui06111shga.com IN CNAME .
 yui06120shga.com IN CNAME .
@@ -459426,7 +459472,6 @@ zxjpauyihekzf.space IN CNAME .
 zxjxbwkzfixsk.website IN CNAME .
 zxkldnhc66632148p.com IN CNAME .
 zxm999.com IN CNAME .
-zxmenhmo.top IN CNAME .
 zxmh912.com IN CNAME .
 zxnmbtdwlyafw.website IN CNAME .
 zxnymrendoxms.space IN CNAME .
