@@ -88,6 +88,10 @@ jobs:
           cd scripts
           ./check_zonedata.sh
       
+      - name: Generate hosts file from doh_combined.txt
+        run: |
+          ./scripts/generate_hosts_file.sh
+      
       - name: Check for changes
         id: verify-changed-files
         run: |
