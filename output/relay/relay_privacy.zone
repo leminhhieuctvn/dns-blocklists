@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1769049980    ; serial
+                                        1769130306    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7587,6 +7587,7 @@ blog.b2lead.com IN CNAME .
 blog.myomnipod.com IN CNAME .
 blog.tagcentral.fr IN CNAME .
 blog.trinityconsultants.com IN CNAME .
+bloomreach.co IN CNAME .
 bloomsend.com IN CNAME .
 blsoof.wirwinzer.de IN CNAME .
 bl-test.curatedplanet.com IN CNAME .
@@ -32500,6 +32501,7 @@ sotelsystems.actonservice.com IN CNAME .
 soubej.larebajavirtual.com IN CNAME .
 soulclicking.com IN CNAME .
 soundstocking.com IN CNAME .
+sourcecodeinfo.com IN CNAME .
 sourceoak.com IN CNAME .
 sourcepoint-mms.aetv.com IN CNAME .
 sourcepoint-mms.history.com IN CNAME .
@@ -38096,6 +38098,7 @@ triton.actonservice.com IN CNAME .
 triton.companyegg.com IN CNAME .
 t.rituxan.com IN CNAME .
 triumph.actonservice.com IN CNAME .
+triumphbull.com IN CNAME .
 tr.jend.espmp-pofr.net IN CNAME .
 tr.jesuis.enformedelotus.com IN CNAME .
 tr.jevoteenligne.fr IN CNAME .
@@ -39266,6 +39269,7 @@ txvoin.with2.net IN CNAME .
 txyqik.jjshouse.fr IN CNAME .
 t.y8.com IN CNAME .
 tybfxw.puma.com IN CNAME .
+typepredict.com IN CNAME .
 typewebsite.com IN CNAME .
 typicalairplane.com IN CNAME .
 typicalteeth.com IN CNAME .
@@ -39456,6 +39460,7 @@ unequalbrake.com IN CNAME .
 unequaltrail.com IN CNAME .
 uni7.uniplaces.com IN CNAME .
 unicontainers.com IN CNAME .
+unidays.world IN CNAME .
 unifiedwfo.verintsystemsinc.com IN CNAME .
 unifilabs.actonservice.com IN CNAME .
 uninterestedquarter.com IN CNAME .
@@ -39999,6 +40004,7 @@ utjzyz.phillips.com IN CNAME .
 utklhk.kojima.net IN CNAME .
 utm.semilab.hu IN CNAME .
 utm.shireburn.com IN CNAME .
+utopiaband.net IN CNAME .
 utrack.hexun.com IN CNAME .
 uts.auction.co.kr IN CNAME .
 utsgw.auction.co.kr IN CNAME .
@@ -43555,6 +43561,7 @@ ads-bdapi-th.heytapmobile.com IN CNAME .
 ads-bdapi-vn.heytapmobile.com IN CNAME .
 adx-ads-fr.heytapmobile.com IN CNAME .
 adx-ads-ru.heytapmobile.com IN CNAME .
+adx-op-sg.heytapmobile.com IN CNAME .
 bdapi-ads-sg.heytapmobile.com IN CNAME .
 cloudi-in.browser.heytapmobile.com IN CNAME .
 cloudi-sg.browser.heytapmobile.com IN CNAME .
