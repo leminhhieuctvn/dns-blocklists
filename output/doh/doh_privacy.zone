@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1769216515    ; serial
+                                        1769303382    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5175,6 +5175,7 @@ analytics.discountpowertx.com IN CNAME .
 analytics.disney.go.com IN CNAME .
 analytics.disneyinternational.com IN CNAME .
 analytics.disneyplus.com IN CNAME .
+analytics.distributednews.com IN CNAME .
 analytics.dvidshub.net IN CNAME .
 analytics.dv.socure.io IN CNAME .
 analytics.edgekey.net IN CNAME .
@@ -5192,6 +5193,7 @@ analytics.erepublic.com IN CNAME .
 analytics.ericafischerphotography.com IN CNAME .
 analytics.esporteinterativo.com.br IN CNAME .
 analytics.eventbrite.com IN CNAME .
+analytics.everythingstream.com IN CNAME .
 analytics.evo.co.uk IN CNAME .
 analytics.faceitanalytics.com IN CNAME .
 analytics.faprika.net IN CNAME .
@@ -7366,6 +7368,7 @@ beacon.dropbox.com IN CNAME .
 beacon.errorception.com IN CNAME .
 beacon.flow.io IN CNAME .
 beacon.klm.com IN CNAME .
+beacon.peakhour.io IN CNAME .
 beacon.qq.com IN CNAME .
 beacon.radiko.jp IN CNAME .
 beacon.riskified.com IN CNAME .
@@ -10306,6 +10309,7 @@ data.email.virginatlantic.com IN CNAME .
 data.email.yourmessage.aviva.co.uk IN CNAME .
 data.email.yousee.dk IN CNAME .
 data.em.assurancewireless.com IN CNAME .
+data.emb-api.com IN CNAME .
 data.embeddables.com IN CNAME .
 data.emdev.officedepot.com IN CNAME .
 data.emea.coca-cola.com IN CNAME .
@@ -11842,6 +11846,7 @@ ed1.newtekone.com IN CNAME .
 ed4online.actonservice.com IN CNAME .
 e.darpro-solutions.com IN CNAME .
 edavbu.vittz.co.kr IN CNAME .
+eddl.cdi.services.sap.com IN CNAME .
 edeals.rbp.com IN CNAME .
 edeals.rhymebiz.com IN CNAME .
 ed.emp.at IN CNAME .
@@ -12803,6 +12808,7 @@ etgkbu.unieuro.it IN CNAME .
 etherealbamboo.com IN CNAME .
 ethereallagoon.com IN CNAME .
 etherealpinnacle.com IN CNAME .
+eth.llamarpc.com IN CNAME .
 etk.locusrobotics.com IN CNAME .
 etl.springbot.com IN CNAME .
 et.nytimes.com IN CNAME .
@@ -19215,6 +19221,7 @@ lnk.welthee.com IN CNAME .
 lnntnt.hsastore.com IN CNAME .
 lntvby.banggood.com IN CNAME .
 lnxfgm.party-calendar.net IN CNAME .
+loaddisplay.com IN CNAME .
 loadedhearts.com IN CNAME .
 loader-cdn.azureedge.net IN CNAME .
 load.nootiz.com IN CNAME .
@@ -23428,6 +23435,7 @@ mm.morrellinc.com IN CNAME .
 mmobsz.edenviaggi.it IN CNAME .
 m.moomoo.com IN CNAME .
 mm.openapp.link IN CNAME .
+mm-sdk-analytics.api.cx.metamask.io IN CNAME .
 mmulsx.comet.it IN CNAME .
 mmwlwm.autoscout24.pl IN CNAME .
 m.mylifetime.com IN CNAME .
@@ -23971,6 +23979,7 @@ nfudeh.jadebag.co.kr IN CNAME .
 ngazee.novostroy-m.ru IN CNAME .
 ngc1.nsm-corp.com IN CNAME .
 ngcbjq.frecuento.com IN CNAME .
+ngds.sap.com IN CNAME .
 ngghll.me.co.kr IN CNAME .
 ngs.actonservice.com IN CNAME .
 ngueja.2ememain.be IN CNAME .
@@ -23986,6 +23995,7 @@ ni8.lafuma-boutique.com IN CNAME .
 ni8.lafuma.com IN CNAME .
 niblewren.co IN CNAME .
 nicefollows.com IN CNAME .
+nicehuh.com IN CNAME .
 nidays.austria.ni.com IN CNAME .
 nidays.suisse.ni.com IN CNAME .
 nidays.switzerland.ni.com IN CNAME .
@@ -36213,6 +36223,7 @@ t.mydialoginsight.com IN CNAME .
 t.mynexity.fr IN CNAME .
 t.nativendo.de IN CNAME .
 t.navysports.com IN CNAME .
+t.nc0.co IN CNAME .
 tncid.app IN CNAME .
 tncpzu.marelbo.com IN CNAME .
 tnegqr.bohme.com IN CNAME .
@@ -36681,6 +36692,7 @@ tracking.americas.business.samsung.com IN CNAME .
 tracking.analysis.hibu.com IN CNAME .
 tracking.apac.business.samsung.com IN CNAME .
 tracking-api-4lasu2nlcq-ew.a.run.app IN CNAME .
+tracking-api.bookzone.ro IN CNAME .
 tracking-api.hotmart.com IN CNAME .
 tracking-api.mangopulse.net IN CNAME .
 tracking.arabiancentres.com IN CNAME .
