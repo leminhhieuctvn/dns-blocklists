@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1769389715    ; serial
+                                        1769562275    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -12736,6 +12736,7 @@ epoisepreptest.epoise.com IN CNAME .
 e.pomonaelectronics.com IN CNAME .
 ep.regis.edu IN CNAME .
 eproof.drudgereport.com IN CNAME .
+epsilon.6sense.com IN CNAME .
 epsilondelta.co IN CNAME .
 epwa.europarl.europa.eu IN CNAME .
 eq-beacon.stream.co.jp IN CNAME .
@@ -19713,6 +19714,7 @@ maformationofficinale.actonservice.com IN CNAME .
 magento-recs-sdk.adobe.net IN CNAME .
 maggieeatstheangel.com IN CNAME .
 magicaljoin.com IN CNAME .
+magicalpiano.com IN CNAME .
 magic.freetrade.io IN CNAME .
 magicminibox.com IN CNAME .
 magic.prism.gg IN CNAME .
@@ -37432,6 +37434,7 @@ track.zappos.com IN CNAME .
 tr.acq-pjms.fr IN CNAME .
 trac.roomster.com IN CNAME .
 tr.actiflip.devisdirect.com IN CNAME .
+traction.technologyadvice.com IN CNAME .
 tr.activeprospects.info IN CNAME .
 tr.actualites.bfmtv.com IN CNAME .
 tr.actualites.reseau-lcd.org IN CNAME .
@@ -40054,6 +40057,7 @@ uzhobt.wholesalemarine.com IN CNAME .
 uzipbs.weltbild.ch IN CNAME .
 uzpkre.connor.com.au IN CNAME .
 v16m-default.akamaized.net.iberostar.com IN CNAME .
+vacationsgolf.com IN CNAME .
 v.adblockultimate.net IN CNAME .
 vahlnd.bogsfootwear.com IN CNAME .
 valdes.net.anwalt.de IN CNAME .
@@ -40208,6 +40212,7 @@ vip.granicus.com IN CNAME .
 vip.maxtor.com IN CNAME .
 vipwao.nutrimuscle.com IN CNAME .
 vipyou.bulkpowders.es IN CNAME .
+viralfoodie.net IN CNAME .
 virtualvincent.com IN CNAME .
 vision.cbre.com.au IN CNAME .
 vision.cbresi.com.au IN CNAME .
@@ -40849,6 +40854,7 @@ whimsicalcanyon.com IN CNAME .
 whimsicalgrove.com IN CNAME .
 whimsicalvantage.com IN CNAME .
 whimsicalzenith.com IN CNAME .
+whimsygadget.com IN CNAME .
 wh.ipaddress.com IN CNAME .
 whirlwealth.com IN CNAME .
 whiskyqueue.com IN CNAME .
