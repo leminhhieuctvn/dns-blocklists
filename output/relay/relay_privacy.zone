@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1769562329    ; serial
+                                        1769649164    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5192,6 +5192,7 @@ analytics.emol.com IN CNAME .
 analytics.erepublic.com IN CNAME .
 analytics.ericafischerphotography.com IN CNAME .
 analytics.esporteinterativo.com.br IN CNAME .
+analytics.eternagame.org IN CNAME .
 analytics.eventbrite.com IN CNAME .
 analytics.everythingstream.com IN CNAME .
 analytics.evo.co.uk IN CNAME .
@@ -5302,6 +5303,7 @@ analytics.lunaweb.cloud IN CNAME .
 analytics.lunge.de IN CNAME .
 analytics.m7g.twitch.tv IN CNAME .
 analytics.maikel.pro IN CNAME .
+analytics.maileon.com IN CNAME .
 analytics.mailmunch.co IN CNAME .
 analytics.makeitmeme.com IN CNAME .
 analytics.makro.be IN CNAME .
@@ -11289,6 +11291,7 @@ dl.grip.events IN CNAME .
 dlh1.hilton.com IN CNAME .
 dl.hadaaya.com IN CNAME .
 dl.health-programs.express-scripts.com IN CNAME .
+d.lilstts.com IN CNAME .
 dlink.blueapron.com IN CNAME .
 dlink.hsdyn.com IN CNAME .
 dlink-staging.blueapron.com IN CNAME .
@@ -13376,6 +13379,7 @@ fiduciaryfirst.actonservice.com IN CNAME .
 fieldconfig.com IN CNAME .
 fight.offtherecord.com IN CNAME .
 figsprotein.com IN CNAME .
+figurehunter.net IN CNAME .
 fiimox.lebenskraftpur.de IN CNAME .
 filament-stats.herokuapp.com IN CNAME .
 filbrandtco.actonservice.com IN CNAME .
@@ -17364,6 +17368,7 @@ itservices.ricoh.de IN CNAME .
 itservices.ricoh.ie IN CNAME .
 itservices.ricoh.no IN CNAME .
 it.sharpmarketing.eu IN CNAME .
+itsstats.wp1.site IN CNAME .
 itt.enterprises.proximus.com IN CNAME .
 itznub.gap.co.uk IN CNAME .
 iujeaa.menz-style.com IN CNAME .
@@ -17826,6 +17831,7 @@ kit22.com IN CNAME .
 kitchen.juicer.cc IN CNAME .
 kitetuning.com IN CNAME .
 k.itribe.in IN CNAME .
+kittentacos.com IN CNAME .
 kittycatking.com IN CNAME .
 kiwi.mdldb.net IN CNAME .
 kjdfho.eidaihouse.com IN CNAME .
@@ -19225,6 +19231,7 @@ lnxfgm.party-calendar.net IN CNAME .
 loaddisplay.com IN CNAME .
 loadedhearts.com IN CNAME .
 loader-cdn.azureedge.net IN CNAME .
+loader.mantis-intelligence.com IN CNAME .
 load.nootiz.com IN CNAME .
 loadsurprise.com IN CNAME .
 loansales.cbre.com IN CNAME .
@@ -33260,6 +33267,7 @@ sstats.wmagazine.com IN CNAME .
 sstats.www.o2.cz IN CNAME .
 sstats.yourchi.org IN CNAME .
 sst.babypark.nl IN CNAME .
+sst.brodo.com IN CNAME .
 sst.bwt.com IN CNAME .
 s.stcatharinesstandard.ca IN CNAME .
 sst.colemanfurniture.com IN CNAME .
@@ -33478,6 +33486,7 @@ stats2.architecturaldigest.com IN CNAME .
 stats2.bonappetit.com IN CNAME .
 stats2.cntraveler.com IN CNAME .
 stats2.golfdigest.com IN CNAME .
+stats2.helpmonks.com IN CNAME .
 stats2.indianpornempire.com IN CNAME .
 stats2.mytuner.mobi IN CNAME .
 stats2.newyorker.com IN CNAME .
@@ -33574,6 +33583,7 @@ stats.brennholzauktion.com IN CNAME .
 stats.briskoda.net IN CNAME .
 stats.broddin.be IN CNAME .
 stats.brumtechtapas.co.uk IN CNAME .
+stats.bryancollins.com IN CNAME .
 stats.buddiy.net IN CNAME .
 stats.bungeefit.co.uk IN CNAME .
 stats.bunkr.ru IN CNAME .
@@ -39475,7 +39485,6 @@ unequalbrake.com IN CNAME .
 unequaltrail.com IN CNAME .
 uni7.uniplaces.com IN CNAME .
 unicontainers.com IN CNAME .
-unidays.world IN CNAME .
 unifiedwfo.verintsystemsinc.com IN CNAME .
 unifilabs.actonservice.com IN CNAME .
 uninterestedquarter.com IN CNAME .
