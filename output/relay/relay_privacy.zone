@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1770167539    ; serial
+                                        1770254042    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4129,6 +4129,7 @@ accuride.actonservice.com IN CNAME .
 accutrain.actonservice.com IN CNAME .
 accuzip.actonservice.com IN CNAME .
 accwww9.53kf.com IN CNAME .
+acds-events.adobe.io IN CNAME .
 ac.dun.163.com IN CNAME .
 ac-ebis.otoraku.jp IN CNAME .
 ac-ebis-otrk.usen.com IN CNAME .
@@ -5494,6 +5495,7 @@ analytics.sixt.jp IN CNAME .
 analytics.sixtmiddleeast.com IN CNAME .
 analytics.sixt.nl IN CNAME .
 analytics.skinit.com IN CNAME .
+analytics.skyscanner.net IN CNAME .
 analytics.slashdotmedia.com IN CNAME .
 analytics.sleeknote.com IN CNAME .
 analytics.smart.mercedes-benz.com IN CNAME .
@@ -11411,6 +11413,7 @@ dollarthrill.com IN CNAME .
 dolphin.deliver.ifeng.com IN CNAME .
 dolrfm.fotoregistro.com.br IN CNAME .
 domainbntest.branchcustom.xyz IN CNAME .
+domaincolumn.com IN CNAME .
 domino.flycl.ps IN CNAME .
 domorewithless.adp.ca IN CNAME .
 domself.de IN CNAME .
@@ -19150,6 +19153,7 @@ live.alljobs.co.il IN CNAME .
 live.comunicaciones.jetstereo.com IN CNAME .
 livecounter.theyosh.nl IN CNAME .
 live.cxo.name IN CNAME .
+live.exchangesolutions.com IN CNAME .
 livelumber.com IN CNAME .
 livelylaugh.com IN CNAME .
 live.polycom.com IN CNAME .
@@ -23559,6 +23563,7 @@ motorsports.locktonaffinity.net IN CNAME .
 motu-teamblue.services IN CNAME .
 mountedbattery.com IN CNAME .
 mousebusters.odencat.com IN CNAME .
+movableobject.com IN CNAME .
 move.azets.com IN CNAME .
 move.azets.dk IN CNAME .
 move.azets.fi IN CNAME .
@@ -24917,6 +24922,7 @@ ovrsso.gemo.fr IN CNAME .
 owa.carhartt.com IN CNAME .
 o.webmd.com IN CNAME .
 owen.prolitteris.ch IN CNAME .
+owlbees.com IN CNAME .
 owlreporter.com IN CNAME .
 owlsr.us IN CNAME .
 owlstwo.com IN CNAME .
@@ -25969,6 +25975,7 @@ ptw-i.actonservice.com IN CNAME .
 p.typekit.net IN CNAME .
 pubfs.com IN CNAME .
 pubimgs.com IN CNAME .
+public.9gtb.com IN CNAME .
 publications.nomination.fr IN CNAME .
 publicidad.davivienda.com.pa IN CNAME .
 publicschoolworks.actonservice.com IN CNAME .
@@ -35976,6 +35983,7 @@ tiredthroat.com IN CNAME .
 tireinside.com IN CNAME .
 tiresomethunder.com IN CNAME .
 t.irtyc.com IN CNAME .
+titanprod.narvar.com IN CNAME .
 titomacia.net.anwalt.de IN CNAME .
 t.itsehoitoapteekki.fi IN CNAME .
 tittendestages.net.anwalt.de IN CNAME .
