@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1770773097    ; serial
+                                        1770859063    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -9602,6 +9602,7 @@ crafthenry.com IN CNAME .
 crashchance.com IN CNAME .
 cratecamera.com IN CNAME .
 crawford-industries.actonservice.com IN CNAME .
+crcldu.com IN CNAME .
 createdip.com IN CNAME .
 create.encoreglobal.com IN CNAME .
 create.encore-mx.com IN CNAME .
@@ -10945,7 +10946,6 @@ dh0c1bz67fuho.cloudfront.net IN CNAME .
 d.haberler.com IN CNAME .
 dhdaa.duke.edu IN CNAME .
 dhkyrl.discountmags.com IN CNAME .
-dhlsupplychain.dhl.com IN CNAME .
 dhmdja.trueprotein.com.au IN CNAME .
 dhplma.pontofrio.com.br IN CNAME .
 dhsjpz.bugaboo.com IN CNAME .
@@ -26640,6 +26640,7 @@ reqssx.centerparcs.fr IN CNAME .
 request.idangels.org IN CNAME .
 request.verisign.com IN CNAME .
 rertrc.abc-mart.net IN CNAME .
+rescueothers.com IN CNAME .
 rescuerhino.com IN CNAME .
 research.dshb.biology.uiowa.edu IN CNAME .
 research.gartner.com IN CNAME .
@@ -27591,6 +27592,7 @@ sandboxbid.com IN CNAME .
 sandbox-connectlp.keysight.com IN CNAME .
 sandbox-elq.keysight.com IN CNAME .
 sandstrophies.com IN CNAME .
+sandypocket.com IN CNAME .
 sanl.champssports.ca IN CNAME .
 sanl.champssports.com IN CNAME .
 sanl.eastbay.com IN CNAME .
@@ -40117,6 +40119,7 @@ v.angha.me IN CNAME .
 vanishmemory.com IN CNAME .
 vapxga.sieh-an.de IN CNAME .
 varys.asongofzandc.xyz IN CNAME .
+vastmillions.com IN CNAME .
 vatrack.hinet.net IN CNAME .
 vault.gostatera.com IN CNAME .
 vazulp.graniph.com IN CNAME .
@@ -40568,6 +40571,7 @@ wdukge.midwayusa.com IN CNAME .
 wealthcarecapital.actonservice.com IN CNAME .
 wealth.informabi.com IN CNAME .
 weare.ballymoregroup.com IN CNAME .
+weatherbytes.net IN CNAME .
 web1.51.la IN CNAME .
 web2.perkinelmer.com IN CNAME .
 web3.perkinelmer.com IN CNAME .
