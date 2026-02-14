@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1770945663    ; serial
+                                        1771031634    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -643,6 +643,6 @@ misskey.io IN CNAME .
 23.0.76.144.57.rpz.ip IN CNAME .
 23.0.78.144.57.rpz.ip IN CNAME .
 48.2a03:2880:f31e::.rpz.ip IN CNAME .
-24.0.248.154.204.rpz.ip IN CNAME .
 24.0.250.154.204.rpz.ip IN CNAME .
 24.0.185.193.104.rpz.ip IN CNAME .
+24.0.248.154.204.rpz.ip IN CNAME .
