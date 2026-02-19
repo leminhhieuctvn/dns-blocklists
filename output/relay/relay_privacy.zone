@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1771377513    ; serial
+                                        1771463889    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -10746,6 +10746,7 @@ d.deloitte.fr IN CNAME .
 dd.g2.com IN CNAME .
 dd.garena.com IN CNAME .
 ddioce.wolverine.com IN CNAME .
+ddl.alma.iltalehti.fi IN CNAME .
 ddlbr.timesclub.co IN CNAME .
 ddlcvm.clas.style IN CNAME .
 dd.leboncoin.fr IN CNAME .
@@ -19155,6 +19156,7 @@ link.zulily.com IN CNAME .
 link.zurp.com IN CNAME .
 lio8.destinia.com.pa IN CNAME .
 liosix.mtvuutiset.fi IN CNAME .
+lipstat.com IN CNAME .
 liquid.agora.pl IN CNAME .
 li.rtl2.de IN CNAME .
 listen.trakks.com IN CNAME .
@@ -19173,6 +19175,7 @@ live.exchangesolutions.com IN CNAME .
 livelumber.com IN CNAME .
 livelylaugh.com IN CNAME .
 live.polycom.com IN CNAME .
+livesearch-metrics.magento-ds.com IN CNAME .
 livestats.kaltura.com IN CNAME .
 livestats.matrix.it IN CNAME .
 live.techit.co.il IN CNAME .
@@ -28614,7 +28617,6 @@ services.releasepoint.com IN CNAME .
 servicesscoop.com IN CNAME .
 service.techzine.eu IN CNAME .
 service.trustpid.com IN CNAME .
-service.utiq.com IN CNAME .
 service.vrp.com IN CNAME .
 servicing.business.hsbc.com IN CNAME .
 servicing.unitedautocredit.net IN CNAME .
@@ -28626,6 +28628,7 @@ setaram.actonservice.com IN CNAME .
 setonhill.actonservice.com IN CNAME .
 settleshoes.com IN CNAME .
 setup.physiapp.com IN CNAME .
+sevendeer.com IN CNAME .
 sevenhalves.com IN CNAME .
 severn.viessmann.co.uk IN CNAME .
 sex.viralof.online IN CNAME .
@@ -33480,6 +33483,7 @@ statistics.riskommunal.net IN CNAME .
 statistics.streamdav.com IN CNAME .
 statistics.tattermedia.com IN CNAME .
 statistics.tuv.com IN CNAME .
+statistics.werkenntdenbesten.de IN CNAME .
 statistics.wibiya.com IN CNAME .
 statistiek.rijksoverheid.nl IN CNAME .
 statistik.apartments-tirolerhaus.at IN CNAME .
@@ -33529,6 +33533,7 @@ stat.ringier.sk IN CNAME .
 stat.rizeniskoly.cz IN CNAME .
 stat.rum.cdnvideo.ru IN CNAME .
 stat.russianfood.com IN CNAME .
+stat.rz.htw-berlin.de IN CNAME .
 stats2.architecturaldigest.com IN CNAME .
 stats2.bonappetit.com IN CNAME .
 stats2.cntraveler.com IN CNAME .
@@ -35620,6 +35625,7 @@ teenytinycellar.com IN CNAME .
 teenytinyshirt.com IN CNAME .
 teenytinytongue.com IN CNAME .
 teen.zubie.com IN CNAME .
+teeshining.com IN CNAME .
 te.frankonia.at IN CNAME .
 te.frankonia.com IN CNAME .
 te.frankonia.de IN CNAME .
@@ -36817,6 +36823,7 @@ tracking.brady.pl IN CNAME .
 tracking.brandmentions.com IN CNAME .
 tracking.brevant.ca IN CNAME .
 tracking.brgeneral.org IN CNAME .
+tracking.buhl.de IN CNAME .
 tracking.build.com IN CNAME .
 tracking.burriswindows.com IN CNAME .
 tracking.busenladies.de IN CNAME .
@@ -39518,6 +39525,7 @@ umdlbn.globetrotter.de IN CNAME .
 umdpva.gakumado.mynavi.jp IN CNAME .
 umhyck.belvilla.com IN CNAME .
 umiaob.kireibiz.jp IN CNAME .
+umi.cloudful.de IN CNAME .
 umrvmb.net.anwalt.de IN CNAME .
 umtzwr.adidas.co.kr IN CNAME .
 umwuxk.hotel.cz IN CNAME .
