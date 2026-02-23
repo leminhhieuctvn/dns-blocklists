@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1771723050    ; serial
+                                        1771809431    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -44008,6 +44008,7 @@ location-va.tiktokv.com IN CNAME .
 locationv16-normal-useastred.tiktokv.eu IN CNAME .
 log.tiktokv.com IN CNAME .
 log.tiktokv.us IN CNAME .
+log-boot.tiktokv.com IN CNAME .
 log-i18n.tiktokv.com IN CNAME .
 log-phx.tiktokv.com IN CNAME .
 log-ru.tiktokv.com IN CNAME .
