@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1772240888    ; serial
+                                        1772328166    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -43643,6 +43643,8 @@ dragate-cn.dc.heytapmobi.com IN CNAME .
 dragate-in.dc.heytapmobi.com IN CNAME .
 dragate-sg.dc.heytapmobi.com IN CNAME .
 obus-cn.dc.heytapmobi.com IN CNAME .
+dc-dragate-cn.heytapmobi.com IN CNAME .
+dcc-awareness-cn.heytapmobi.com IN CNAME .
 api-id.game.heytapmobi.com IN CNAME .
 iot-earbuds-cn.heytapmobi.com IN CNAME .
 mdp-usertrace-cn.heytapmobi.com IN CNAME .
