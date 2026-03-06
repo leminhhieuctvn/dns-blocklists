@@ -54899,6 +54899,7 @@ d.xiaomi.com
 api.d.xiaomi.com
 feedback.d.xiaomi.com
 api.developer.xiaomi.com
+api.device.xiaomi.net
 extranet.c3.miui-l7-feedback.1irknwwveg.elb.xiaomi.com
 extranet.c3.feedback.2ddfrkx42q.elb.xiaomi.com
 extranet.eu-east-1.miui-l7-feedback.c7qiwffdmn.elb.xiaomi.com
@@ -54911,6 +54912,7 @@ extranet.c4.miui-l7-feedback.q2fo3bs76f.elb.xiaomi.com
 extranet.ap-southeast-1.miui-l7-feedback.qkou0akepj.elb.xiaomi.com
 extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com
 extranet.c3.bigdata-l7-dp-lan.x0x8wmy6im.elb.xiaomi.com
+ad.eu.xiaomi.com
 sdkconfig.ad.eu.xiaomi.com
 cdn.exp.xiaomi.com
 lxcdn.dl.files.xiaomi.net
@@ -54954,6 +54956,7 @@ api.hybrid.xiaomi.com
 ad.quickapp.hybrid.xiaomi.com
 i.xiaomi.com
 pi.ias.xiaomi.com
+ad.india.xiaomi.com
 sdkconfig.ad.india.xiaomi.com
 controller.india.xiaomi.com
 mistat.india.xiaomi.com
@@ -54963,11 +54966,15 @@ api.installer.xiaomi.com
 ad.intl.xiaomi.com
 api.ad.intl.xiaomi.com
 cc.ad.intl.xiaomi.com
+eu-ortb-api.ad.intl.xiaomi.com
 globalreport.ad.intl.xiaomi.com
+in-ortb-api.ad.intl.xiaomi.com
 mos-ortb-api.ad.intl.xiaomi.com
 mosapi.ad.intl.xiaomi.com
 odml.ad.intl.xiaomi.com
+pixel.ad.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
+sgp-ortb-api.ad.intl.xiaomi.com
 sgpapi.ad.intl.xiaomi.com
 test.ad.intl.xiaomi.com
 mistat.intl.xiaomi.com
@@ -55044,6 +55051,7 @@ bss.pandora.xiaomi.com
 m.bss.pandora.xiaomi.com
 c3-bgp.pandora.xiaomi.com
 c3mini.pandora.xiaomi.com
+ad.cdn.pandora.xiaomi.com
 appstore.cdn.pandora.xiaomi.com
 gallery.cdn.pandora.xiaomi.com
 image.cdn.pandora.xiaomi.com
@@ -55101,6 +55109,7 @@ staging-analyze.pt.xiaomi.com
 staging.stat.pt.xiaomi.com
 qiye.xiaomi.com
 sec.resource.xiaomi.net
+ad.rus.xiaomi.com
 sdkconfig.ad.rus.xiaomi.com
 mistat.rus.xiaomi.com
 data.mistat.rus.xiaomi.com

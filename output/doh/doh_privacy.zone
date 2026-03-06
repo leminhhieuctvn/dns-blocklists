@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1772673377    ; serial
+                                        1772759973    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -54911,6 +54911,7 @@ d.xiaomi.com IN CNAME .
 api.d.xiaomi.com IN CNAME .
 feedback.d.xiaomi.com IN CNAME .
 api.developer.xiaomi.com IN CNAME .
+api.device.xiaomi.net IN CNAME .
 extranet.c3.miui-l7-feedback.1irknwwveg.elb.xiaomi.com IN CNAME .
 extranet.c3.feedback.2ddfrkx42q.elb.xiaomi.com IN CNAME .
 extranet.eu-east-1.miui-l7-feedback.c7qiwffdmn.elb.xiaomi.com IN CNAME .
@@ -54923,6 +54924,7 @@ extranet.c4.miui-l7-feedback.q2fo3bs76f.elb.xiaomi.com IN CNAME .
 extranet.ap-southeast-1.miui-l7-feedback.qkou0akepj.elb.xiaomi.com IN CNAME .
 extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com IN CNAME .
 extranet.c3.bigdata-l7-dp-lan.x0x8wmy6im.elb.xiaomi.com IN CNAME .
+ad.eu.xiaomi.com IN CNAME .
 sdkconfig.ad.eu.xiaomi.com IN CNAME .
 cdn.exp.xiaomi.com IN CNAME .
 lxcdn.dl.files.xiaomi.net IN CNAME .
@@ -54966,6 +54968,7 @@ api.hybrid.xiaomi.com IN CNAME .
 ad.quickapp.hybrid.xiaomi.com IN CNAME .
 i.xiaomi.com IN CNAME .
 pi.ias.xiaomi.com IN CNAME .
+ad.india.xiaomi.com IN CNAME .
 sdkconfig.ad.india.xiaomi.com IN CNAME .
 controller.india.xiaomi.com IN CNAME .
 mistat.india.xiaomi.com IN CNAME .
@@ -54975,11 +54978,15 @@ api.installer.xiaomi.com IN CNAME .
 ad.intl.xiaomi.com IN CNAME .
 api.ad.intl.xiaomi.com IN CNAME .
 cc.ad.intl.xiaomi.com IN CNAME .
+eu-ortb-api.ad.intl.xiaomi.com IN CNAME .
 globalreport.ad.intl.xiaomi.com IN CNAME .
+in-ortb-api.ad.intl.xiaomi.com IN CNAME .
 mos-ortb-api.ad.intl.xiaomi.com IN CNAME .
 mosapi.ad.intl.xiaomi.com IN CNAME .
 odml.ad.intl.xiaomi.com IN CNAME .
+pixel.ad.intl.xiaomi.com IN CNAME .
 sdkconfig.ad.intl.xiaomi.com IN CNAME .
+sgp-ortb-api.ad.intl.xiaomi.com IN CNAME .
 sgpapi.ad.intl.xiaomi.com IN CNAME .
 test.ad.intl.xiaomi.com IN CNAME .
 mistat.intl.xiaomi.com IN CNAME .
@@ -55056,6 +55063,7 @@ bss.pandora.xiaomi.com IN CNAME .
 m.bss.pandora.xiaomi.com IN CNAME .
 c3-bgp.pandora.xiaomi.com IN CNAME .
 c3mini.pandora.xiaomi.com IN CNAME .
+ad.cdn.pandora.xiaomi.com IN CNAME .
 appstore.cdn.pandora.xiaomi.com IN CNAME .
 gallery.cdn.pandora.xiaomi.com IN CNAME .
 image.cdn.pandora.xiaomi.com IN CNAME .
@@ -55113,6 +55121,7 @@ staging-analyze.pt.xiaomi.com IN CNAME .
 staging.stat.pt.xiaomi.com IN CNAME .
 qiye.xiaomi.com IN CNAME .
 sec.resource.xiaomi.net IN CNAME .
+ad.rus.xiaomi.com IN CNAME .
 sdkconfig.ad.rus.xiaomi.com IN CNAME .
 mistat.rus.xiaomi.com IN CNAME .
 data.mistat.rus.xiaomi.com IN CNAME .
