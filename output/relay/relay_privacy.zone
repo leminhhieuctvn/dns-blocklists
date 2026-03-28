@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1774574673    ; serial
+                                        1774660713    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -26071,6 +26071,7 @@ pubimgs.com IN CNAME .
 public.9gtb.com IN CNAME .
 publications.nomination.fr IN CNAME .
 publicidad.davivienda.com.pa IN CNAME .
+public.profitwell.com IN CNAME .
 publicschoolworks.actonservice.com IN CNAME .
 publicsofa.com IN CNAME .
 publish.tagstorm.com IN CNAME .
@@ -35767,6 +35768,7 @@ telemetry.webasto.com IN CNAME .
 telem.sre.gopuff.com IN CNAME .
 telephoneapparatus.com IN CNAME .
 te.limango.de IN CNAME .
+t.elitedomains.de IN CNAME .
 telsmith.actonservice.com IN CNAME .
 telstraphonewords.actonservice.com IN CNAME .
 tel.telegraaf.nl IN CNAME .
@@ -36668,6 +36670,7 @@ tracker.520call.me IN CNAME .
 tracker-aa.pafbetscore.lv IN CNAME .
 tracker-aa.paf.es IN CNAME .
 tracker.adbinead.com IN CNAME .
+tracker.adcluster.com.tr IN CNAME .
 tracker.affiliate.iqbroker.com IN CNAME .
 tracker.affirm.com IN CNAME .
 tracker.ai.xiaomi.com IN CNAME .
@@ -39157,6 +39160,7 @@ truebackpack.com IN CNAME .
 truefaced.actonservice.com IN CNAME .
 truejasmine.com IN CNAME .
 truemfg.actonservice.com IN CNAME .
+trueselfkeys.com IN CNAME .
 truffle.bid IN CNAME .
 tr.ujsv.espmp-agfr.net IN CNAME .
 tr.uk.icicibank.com IN CNAME .
@@ -40291,6 +40295,7 @@ verify.spin.app IN CNAME .
 verify.test.spin.app IN CNAME .
 verizon-branch.locationlabs.com IN CNAME .
 verseballs.com IN CNAME .
+versuswall.com IN CNAME .
 vertexcs.actonservice.com IN CNAME .
 vetsource.actonservice.com IN CNAME .
 ve.velocityclinical.com IN CNAME .
@@ -42815,6 +42820,7 @@ cell8011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell8011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell8012.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell8012.fra.mobile.event-eu.ads.aps.amazon-adsystem.com IN CNAME .
+cell8031.dub.stv.event-eu.ads.aps.amazon-adsystem.com IN CNAME .
 client.aps.amazon-adsystem.com IN CNAME .
 client.rum.us-east-1.amazonaws.com IN CNAME .
 config.aps.amazon-adsystem.com IN CNAME .
@@ -42900,7 +42906,6 @@ fls-na.amazon.com IN CNAME .
 fls-na.amazon.com.br IN CNAME .
 fls-na.amazon.com.mx IN CNAME .
 forester.a2z.com IN CNAME .
-fra.mobile.event-eu.ads.aps.amazon-adsystem.com IN CNAME .
 ftv.bugsnag.appstore.a2z.com IN CNAME .
 gamma-config.aps.amazon-adsystem.com IN CNAME .
 gamma-toolbox.aps.amazon-adsystem.com IN CNAME .
@@ -43155,6 +43160,7 @@ vq-fe-us-west-2.amazon-adsystem.com IN CNAME .
 vq-test-us-east-1.amazon-adsystem.com IN CNAME .
 vq-us-east-1.amazon-adsystem.com IN CNAME .
 vq-us-west-2.amazon-adsystem.com IN CNAME .
+web-banner-event-cell8001.ads.aps.amazon-adsystem.com IN CNAME .
 web-video.ads.aps.amazon-adsystem.com IN CNAME .
 web.ads.aps.amazon-adsystem.com IN CNAME .
 web.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
