@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1775179503    ; serial
+                                        1775265537    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -41084,6 +41084,7 @@ wisedotcom.com IN CNAME .
 wispycity.com IN CNAME .
 wissen.sage.de IN CNAME .
 wistfulwaste.com IN CNAME .
+withsounds.com IN CNAME .
 withyou.shorr.com IN CNAME .
 wittypopcorn.com IN CNAME .
 wizardbuck.com IN CNAME .
@@ -43846,6 +43847,7 @@ browser-sdk-fr.heytapmobile.com IN CNAME .
 browser-sdk-in.heytapmobile.com IN CNAME .
 browser-sdk-ru.heytapmobile.com IN CNAME .
 browserfiles.heytapmobile.com IN CNAME .
+bsp-di-in.heytapmobile.com IN CNAME .
 api-gl.cdo.heytapmobile.com IN CNAME .
 api-id.cdo.heytapmobile.com IN CNAME .
 api-in.cdo.heytapmobile.com IN CNAME .
@@ -44462,6 +44464,7 @@ mcs-ie.tiktokw.eu.ttdns3.com IN CNAME .
 mcs-ie2.tiktokw.eu.ttdns3.com IN CNAME .
 h4g3z1-native.tiktok.extended.web.app IN CNAME .
 vhs.wwstat.com.eo.unicomcdn.com.cn IN CNAME .
+adlog.vivo.com.cn IN CNAME .
 adxlog-adnet.vivo.com.cn IN CNAME .
 az.appstore.vivo.com.cn IN CNAME .
 appstore-trace-h5sdk.vivo.com.cn IN CNAME .
@@ -44472,6 +44475,7 @@ vhs.wwstat.com.ctdns.cn IN CNAME .
 trackercollect.ddxq.mobi IN CNAME .
 trackerfeed.ddxq.mobi IN CNAME .
 vhs.wwstat.com.eo.dnse0.com IN CNAME .
+adlog.vivo.com IN CNAME .
 ads-api.vivo.com IN CNAME .
 asia-abeacdataonrt-stsdk.vivoglobal.com IN CNAME .
 asia-abeacdataort-stsdk.vivoglobal.com IN CNAME .
