@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1775438980    ; serial
+                                        1775525209    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -8423,6 +8423,7 @@ cdn.9gtb.com IN CNAME .
 cdn-a.raptor.digital IN CNAME .
 cdn.arcstudiopro.com IN CNAME .
 cdn-channels-pixel.ex.co IN CNAME .
+cdn.eaec.fpfis.tech.ec.europa.eu IN CNAME .
 cdn-eu.usefathom.com IN CNAME .
 cdnhst.xyz IN CNAME .
 cdnlogs.org IN CNAME .
@@ -8462,6 +8463,7 @@ cesario.bt.no IN CNAME .
 cfaexam.quantresear.ch IN CNAME .
 cfa.fidelity.com IN CNAME .
 cf.api.instant.one IN CNAME .
+cfapi.upstackdata.io IN CNAME .
 cfb.8it.me IN CNAME .
 cf.campagnes-france.com IN CNAME .
 c.fingerprint.com IN CNAME .
@@ -9533,6 +9535,7 @@ counter.cnw.cz IN CNAME .
 counter.cropvid.com IN CNAME .
 counter.darkreader.app IN CNAME .
 counter.drom.ru IN CNAME .
+counter-growthbook.minute-ly.com IN CNAME .
 counter.hackers.lv IN CNAME .
 counter.hyipexplorer.com IN CNAME .
 counter.insales.ru IN CNAME .
@@ -10039,6 +10042,7 @@ d2lxqodqbpy7c2.cloudfront.net IN CNAME .
 d2lyx5ly60ksu3.cloudfront.net IN CNAME .
 d2o5idwacg3gyw.cloudfront.net IN CNAME .
 d2o67tzzxkqap2.cloudfront.net IN CNAME .
+d2o9p5vky89u4e.cloudfront.net IN CNAME .
 d2oh4tlt9mrke9.cloudfront.net IN CNAME .
 d2pozfvrp52dk4.cloudfront.net IN CNAME .
 d2pt12ct4kmq21.cloudfront.net IN CNAME .
@@ -12825,6 +12829,7 @@ error-collector.ted.com IN CNAME .
 errorreports.couponcabin.com IN CNAME .
 errors.darkreader.app IN CNAME .
 errors.snackly.co IN CNAME .
+error-tracker.pages.dev IN CNAME .
 error.videonow.ru IN CNAME .
 ert5.rmcsport.tv IN CNAME .
 erutinmos.snagajob.com IN CNAME .
@@ -17330,7 +17335,6 @@ ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws IN CNAME .
 i.paypal.com IN CNAME .
 ipcfgw.pieces.com IN CNAME .
 ipcheck.blogsys.jp IN CNAME .
-ip-check-perf.radar.cloudflare.com IN CNAME .
 ip.chipestimate.com IN CNAME .
 ip.cliphunter.com IN CNAME .
 ipdmlm.yoriso.com IN CNAME .
@@ -22257,6 +22261,7 @@ metrics.diy.com IN CNAME .
 metrics.diynetwork.com IN CNAME .
 metric.sdl.com IN CNAME .
 metrics.dockers.com IN CNAME .
+metrics.documentfoundation.org IN CNAME .
 metrics.dog.com IN CNAME .
 metrics.dollar.com IN CNAME .
 metrics.dollargeneral.com IN CNAME .
@@ -26971,6 +26976,7 @@ roaddynamics.com IN CNAME .
 roadwalks.com IN CNAME .
 ro.aiwan4399.com IN CNAME .
 roamhousing.com IN CNAME .
+roas-service.store-services-prod.remarkable.com IN CNAME .
 robotflowermobile.com IN CNAME .
 robotgarages.com IN CNAME .
 rochelle.wantsext.me IN CNAME .
@@ -35759,6 +35765,7 @@ telemetry.navispherecarrier.com IN CNAME .
 telemetry.nav.no IN CNAME .
 telemetry.owenscorning.com IN CNAME .
 telemetry.phenixrts.com IN CNAME .
+telemetry.portal.voltdeutschland.org IN CNAME .
 telemetry.proton.me IN CNAME .
 telemetry.reembed.com IN CNAME .
 telemetry.ruthschris.com IN CNAME .
