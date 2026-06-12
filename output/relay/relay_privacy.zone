@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1781145793    ; serial
+                                        1781229108    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -44217,6 +44217,8 @@ sf16-ads-format-sign.tiktokcdn.com.edgesuite.net IN CNAME .
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net IN CNAME .
 mcs.us.tiktokv.com.edgesuite.net IN CNAME .
 frontier.tiktokv-eu.com.edgesuite.net IN CNAME .
+ad-instantpage-ttp2.tiktokv.eu.edgesuite.net IN CNAME .
+adinstantpage16-normal-useastred.tiktokv.eu.edgesuite.net IN CNAME .
 frontier16-normal-no1a.tiktokv.eu.edgesuite.net IN CNAME .
 frontier16-normal-useastred.tiktokv.eu.edgesuite.net IN CNAME .
 analytics-exp-ttp2.tiktokw.eu.edgesuite.net IN CNAME .
@@ -44228,6 +44230,8 @@ mcs-ie2.tiktokw.eu.edgesuite.net IN CNAME .
 mcs16-normal-no1a.tiktokw.eu.edgesuite.net IN CNAME .
 mcs16-normal-useastred.tiktokw.eu.edgesuite.net IN CNAME .
 frontier.capcutw.us.edgesuite.net IN CNAME .
+ad-instantpage.tiktokv.us.edgesuite.net IN CNAME .
+ad-instantpage-ttp2.tiktokv.us.edgesuite.net IN CNAME .
 frontier.tiktokv.us.edgesuite.net IN CNAME .
 frontier-ttp2.tiktokv.us.edgesuite.net IN CNAME .
 mcs.tiktokv.us.edgesuite.net IN CNAME .
@@ -44663,10 +44667,12 @@ mcs-va.tiktok.com.ttdns2.com IN CNAME .
 mcs-va.tiktokv.com.ttdns2.com IN CNAME .
 mcs-va-useast2a.tiktokv.com.ttdns2.com IN CNAME .
 frontier.tiktokv-eu.com.ttdns3.com IN CNAME .
+ad-instantpage-ttp2.tiktokv.eu.ttdns3.com IN CNAME .
 analytics-ie.tiktokw.eu.ttdns3.com IN CNAME .
 analytics-ttp2.tiktokw.eu.ttdns3.com IN CNAME .
 mcs-ie.tiktokw.eu.ttdns3.com IN CNAME .
 mcs-ie2.tiktokw.eu.ttdns3.com IN CNAME .
+ad-instantpage.tiktokv.us.ttdns4.com IN CNAME .
 h4g3z1-native.tiktok.extended.web.app IN CNAME .
 vhs.wwstat.com.eo.unicomcdn.com.cn IN CNAME .
 adlog.vivo.com.cn IN CNAME .
@@ -46611,6 +46617,7 @@ centralus-0.in.applicationinsights.azure.com IN CNAME .
 centralus-2.in.applicationinsights.azure.com IN CNAME .
 centralus-3.in.applicationinsights.azure.com IN CNAME .
 chinaeast2-0.in.applicationinsights.azure.cn IN CNAME .
+chinaeast3-global.in.applicationinsights.azure.cn IN CNAME .
 chinanorth3-0.in.applicationinsights.azure.cn IN CNAME .
 eastasia-0.in.applicationinsights.azure.com IN CNAME .
 eastus-0.in.applicationinsights.azure.com IN CNAME .
@@ -46654,12 +46661,14 @@ southindia-0.in.applicationinsights.azure.com IN CNAME .
 spaincentral-0.in.applicationinsights.azure.com IN CNAME .
 swedencentral-0.in.applicationinsights.azure.com IN CNAME .
 switzerlandnorth-0.in.applicationinsights.azure.com IN CNAME .
+uaenorth-0.in.applicationinsights.azure.com IN CNAME .
 uksouth-0.in.applicationinsights.azure.com IN CNAME .
 uksouth-1.in.applicationinsights.azure.com IN CNAME .
 ukwest-0.in.applicationinsights.azure.com IN CNAME .
 usgovarizona-0.in.applicationinsights.azure.us IN CNAME .
 usgovvirginia-0.in.applicationinsights.azure.us IN CNAME .
 usgovvirginia-1.in.applicationinsights.azure.us IN CNAME .
+usgovvirginia-global.in.applicationinsights.azure.us IN CNAME .
 westeurope.in.applicationinsights.azure.com IN CNAME .
 westeurope-0.in.applicationinsights.azure.com IN CNAME .
 westeurope-1.in.applicationinsights.azure.com IN CNAME .
@@ -46739,6 +46748,7 @@ eurppc-word-telemetry.officeapps.live.com IN CNAME .
 excel-telemetry.officeapps.live.com IN CNAME .
 ffc-excel-telemetry.officeapps.live.com IN CNAME .
 ffc-word-telemetry.officeapps.live.com IN CNAME .
+fgteu1-word-telemetry-vip.officeapps.live.com IN CNAME .
 frc-visio-telemetry.officeapps.live.com IN CNAME .
 inc-visio-telemetry.officeapps.live.com IN CNAME .
 nexus.officeapps.live.com IN CNAME .
@@ -46862,7 +46872,6 @@ server8.pipe.aria.microsoft.com IN CNAME .
 tb.pipe.aria.microsoft.com IN CNAME .
 us.pipe.aria.microsoft.com IN CNAME .
 collector.azure.microsoft.cloud IN CNAME .
-collector.azure.microsoft.scloud IN CNAME .
 azurewatson.microsoft.com IN CNAME .
 azurewatsontest.microsoft.com IN CNAME .
 bingads.microsoft.com IN CNAME .
@@ -47176,6 +47185,7 @@ m365cdn.nelsdf.measure.office.net IN CNAME .
 powerpointonline.nelsdf.measure.office.net IN CNAME .
 sdwan.measure.office.com IN CNAME .
 prod.editor.ads.trafficmanager.net IN CNAME .
+ads-msn-com-profile.trafficmanager.net IN CNAME .
 adsdk.trafficmanager.net IN CNAME .
 agps-location-livenet.trafficmanager.net IN CNAME .
 analytics.trafficmanager.net IN CNAME .
@@ -47183,9 +47193,12 @@ hub.analytics.trafficmanager.net IN CNAME .
 geo.hub.analytics.trafficmanager.net IN CNAME .
 analytics-listener.trafficmanager.net IN CNAME .
 beacons.trafficmanager.net IN CNAME .
+bingads.trafficmanager.net IN CNAME .
+azure.bingads.trafficmanager.net IN CNAME .
 azure.bcp.bingads.trafficmanager.net IN CNAME .
 azure.tip.bingads.trafficmanager.net IN CNAME .
 ch-asimov-leafs-events-data.trafficmanager.net IN CNAME .
+collection-location-livenet.trafficmanager.net IN CNAME .
 collector-main.trafficmanager.net IN CNAME .
 tracker.flightview.com.trafficmanager.net IN CNAME .
 events.data.trafficmanager.net IN CNAME .
@@ -47249,6 +47262,7 @@ vstelemetry.trafficmanager.net IN CNAME .
 euc-excel-telemetry.wac.trafficmanager.net IN CNAME .
 euc-powerpoint-telemetry.wac.trafficmanager.net IN CNAME .
 euc-word-telemetry.wac.trafficmanager.net IN CNAME .
+eurffc-word-telemetry.wac.trafficmanager.net IN CNAME .
 excel-telemetry.wac.trafficmanager.net IN CNAME .
 powerpoint-telemetry.wac.trafficmanager.net IN CNAME .
 ppc-excel-telemetry.wac.trafficmanager.net IN CNAME .

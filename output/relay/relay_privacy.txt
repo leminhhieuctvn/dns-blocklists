@@ -44205,6 +44205,8 @@ sf16-ads-format-sign.tiktokcdn.com.edgesuite.net
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 mcs.us.tiktokv.com.edgesuite.net
 frontier.tiktokv-eu.com.edgesuite.net
+ad-instantpage-ttp2.tiktokv.eu.edgesuite.net
+adinstantpage16-normal-useastred.tiktokv.eu.edgesuite.net
 frontier16-normal-no1a.tiktokv.eu.edgesuite.net
 frontier16-normal-useastred.tiktokv.eu.edgesuite.net
 analytics-exp-ttp2.tiktokw.eu.edgesuite.net
@@ -44216,6 +44218,8 @@ mcs-ie2.tiktokw.eu.edgesuite.net
 mcs16-normal-no1a.tiktokw.eu.edgesuite.net
 mcs16-normal-useastred.tiktokw.eu.edgesuite.net
 frontier.capcutw.us.edgesuite.net
+ad-instantpage.tiktokv.us.edgesuite.net
+ad-instantpage-ttp2.tiktokv.us.edgesuite.net
 frontier.tiktokv.us.edgesuite.net
 frontier-ttp2.tiktokv.us.edgesuite.net
 mcs.tiktokv.us.edgesuite.net
@@ -44651,10 +44655,12 @@ mcs-va.tiktok.com.ttdns2.com
 mcs-va.tiktokv.com.ttdns2.com
 mcs-va-useast2a.tiktokv.com.ttdns2.com
 frontier.tiktokv-eu.com.ttdns3.com
+ad-instantpage-ttp2.tiktokv.eu.ttdns3.com
 analytics-ie.tiktokw.eu.ttdns3.com
 analytics-ttp2.tiktokw.eu.ttdns3.com
 mcs-ie.tiktokw.eu.ttdns3.com
 mcs-ie2.tiktokw.eu.ttdns3.com
+ad-instantpage.tiktokv.us.ttdns4.com
 h4g3z1-native.tiktok.extended.web.app
 vhs.wwstat.com.eo.unicomcdn.com.cn
 adlog.vivo.com.cn
@@ -46599,6 +46605,7 @@ centralus-0.in.applicationinsights.azure.com
 centralus-2.in.applicationinsights.azure.com
 centralus-3.in.applicationinsights.azure.com
 chinaeast2-0.in.applicationinsights.azure.cn
+chinaeast3-global.in.applicationinsights.azure.cn
 chinanorth3-0.in.applicationinsights.azure.cn
 eastasia-0.in.applicationinsights.azure.com
 eastus-0.in.applicationinsights.azure.com
@@ -46642,12 +46649,14 @@ southindia-0.in.applicationinsights.azure.com
 spaincentral-0.in.applicationinsights.azure.com
 swedencentral-0.in.applicationinsights.azure.com
 switzerlandnorth-0.in.applicationinsights.azure.com
+uaenorth-0.in.applicationinsights.azure.com
 uksouth-0.in.applicationinsights.azure.com
 uksouth-1.in.applicationinsights.azure.com
 ukwest-0.in.applicationinsights.azure.com
 usgovarizona-0.in.applicationinsights.azure.us
 usgovvirginia-0.in.applicationinsights.azure.us
 usgovvirginia-1.in.applicationinsights.azure.us
+usgovvirginia-global.in.applicationinsights.azure.us
 westeurope.in.applicationinsights.azure.com
 westeurope-0.in.applicationinsights.azure.com
 westeurope-1.in.applicationinsights.azure.com
@@ -46727,6 +46736,7 @@ eurppc-word-telemetry.officeapps.live.com
 excel-telemetry.officeapps.live.com
 ffc-excel-telemetry.officeapps.live.com
 ffc-word-telemetry.officeapps.live.com
+fgteu1-word-telemetry-vip.officeapps.live.com
 frc-visio-telemetry.officeapps.live.com
 inc-visio-telemetry.officeapps.live.com
 nexus.officeapps.live.com
@@ -46850,7 +46860,6 @@ server8.pipe.aria.microsoft.com
 tb.pipe.aria.microsoft.com
 us.pipe.aria.microsoft.com
 collector.azure.microsoft.cloud
-collector.azure.microsoft.scloud
 azurewatson.microsoft.com
 azurewatsontest.microsoft.com
 bingads.microsoft.com
@@ -47164,6 +47173,7 @@ m365cdn.nelsdf.measure.office.net
 powerpointonline.nelsdf.measure.office.net
 sdwan.measure.office.com
 prod.editor.ads.trafficmanager.net
+ads-msn-com-profile.trafficmanager.net
 adsdk.trafficmanager.net
 agps-location-livenet.trafficmanager.net
 analytics.trafficmanager.net
@@ -47171,9 +47181,12 @@ hub.analytics.trafficmanager.net
 geo.hub.analytics.trafficmanager.net
 analytics-listener.trafficmanager.net
 beacons.trafficmanager.net
+bingads.trafficmanager.net
+azure.bingads.trafficmanager.net
 azure.bcp.bingads.trafficmanager.net
 azure.tip.bingads.trafficmanager.net
 ch-asimov-leafs-events-data.trafficmanager.net
+collection-location-livenet.trafficmanager.net
 collector-main.trafficmanager.net
 tracker.flightview.com.trafficmanager.net
 events.data.trafficmanager.net
@@ -47237,6 +47250,7 @@ vstelemetry.trafficmanager.net
 euc-excel-telemetry.wac.trafficmanager.net
 euc-powerpoint-telemetry.wac.trafficmanager.net
 euc-word-telemetry.wac.trafficmanager.net
+eurffc-word-telemetry.wac.trafficmanager.net
 excel-telemetry.wac.trafficmanager.net
 powerpoint-telemetry.wac.trafficmanager.net
 ppc-excel-telemetry.wac.trafficmanager.net
