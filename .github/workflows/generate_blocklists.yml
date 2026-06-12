@@ -114,6 +114,39 @@ jobs:
         # Note: For private repos or if you want more control,
         # use a Personal Access Token in secrets instead
       
+      - name: Compile Bloom Filter and Metadata
+        run: |
+          node scripts/compile-bloom-filter.mjs
+
+      - name: Configure AWS Credentials (for R2 upload)
+        if: env.R2_SECRET_ACCESS_KEY != ''
+        run: |
+          mkdir -p ~/.aws
+          cat <<EOF > ~/.aws/credentials
+          [default]
+          aws_access_key_id = ${{ secrets.R2_ACCESS_KEY_ID }}
+          aws_secret_access_key = ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          EOF
+          cat <<EOF > ~/.aws/config
+          [default]
+          region = auto
+          output = json
+          EOF
+        env:
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+
+      - name: Upload Blocklist and Bloom Filter to Cloudflare R2
+        if: env.R2_SECRET_ACCESS_KEY != ''
+        run: |
+          # Upload doh_combined.txt
+          aws s3 cp output/doh/doh_combined.txt s3://${{ secrets.R2_BUCKET_NAME }}/doh/doh_combined.txt --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com --region auto
+          # Upload bloomfilter.bin
+          aws s3 cp bloomfilter.bin s3://${{ secrets.R2_BUCKET_NAME }}/meta/bloomfilter.bin --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com --region auto
+          # Upload blocklist.txt metadata
+          aws s3 cp blocklist.txt s3://${{ secrets.R2_BUCKET_NAME }}/meta/blocklist.txt --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com --region auto
+        env:
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
