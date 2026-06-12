@@ -3,6 +3,10 @@
 dns_blocklists_lists:
   # The Basic list is a smaller, less comprehensive variant of the full list, which focussus mainly on Ads, (Mobile) App Ads
   # https://oisd.nl/faq#basic
+  - name: d3host
+    type: adblock
+    url: https://raw.githubusercontent.com/Turtlecute33/adblocktest/master/src/d3host.txt
+    
   - name: oisd-small
     type: adblock
     url: https://small.oisd.nl/domainswild2
