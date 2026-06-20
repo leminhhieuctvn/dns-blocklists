@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1781837977    ; serial
+                                        1781922033    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5026,6 +5026,7 @@ analytic-client.adult-chess.com IN CNAME .
 analytic-client.blitzmightyparty.com IN CNAME .
 analytic-client.chickgoddess.com IN CNAME .
 analytic-client.panowars.com IN CNAME .
+analytic.divee.ai IN CNAME .
 analytic.fishtrack.com IN CNAME .
 analytic.hawaii.aaa.com IN CNAME .
 analytic.hotelclub.com IN CNAME .
@@ -5337,6 +5338,7 @@ analytics.metro.de IN CNAME .
 analytics.metro.fr IN CNAME .
 analytics.metro.pk IN CNAME .
 analytics.metro.ua IN CNAME .
+analytics.mgm.gov.tr IN CNAME .
 analytics.midas-antilles.fr IN CNAME .
 analytics.midas.be IN CNAME .
 analytics.midas.ci IN CNAME .
@@ -10788,6 +10790,7 @@ ddl.alma.iltalehti.fi IN CNAME .
 ddlbr.timesclub.co IN CNAME .
 ddlcvm.clas.style IN CNAME .
 dd.leboncoin.fr IN CNAME .
+ddlnk.net IN CNAME .
 ddm.frandroid.com IN CNAME .
 ddmfrg.modivo.bg IN CNAME .
 ddnahc.mesbagages.com IN CNAME .
@@ -26971,6 +26974,7 @@ roamhousing.com IN CNAME .
 roas-service.store-services-prod.remarkable.com IN CNAME .
 robotflowermobile.com IN CNAME .
 robotgarages.com IN CNAME .
+robotsrefinery.com IN CNAME .
 rochelle.wantsext.me IN CNAME .
 rockagainst.com IN CNAME .
 rockstarwriter.com IN CNAME .
@@ -33459,6 +33463,7 @@ stanburns.actonservice.com IN CNAME .
 stan.xing.com IN CNAME .
 stape.brascast.com IN CNAME .
 starchild.odencat.com IN CNAME .
+starfurniture.net IN CNAME .
 starget.aircanada.com IN CNAME .
 starget.airmiles.ca IN CNAME .
 starget.bitdefender.com IN CNAME .
@@ -34763,6 +34768,7 @@ stt.tyro.com IN CNAME .
 st.tulastudio.se IN CNAME .
 stt.wawacity.onl IN CNAME .
 studentadvantage.actonservice.com IN CNAME .
+studioalkaline.com IN CNAME .
 studio.joinsalut.com IN CNAME .
 studycooking.com IN CNAME .
 study.jcu.edu.au IN CNAME .
@@ -36008,6 +36014,7 @@ thebdx.actonservice.com IN CNAME .
 thebigvan.com IN CNAME .
 thebrainybulb.com IN CNAME .
 thecea.actonservice.com IN CNAME .
+thecounter.net IN CNAME .
 thecrazychili.com IN CNAME .
 thefishstops.com IN CNAME .
 thefontzone.com IN CNAME .
@@ -40624,6 +40631,7 @@ warmafterthought.com IN CNAME .
 warnwing.com IN CNAME .
 warrenfcu.actonservice.com IN CNAME .
 warrjy.feiler.jp IN CNAME .
+wart.val.town IN CNAME .
 wasc.homedepot.ca IN CNAME .
 wasc.homedepot.com IN CNAME .
 wasc.kaufland.ro IN CNAME .
