@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1782700558    ; serial
+                                        1782785962    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5068,11 +5068,13 @@ analytics.api.justeattakeaway.com IN CNAME .
 analytics-api.klickly.com IN CNAME .
 analyticsapi.qogita.com IN CNAME .
 analytics-api.samsunghealthcn.com IN CNAME .
+analytics-api-s.cloudinary.com IN CNAME .
 analytics.apnewsregistry.com IN CNAME .
 analytics.archive.org IN CNAME .
 analytics.argeton.com IN CNAME .
 analytics.arunraghavan.net IN CNAME .
 analytics.asml.com IN CNAME .
+analytics.atlas5.co IN CNAME .
 analytics.atom.com IN CNAME .
 analytics.audioeye.com IN CNAME .
 analytics.audionow.de IN CNAME .
@@ -5185,6 +5187,7 @@ analytics.disney.go.com IN CNAME .
 analytics.disneyinternational.com IN CNAME .
 analytics.disneyplus.com IN CNAME .
 analytics.distributednews.com IN CNAME .
+analytics.divulg.org IN CNAME .
 analytics.dvidshub.net IN CNAME .
 analytics.dv.socure.io IN CNAME .
 analytics.edgekey.net IN CNAME .
@@ -10721,6 +10724,7 @@ dcinfos-cache.abtasty.com IN CNAME .
 dc.kfz-steuercheck.de IN CNAME .
 dckiwt.eataly.com IN CNAME .
 dclnxirp001cou.net.jumia.co.tz IN CNAME .
+dclsrv.com IN CNAME .
 dc.luzygas.ahorraconrepsol.com IN CNAME .
 dc.madridistas.com IN CNAME .
 dcnkrd.baseballsavings.com IN CNAME .
@@ -11591,6 +11595,7 @@ d-snapshotapp.progressive.com IN CNAME .
 d.sondakika.com IN CNAME .
 d.sourcepoint.capitalfm.com IN CNAME .
 dsoxjxin5jji.controlconceptsusa.com IN CNAME .
+dsp-track-global.zmaticoo.com IN CNAME .
 dspx.tv IN CNAME .
 dst05lp2.net.mydays.de IN CNAME .
 d-staging.groc.press IN CNAME .
@@ -24896,6 +24901,7 @@ originblocks.com IN CNAME .
 origin-smetrics.go365.com IN CNAME .
 origin-target.humana.com IN CNAME .
 origin.www.images.2.forms.healthcare.philips.com IN CNAME .
+orion.bendingspoons.com IN CNAME .
 orionember.com IN CNAME .
 orionmarketing.actonservice.com IN CNAME .
 orlmarketing.nfp.com IN CNAME .
@@ -35144,6 +35150,7 @@ synapse-da.actonservice.com IN CNAME .
 synbiobeta.actonservice.com IN CNAME .
 sync-a8.cocolocala.jp IN CNAME .
 sync.adap.tv IN CNAME .
+syncingbridge.com IN CNAME .
 sync.rambler.ru IN CNAME .
 sync.shinobi.jp IN CNAME .
 synonymoussticks.com IN CNAME .
@@ -36764,6 +36771,7 @@ tracker-server.high-cdn.com IN CNAME .
 tracker.services.vaix.ai IN CNAME .
 tracker.shanon-services.com IN CNAME .
 tracker.shopclues.com IN CNAME .
+tracker-shr.ortb.net IN CNAME .
 trackersimulator.org IN CNAME .
 tracker.smartframe.io IN CNAME .
 tracker.smartseminar.jp IN CNAME .
@@ -39279,6 +39287,7 @@ tryzens-analytics.com IN CNAME .
 tr.zojh.espmp-aluk.net IN CNAME .
 t-s.actemra.com IN CNAME .
 t-s.activase.com IN CNAME .
+tsa-f.webex.com IN CNAME .
 t-s.allergicasthma.com IN CNAME .
 ts-analysis.shoalter.com IN CNAME .
 tsa.taxslayer.com IN CNAME .
