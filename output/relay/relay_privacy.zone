@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1783044016    ; serial
+                                        1783130393    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7294,6 +7294,7 @@ bahrpo.dint.co.kr IN CNAME .
 bahyei.himaraya.co.jp IN CNAME .
 baitbaseball.com IN CNAME .
 bakercommunications.actonservice.com IN CNAME .
+balancenotes.com IN CNAME .
 balkog.withmoment.co.kr IN CNAME .
 ballantine.actonservice.com IN CNAME .
 balloonbelieve.com IN CNAME .
@@ -13876,6 +13877,7 @@ fudezz.kompasiana.com IN CNAME .
 fudezz.kompas.tv IN CNAME .
 fudezz.motorplus-online.com IN CNAME .
 fudezz.sonora.id IN CNAME .
+fuelfever.net IN CNAME .
 fuelinspector.com IN CNAME .
 fufbgj.pazzo.com.tw IN CNAME .
 fufoir.aif.ru IN CNAME .
@@ -42763,7 +42765,6 @@ ap-southeast-2-3.telemetry.insights.video.a2z.com IN CNAME .
 ap-southeast.3px.axp.amazon-adsystem.com IN CNAME .
 ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
 api.eu-west-1.aiv-delivery.net IN CNAME .
-api.gamma-toolbox.aps.amazon-adsystem.com IN CNAME .
 api.us-east-1.aiv-delivery.net IN CNAME .
 api.us-west-2.aiv-delivery.net IN CNAME .
 applab-sdk.amazon.com IN CNAME .
@@ -42812,7 +42813,6 @@ bugsnag.appstore.a2z.com IN CNAME .
 bugsnag.shopbop.amazon.dev IN CNAME .
 c.amazon-adsystem.com IN CNAME .
 c.aps.amazon-adsystem.com IN CNAME .
-c.gamma-toolbox.aps.amazon-adsystem.com IN CNAME .
 c.toolbox.aps.amazon-adsystem.com IN CNAME .
 ca-central-1-1.telemetry.insights.video.a2z.com IN CNAME .
 ca-central-1-2.telemetry.insights.video.a2z.com IN CNAME .
@@ -42847,7 +42847,6 @@ cell7011.fra.web.bid-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell7021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com IN CNAME .
-cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com IN CNAME .
@@ -42870,10 +42869,10 @@ cell8005.iad.mobile.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8005.iad.mobile.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8005.iad.web.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8006.pdx.web.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
-cell8007.iad.web.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell8011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell8011.fra.pg.event-eu.ads.aps.amazon-adsystem.com IN CNAME .
+cell8011.fra.stv.event-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell8011.fra.web.bid-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell8012.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell8012.fra.mobile.event-eu.ads.aps.amazon-adsystem.com IN CNAME .
@@ -43050,7 +43049,6 @@ ott.eu-west.aps.axp.amazon-adsystem.com IN CNAME .
 ott.us-east.aps.axp.amazon-adsystem.com IN CNAME .
 ott.us-west.aps.axp.amazon-adsystem.com IN CNAME .
 paa-reporting-advertising.amazon IN CNAME .
-pg.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 pg.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 pri1-3ps.amazon-adsystem.com IN CNAME .
@@ -43319,7 +43317,6 @@ smoot-feedback.v.aaplimg.com IN CNAME .
 supportmetrics.v.aaplimg.com IN CNAME .
 xp.v.aaplimg.com IN CNAME .
 ab.apple.com.akadns.net IN CNAME .
-cstat-lb.apple.com.akadns.net IN CNAME .
 diagassets-lb.apple.com.akadns.net IN CNAME .
 diagnostics.apple.com.akadns.net IN CNAME .
 iadcontent-lb.apple.com.akadns.net IN CNAME .
@@ -43328,13 +43325,11 @@ idiagnostics.apple.com.akadns.net IN CNAME .
 iphonesubmissions.apple.com.akadns.net IN CNAME .
 radarsubmissions.apple.com.akadns.net IN CNAME .
 iad-apple.com.akadns.net IN CNAME .
-skadnetwork.iad-apple.com.akadns.net IN CNAME .
 partiality.itunes-apple.com.akadns.net IN CNAME .
-xp.itunes-apple.com.akadns.net IN CNAME .
-xp-cdn-lb.itunes-apple.com.akadns.net IN CNAME .
 searchads.lb-apple.com.akadns.net IN CNAME .
 advertising.apple.com IN CNAME .
 advp.apple.com IN CNAME .
+analytics-events.apple.com IN CNAME .
 api-adservices.apple.com IN CNAME .
 books-analytics-events.apple.com IN CNAME .
 cstat.apple.com IN CNAME .
@@ -43364,6 +43359,7 @@ partiality.itunes.apple.com IN CNAME .
 launch.apple.com IN CNAME .
 metrics.apple.com IN CNAME .
 msc-dct-prod.msc.apple.com IN CNAME .
+news-analytics-events.apple.com IN CNAME .
 news-app-events.apple.com IN CNAME .
 news-events.apple.com IN CNAME .
 news-notification-events.apple.com IN CNAME .
@@ -43372,6 +43368,7 @@ notes-analytics-events.apple.com IN CNAME .
 odin-signals.apple.com IN CNAME .
 performance-partners.apple.com IN CNAME .
 phonesubmissions.apple.com IN CNAME .
+podcasts-analytics-events.apple.com IN CNAME .
 prd-usw2-requestattribution-iad.apple.com IN CNAME .
 proxy-skadnetwork.apple.com IN CNAME .
 radarsubmissions.apple.com IN CNAME .
@@ -43381,6 +43378,7 @@ securemvt.apple.com IN CNAME .
 fbs.smoot.apple.com IN CNAME .
 stocks-analytics-events.apple.com IN CNAME .
 supportmetrics.apple.com IN CNAME .
+tv-analytics-events.apple.com IN CNAME .
 weather-analytics-events.apple.com IN CNAME .
 xp.apple.com IN CNAME .
 xp-cdn.apple.com IN CNAME .
@@ -45204,6 +45202,7 @@ jokeg7.alphonso.tv IN CNAME .
 jqqqiife69.alphonso.tv IN CNAME .
 jrtwcm90.alphonso.tv IN CNAME .
 jzbznqbz81.alphonso.tv IN CNAME .
+jzzuvzq98.alphonso.tv IN CNAME .
 kfkggmwj1.alphonso.tv IN CNAME .
 kjvhhi2.alphonso.tv IN CNAME .
 klvgltwopc1.alphonso.tv IN CNAME .
@@ -45349,6 +45348,7 @@ krishnaw400.alphonso.tv IN CNAME .
 krishnaw401.alphonso.tv IN CNAME .
 krishnaw404.alphonso.tv IN CNAME .
 krishnaw405.alphonso.tv IN CNAME .
+krishnaw408.alphonso.tv IN CNAME .
 krishnaw411.alphonso.tv IN CNAME .
 krishnaw412.alphonso.tv IN CNAME .
 krishnaw413.alphonso.tv IN CNAME .
@@ -46719,6 +46719,7 @@ southindia-0.in.applicationinsights.azure.com IN CNAME .
 spaincentral-0.in.applicationinsights.azure.com IN CNAME .
 swedencentral-0.in.applicationinsights.azure.com IN CNAME .
 switzerlandnorth-0.in.applicationinsights.azure.com IN CNAME .
+uaenorth-0.in.applicationinsights.azure.com IN CNAME .
 uksouth-0.in.applicationinsights.azure.com IN CNAME .
 uksouth-1.in.applicationinsights.azure.com IN CNAME .
 ukwest-0.in.applicationinsights.azure.com IN CNAME .
@@ -47361,6 +47362,7 @@ ehtelemetrystaging-alias.servicebus.windows.net IN CNAME .
 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net IN CNAME .
 hme-live-loganalytics-namespace.servicebus.windows.net IN CNAME .
 hme-uat-loganalytics-namespace.servicebus.windows.net IN CNAME .
+kg-legacy-analytics.servicebus.windows.net IN CNAME .
 licensingtelemetry-prod.servicebus.windows.net IN CNAME .
 nexxtv-events.servicebus.windows.net IN CNAME .
 ppm-licensingtelemetry.servicebus.windows.net IN CNAME .
