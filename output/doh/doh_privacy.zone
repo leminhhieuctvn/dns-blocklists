@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1783303949    ; serial
+                                        1783390062    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5216,6 +5216,7 @@ analytics.favcy.com IN CNAME .
 analytics-fe.digital-cloud.medallia.ca IN CNAME .
 analytics-fe.digital-cloud.medallia.com IN CNAME .
 analytics-fe.digital-cloud-prem.medallia.com IN CNAME .
+analytics-fe.digital-cloud-prem.medallia.eu IN CNAME .
 analytics.ferguson.com IN CNAME .
 analytics.firespring.com IN CNAME .
 analytics.firstbankcardcenter.com IN CNAME .
@@ -7315,6 +7316,7 @@ barbarousbase.com IN CNAME .
 barbershirts.com IN CNAME .
 b.arenum.games IN CNAME .
 barium.cheezdev.com IN CNAME .
+barkfactor.com IN CNAME .
 barqueue.com IN CNAME .
 barracuda.carte-gr.total.fr IN CNAME .
 baseboosters.com IN CNAME .
@@ -43552,6 +43554,7 @@ honorsearch-dra.hiboard.hihonorcloud.com IN CNAME .
 honorsearch-drcn.hiboard.hihonorcloud.com IN CNAME .
 honorsearch-dre.hiboard.hihonorcloud.com IN CNAME .
 ads-drcn.platform.hihonorcloud.com IN CNAME .
+ads-dre.platform.hihonorcloud.com IN CNAME .
 ads-drru.platform.hihonorcloud.com IN CNAME .
 log-dra.platform.hihonorcloud.com IN CNAME .
 log-drcn.platform.hihonorcloud.com IN CNAME .
