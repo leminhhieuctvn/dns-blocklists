@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1783562320    ; serial
+                                        1783648657    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -42714,6 +42714,7 @@ ads-setu-proxy-fe.amazon.com IN CNAME .
 ads-setu-proxy.amazon.com IN CNAME .
 ads.amazon.com IN CNAME .
 ads.aps.amazon-adsystem.com IN CNAME .
+adserver.pubtech.amazon.dev IN CNAME .
 advertising-api-eu.amazon.com IN CNAME .
 advertising.a2z.com IN CNAME .
 advertising.amazon.ae IN CNAME .
@@ -42843,7 +42844,6 @@ cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7001.iad.web.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.mobile.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
-cell7002.pdx.mobile.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
@@ -42854,7 +42854,6 @@ cell7011.fra.web.bid-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell7021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com IN CNAME .
-cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com IN CNAME .
@@ -43152,6 +43151,7 @@ sq-tungsten-ts-eu.amazon-adsystem.com IN CNAME .
 sq-tungsten-ts-fe.amazon-adsystem.com IN CNAME .
 sq-tungsten-ts.amazon-adsystem.com IN CNAME .
 st.amazon-adsystem.com IN CNAME .
+standard-1.eu-south-2.prod.adserver.pubtech.amazon.dev IN CNAME .
 strategicpub.eu-west.aps.axp.amazon-adsystem.com IN CNAME .
 strategicpub.us-east.aps.axp.amazon-adsystem.com IN CNAME .
 strategicpub.us-west.aps.axp.amazon-adsystem.com IN CNAME .
@@ -43242,6 +43242,7 @@ vfw-us-west-gamma.amazon-adsystem.com IN CNAME .
 vfw-us-west.amazon-adsystem.com IN CNAME .
 vfw-us.amazon-adsystem.com IN CNAME .
 vfw.amazon-adsystem.com IN CNAME .
+vfwm-eu.amazon-adsystem.com IN CNAME .
 vfwm-us-west.amazon-adsystem.com IN CNAME .
 vfwm-us.amazon-adsystem.com IN CNAME .
 vfwm.amazon-adsystem.com IN CNAME .
@@ -44959,6 +44960,7 @@ afaprrnbzl1.alphonso.tv IN CNAME .
 aknbxhzyd1.alphonso.tv IN CNAME .
 alb-ais-prod-lb.alphonso.tv IN CNAME .
 aqvqsekdpw89.alphonso.tv IN CNAME .
+asbdwc6.alphonso.tv IN CNAME .
 atzcxw9.alphonso.tv IN CNAME .
 bbhobjaopy4.alphonso.tv IN CNAME .
 behilbct57.alphonso.tv IN CNAME .
@@ -45238,7 +45240,10 @@ krishnaw260.alphonso.tv IN CNAME .
 krishnaw261.alphonso.tv IN CNAME .
 krishnaw262.alphonso.tv IN CNAME .
 krishnaw263.alphonso.tv IN CNAME .
+krishnaw264.alphonso.tv IN CNAME .
 krishnaw265.alphonso.tv IN CNAME .
+krishnaw266.alphonso.tv IN CNAME .
+krishnaw267.alphonso.tv IN CNAME .
 krishnaw268.alphonso.tv IN CNAME .
 krishnaw270.alphonso.tv IN CNAME .
 krishnaw271.alphonso.tv IN CNAME .
@@ -45340,6 +45345,7 @@ krishnaw371.alphonso.tv IN CNAME .
 krishnaw374.alphonso.tv IN CNAME .
 krishnaw375.alphonso.tv IN CNAME .
 krishnaw377.alphonso.tv IN CNAME .
+krishnaw378.alphonso.tv IN CNAME .
 krishnaw380.alphonso.tv IN CNAME .
 krishnaw381.alphonso.tv IN CNAME .
 krishnaw382.alphonso.tv IN CNAME .
@@ -46037,6 +46043,7 @@ tyftsjph74.alphonso.tv IN CNAME .
 ubescyza51.alphonso.tv IN CNAME .
 ugelxexv9.alphonso.tv IN CNAME .
 ugiys71.alphonso.tv IN CNAME .
+ujdcipvr0.alphonso.tv IN CNAME .
 ujuyhix2.alphonso.tv IN CNAME .
 ujzkkj8.alphonso.tv IN CNAME .
 uk-ad-inserter.alphonso.tv IN CNAME .
@@ -46732,6 +46739,7 @@ ukwest-0.in.applicationinsights.azure.com IN CNAME .
 usgovarizona-0.in.applicationinsights.azure.us IN CNAME .
 usgovvirginia-0.in.applicationinsights.azure.us IN CNAME .
 usgovvirginia-1.in.applicationinsights.azure.us IN CNAME .
+usgovvirginia-global.in.applicationinsights.azure.us IN CNAME .
 westeurope.in.applicationinsights.azure.com IN CNAME .
 westeurope-0.in.applicationinsights.azure.com IN CNAME .
 westeurope-1.in.applicationinsights.azure.com IN CNAME .
@@ -47316,7 +47324,6 @@ ssp-prod-eastus-nonmutt.trafficmanager.net IN CNAME .
 stats-partner.trafficmanager.net IN CNAME .
 teams-events-data.trafficmanager.net IN CNAME .
 telemetry-lcp.trafficmanager.net IN CNAME .
-tenmax-ads.trafficmanager.net IN CNAME .
 tm-analytics-pr.trafficmanager.net IN CNAME .
 tm-enrollment-telemetry-datacore.trafficmanager.net IN CNAME .
 us-mesh-events-data-leafs.trafficmanager.net IN CNAME .
