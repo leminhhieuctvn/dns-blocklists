@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1783648694    ; serial
+                                        1783734515    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -13529,6 +13529,7 @@ fishersfinds.com IN CNAME .
 fishing.daigostudio.com IN CNAME .
 fitmessage.com IN CNAME .
 fitnessmapper.com IN CNAME .
+fitwithalpine.com IN CNAME .
 fivesidedsquare.com IN CNAME .
 fiwinet.firmenwissen.com IN CNAME .
 fiwinet.firmenwissen.de IN CNAME .
@@ -13557,6 +13558,7 @@ flashstats.libsyn.com IN CNAME .
 flashtexting.com IN CNAME .
 flavors.firmenich.com IN CNAME .
 fldoai.municipal.com IN CNAME .
+fleathecat.com IN CNAME .
 fleet-eml.postmates.com IN CNAME .
 flexibleplan.actonservice.com IN CNAME .
 flexpod.ynsecureserver.net IN CNAME .
@@ -13698,6 +13700,7 @@ forms.xperthr.co.uk IN CNAME .
 forms.xtralis.com IN CNAME .
 form.vocalink.com IN CNAME .
 forpci3.siege-corp.com IN CNAME .
+fortbeach.com IN CNAME .
 fortunatemark.com IN CNAME .
 forwardslashetc.com IN CNAME .
 fossilzero.com IN CNAME .
@@ -15435,6 +15438,7 @@ hntnca.petpetgo.com IN CNAME .
 hnwttl.re-katsu.jp IN CNAME .
 hnytrd.ssfshop.com IN CNAME .
 hocgeese.com IN CNAME .
+hockeyfool.com IN CNAME .
 hodges.actonservice.com IN CNAME .
 hodgesmace.actonservice.com IN CNAME .
 hokkaidobank.rapi.jp IN CNAME .
@@ -17212,6 +17216,7 @@ insights.nexansdatacenter.com IN CNAME .
 insights.nowitmatters.com IN CNAME .
 insights.openfieldx.com IN CNAME .
 insights.partnerwithfacet.com IN CNAME .
+insights.playpilot.net IN CNAME .
 insights.prophet.com IN CNAME .
 insights.sitesearch360.com IN CNAME .
 insights.sport1.de IN CNAME .
@@ -23987,6 +23992,7 @@ nervoussummer.com IN CNAME .
 nestbuyers.com IN CNAME .
 net1.netski.com IN CNAME .
 net.24-ads.com IN CNAME .
+netandbytes.com IN CNAME .
 net.brillen.de IN CNAME .
 net.cadeautjes.nl IN CNAME .
 net.contorion.de IN CNAME .
@@ -25333,6 +25339,7 @@ pehkmy.edreams.pt IN CNAME .
 peiq.services IN CNAME .
 p.ejs.dev IN CNAME .
 pemskb.unitedcinemas.jp IN CNAME .
+peoplebrain.net IN CNAME .
 peoplehr.actonservice.com IN CNAME .
 people.mbtionline.com IN CNAME .
 pepin.padlet.com IN CNAME .
@@ -42844,6 +42851,7 @@ cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7001.iad.web.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.mobile.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
+cell7002.pdx.mobile.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
@@ -42852,8 +42860,10 @@ cell7011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell7011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell7011.fra.web.bid-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell7021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com IN CNAME .
+cell7021.sin.mobile.event-fe.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com IN CNAME .
+cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com IN CNAME .
@@ -43459,6 +43469,8 @@ connect-drru.hispace.dbankcloud.ru IN CNAME .
 logservice1.dbankcloud.com IN CNAME .
 connect-dra.map.dbankcloud.com IN CNAME .
 connect-dre.map.dbankcloud.com IN CNAME .
+ad-drcn.media.dbankcloud.cn IN CNAME .
+ad-drcn.media.dbankcloud.ru IN CNAME .
 adx-dra.op.dbankcloud.com IN CNAME .
 adx-drcn.op.dbankcloud.cn IN CNAME .
 adx-dre.op.dbankcloud.com IN CNAME .
@@ -43572,6 +43584,7 @@ tracking-data.platform.hihonorcloud.com IN CNAME .
 tracking-data-drru.platform.hihonorcloud.com IN CNAME .
 ads.cloud.huawei.com IN CNAME .
 ads-drru.cloud.huawei.ru IN CNAME .
+nebula-collector.huawei.com IN CNAME .
 rnd-cbgpas01.huawei.com IN CNAME .
 uba.huaweicloud.com IN CNAME .
 nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com IN CNAME .
@@ -44368,6 +44381,7 @@ mcs.us.tiktok.com IN CNAME .
 mcs-ttp2.us.tiktok.com IN CNAME .
 mssdk.us.tiktok.com IN CNAME .
 mcs.tiktok-row.net IN CNAME .
+ad-union-i18n-api.tos-sg.tiktok-row.org IN CNAME .
 p16-tiktok-ads-sg.tiktokcdn.com IN CNAME .
 sf16-ads-format-sign.tiktokcdn.com IN CNAME .
 sf19-ads-format-sign.tiktokcdn.com IN CNAME .
@@ -45240,10 +45254,6 @@ krishnaw260.alphonso.tv IN CNAME .
 krishnaw261.alphonso.tv IN CNAME .
 krishnaw262.alphonso.tv IN CNAME .
 krishnaw263.alphonso.tv IN CNAME .
-krishnaw264.alphonso.tv IN CNAME .
-krishnaw265.alphonso.tv IN CNAME .
-krishnaw266.alphonso.tv IN CNAME .
-krishnaw267.alphonso.tv IN CNAME .
 krishnaw268.alphonso.tv IN CNAME .
 krishnaw270.alphonso.tv IN CNAME .
 krishnaw271.alphonso.tv IN CNAME .
@@ -45345,7 +45355,6 @@ krishnaw371.alphonso.tv IN CNAME .
 krishnaw374.alphonso.tv IN CNAME .
 krishnaw375.alphonso.tv IN CNAME .
 krishnaw377.alphonso.tv IN CNAME .
-krishnaw378.alphonso.tv IN CNAME .
 krishnaw380.alphonso.tv IN CNAME .
 krishnaw381.alphonso.tv IN CNAME .
 krishnaw382.alphonso.tv IN CNAME .
@@ -45389,6 +45398,7 @@ krishnaw439.alphonso.tv IN CNAME .
 krishnaw441.alphonso.tv IN CNAME .
 krishnaw445.alphonso.tv IN CNAME .
 krishnaw446.alphonso.tv IN CNAME .
+krishnaw447.alphonso.tv IN CNAME .
 krishnaw448.alphonso.tv IN CNAME .
 krishnaw449.alphonso.tv IN CNAME .
 krishnaw450.alphonso.tv IN CNAME .
@@ -45419,6 +45429,7 @@ krishnaw476.alphonso.tv IN CNAME .
 krishnaw477.alphonso.tv IN CNAME .
 krishnaw478.alphonso.tv IN CNAME .
 krishnaw481.alphonso.tv IN CNAME .
+krishnaw482.alphonso.tv IN CNAME .
 krishnaw484.alphonso.tv IN CNAME .
 krishnaw485.alphonso.tv IN CNAME .
 krishnaw486.alphonso.tv IN CNAME .
@@ -46739,7 +46750,6 @@ ukwest-0.in.applicationinsights.azure.com IN CNAME .
 usgovarizona-0.in.applicationinsights.azure.us IN CNAME .
 usgovvirginia-0.in.applicationinsights.azure.us IN CNAME .
 usgovvirginia-1.in.applicationinsights.azure.us IN CNAME .
-usgovvirginia-global.in.applicationinsights.azure.us IN CNAME .
 westeurope.in.applicationinsights.azure.com IN CNAME .
 westeurope-0.in.applicationinsights.azure.com IN CNAME .
 westeurope-1.in.applicationinsights.azure.com IN CNAME .
