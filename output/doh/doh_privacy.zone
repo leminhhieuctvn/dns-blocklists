@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1783907556    ; serial
+                                        1783992556    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5279,6 +5279,7 @@ analytics.ifanrusercontent.com IN CNAME .
 analytics.ihg.com IN CNAME .
 analytics.ikyu.com IN CNAME .
 analytic.simplyhealth.co.uk IN CNAME .
+analytics.infraloods.nl IN CNAME .
 analytics.inquisitr.com IN CNAME .
 analytics-ipv6.tiktokw.us IN CNAME .
 analytics.iraiser.eu IN CNAME .
@@ -8311,6 +8312,7 @@ canvasandsocks.com IN CNAME .
 canyonpizza.net IN CNAME .
 caowuq.babyliss-romania.ro IN CNAME .
 capi.connatix.com IN CNAME .
+capitalopera.com IN CNAME .
 capping.sirius.press IN CNAME .
 capplanllc.actonservice.com IN CNAME .
 capriciouscorn.com IN CNAME .
@@ -8445,6 +8447,7 @@ cdnlogs.org IN CNAME .
 cdn.net.dz.jumia.com IN CNAME .
 cdn.net.elogia.net IN CNAME .
 cdn.polarbyte.com IN CNAME .
+cdn.prod.euid.eu IN CNAME .
 cdnral.com IN CNAME .
 cdn.ravm.tv IN CNAME .
 cdn-rum.ngenix.net IN CNAME .
@@ -15025,6 +15028,7 @@ greencolumnhealth.com IN CNAME .
 green-griffin-860.appspot.com IN CNAME .
 greenjapan-cname.green-japan.com IN CNAME .
 greif.actonservice.com IN CNAME .
+gresrv.com IN CNAME .
 grgnsht.nzxt.com IN CNAME .
 gr-go.experian.com IN CNAME .
 gridbelow.com IN CNAME .
@@ -24773,6 +24777,7 @@ onecrow.net IN CNAME .
 onedropocean.com IN CNAME .
 one.godigit.com IN CNAME .
 oneid.mmstat.com IN CNAME .
+onekindmarket.com IN CNAME .
 onelinksmartscript.appsflyer.com IN CNAME .
 onelinksmartscript.appsflyersdk.com IN CNAME .
 onelink.taptalk.io IN CNAME .
@@ -24785,6 +24790,7 @@ onespot-tracking.herokuapp.com IN CNAME .
 one-workspace.matrix42.com IN CNAME .
 onghfx.revolve.com IN CNAME .
 on.hellostake.com IN CNAME .
+onioncomic.com IN CNAME .
 onjjbn.koffiemarkt.be IN CNAME .
 onjmsj.sumai-surfin.com IN CNAME .
 on.leagueapps.com IN CNAME .
@@ -25445,6 +25451,7 @@ pings.vidpulse.com IN CNAME .
 pinptg.milleni.com.tr IN CNAME .
 pint-dev-branch.airship.com IN CNAME .
 pionmj.companyshop24.de IN CNAME .
+pi.pdfjs.express IN CNAME .
 pipe-collect.ebu.io IN CNAME .
 pipedream.wistia.com IN CNAME .
 pipeline.nachtkastje.nl IN CNAME .
@@ -26774,6 +26781,7 @@ research.dshb.biology.uiowa.edu IN CNAME .
 research.gartner.com IN CNAME .
 research.insidesales.com IN CNAME .
 research.leads360.com IN CNAME .
+researchlog.dbresearch.com IN CNAME .
 research.velocify.com IN CNAME .
 res.elle.fr IN CNAME .
 resetpassword.surepetcare.io IN CNAME .
@@ -27011,6 +27019,7 @@ roamhousing.com IN CNAME .
 roas-service.store-services-prod.remarkable.com IN CNAME .
 robotflowermobile.com IN CNAME .
 robotgarages.com IN CNAME .
+robotrefinery.com IN CNAME .
 robotsrefinery.com IN CNAME .
 rochelle.wantsext.me IN CNAME .
 rockagainst.com IN CNAME .
@@ -38693,6 +38702,7 @@ trk.vodafone.com.tr IN CNAME .
 trk.wallstreetandtech.com IN CNAME .
 trk.wardsauto.com IN CNAME .
 trk.wealthmanagement.com IN CNAME .
+trkweb.clinch.co IN CNAME .
 trk.welchvacuum.com IN CNAME .
 trk.wellsfargocenterphilly.com IN CNAME .
 trk.williamspumps.com IN CNAME .
