@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1783992597    ; serial
+                                        1784078838    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -43911,6 +43911,9 @@ id.push.heytapmobi.com IN CNAME .
 userprofile.push.heytapmobi.com IN CNAME .
 api-id.theme.heytapmobi.com IN CNAME .
 ums-telemetry-cn.heytapmobi.com IN CNAME .
+ad-growth-in.heytapmobile.com IN CNAME .
+ad-growth-ru.heytapmobile.com IN CNAME .
+ad-growth-sg.heytapmobile.com IN CNAME .
 ads.heytapmobile.com IN CNAME .
 adx-f.ads.heytapmobile.com IN CNAME .
 adx-id.ads.heytapmobile.com IN CNAME .
