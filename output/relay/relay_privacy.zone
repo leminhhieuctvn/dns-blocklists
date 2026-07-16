@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1784078838    ; serial
+                                        1784165773    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -13266,6 +13266,7 @@ exr-mms.expertreviews.co.uk IN CNAME .
 extendyourreach.actonservice.com IN CNAME .
 external-bos5-1.xx.fbcdn.net.iberostar.com IN CNAME .
 external.fpbc1-1.fna.fbcdn.net.iberostar.com IN CNAME .
+external-tag.mysquadbeyond.com IN CNAME .
 external.techopian.com IN CNAME .
 extmaps-api.yandex.net IN CNAME .
 extractobservation.com IN CNAME .
@@ -15262,6 +15263,7 @@ heartbreakingmind.com IN CNAME .
 heartflow.actonservice.com IN CNAME .
 hearthow.com IN CNAME .
 heatmaps.lcisoft.it IN CNAME .
+heatmap.support-inc.co.jp IN CNAME .
 heavydetail.com IN CNAME .
 heavyplayground.com IN CNAME .
 heimdall.hearstapps.com IN CNAME .
@@ -15456,6 +15458,7 @@ home.edm.globalsources.com IN CNAME .
 homehardware.actonservice.com IN CNAME .
 homelycrown.com IN CNAME .
 homelyheater.com IN CNAME .
+homerunfood.com IN CNAME .
 homeslick.com IN CNAME .
 home.usg.com IN CNAME .
 honestharbor.com IN CNAME .
@@ -25258,6 +25261,7 @@ partnersuccessmetrics.cisco.com IN CNAME .
 partnerwith.us.streetbond.com IN CNAME .
 partplanes.com IN CNAME .
 passivepolo.com IN CNAME .
+passwordbyte.com IN CNAME .
 pa-stats.encore.dev IN CNAME .
 pastoralroad.com IN CNAME .
 patientpay.actonservice.com IN CNAME .
@@ -25709,6 +25713,7 @@ play.adtonos.com IN CNAME .
 playbook.convio.com IN CNAME .
 play.b-t11.com IN CNAME .
 play.colorplay.fun IN CNAME .
+playerhappy.com IN CNAME .
 player-metrics.instaread.co IN CNAME .
 player-telemetry.vimeo.com IN CNAME .
 play.fanslide.com IN CNAME .
@@ -27023,6 +27028,7 @@ robotrefinery.com IN CNAME .
 robotsrefinery.com IN CNAME .
 rochelle.wantsext.me IN CNAME .
 rockagainst.com IN CNAME .
+rocketmonitor.com IN CNAME .
 rockstarwriter.com IN CNAME .
 roedwy.imidapeptide.com IN CNAME .
 ro-go.experian.com IN CNAME .
@@ -27041,6 +27047,7 @@ ros3d4dbs3px.salud-masculina.info IN CNAME .
 roseincome.com IN CNAME .
 rottenray.com IN CNAME .
 roulette.abzorbagames.com IN CNAME .
+routebug.com IN CNAME .
 router28.net.anwalt.de IN CNAME .
 routes.navibration.com IN CNAME .
 rovememoirs.com IN CNAME .
@@ -27876,6 +27883,7 @@ sc.icarly.com IN CNAME .
 science.ctf.gg IN CNAME .
 sciencedart.com IN CNAME .
 science.schoolspecialtynews.com IN CNAME .
+sciencevault.net IN CNAME .
 scientificshirt.com IN CNAME .
 sci.intuit.ca IN CNAME .
 sci.intuit.com IN CNAME .
@@ -28050,6 +28058,7 @@ sealtravels.com IN CNAME .
 seamarketny.actonservice.com IN CNAME .
 seamlesssalon.com IN CNAME .
 seao.business.samsung.com IN CNAME .
+seaotterplay.com IN CNAME .
 search.anonymous.ads.brave.com IN CNAME .
 seaskypro.com IN CNAME .
 seatsmoke.com IN CNAME .
@@ -28613,6 +28622,7 @@ selphiu.com IN CNAME .
 selvi.viessmann.com.tr IN CNAME .
 sem.tkc-biyou.jp IN CNAME .
 sendgrid.employeelinkapp.com IN CNAME .
+sendinblast.com IN CNAME .
 sendingspire.com IN CNAME .
 send.merit.me IN CNAME .
 sendmoney.americanexpress.co.uk IN CNAME .
