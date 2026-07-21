@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1784512995    ; serial
+                                        1784597803    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7317,6 +7317,7 @@ banstat.nadavi.net IN CNAME .
 bapages.carte-gr.total.fr IN CNAME .
 barbarousbase.com IN CNAME .
 barbershirts.com IN CNAME .
+barcodetool.com IN CNAME .
 b.arenum.games IN CNAME .
 barium.cheezdev.com IN CNAME .
 barkfactor.com IN CNAME .
@@ -7436,6 +7437,7 @@ beanworks.actonservice.com IN CNAME .
 bears.daigostudio.com IN CNAME .
 beat.yourtv.jp IN CNAME .
 beaumont.actonservice.com IN CNAME .
+beautifulrope.com IN CNAME .
 bebpon.zetronix.com IN CNAME .
 becanium.com IN CNAME .
 bedsberry.com IN CNAME .
@@ -10816,7 +10818,6 @@ ddmfrg.modivo.bg IN CNAME .
 ddnahc.mesbagages.com IN CNAME .
 dd.nytimes.com IN CNAME .
 ddome-tag.blablacar.com IN CNAME .
-dd.qwant.com IN CNAME .
 ddqwdh.sofastyle.jp IN CNAME .
 dd.seloger-bureaux-commerces.com IN CNAME .
 dd.seloger.com IN CNAME .
@@ -40380,7 +40381,6 @@ verizon-branch.locationlabs.com IN CNAME .
 verseballs.com IN CNAME .
 versuswall.com IN CNAME .
 vertexcs.actonservice.com IN CNAME .
-verybark.com IN CNAME .
 verybouncy.com IN CNAME .
 vetsource.actonservice.com IN CNAME .
 ve.velocityclinical.com IN CNAME .
@@ -43604,6 +43604,7 @@ grs.hihonorcloud.com IN CNAME .
 honorsearch-dra.hiboard.hihonorcloud.com IN CNAME .
 honorsearch-drcn.hiboard.hihonorcloud.com IN CNAME .
 honorsearch-dre.hiboard.hihonorcloud.com IN CNAME .
+ads-dra.platform.hihonorcloud.com IN CNAME .
 ads-drcn.platform.hihonorcloud.com IN CNAME .
 ads-dre.platform.hihonorcloud.com IN CNAME .
 ads-drru.platform.hihonorcloud.com IN CNAME .
@@ -44422,6 +44423,7 @@ sf19-ads-format-sign.tiktokcdn.com IN CNAME .
 sf16-telemetry-proxy-oci.tiktokcdn-us.com IN CNAME .
 ad.tiktokv.com IN CNAME .
 ad.tiktokv.us IN CNAME .
+ad-format-sg.tiktokv.com IN CNAME .
 ad-instantpage.tiktokv.us IN CNAME .
 ad-instantpage-ru.tiktokv.com IN CNAME .
 ad-instantpage-sg.tiktokv.com IN CNAME .
@@ -44616,7 +44618,6 @@ rtc-logger.tiktokv.com IN CNAME .
 rtc-logger.tiktokv.us IN CNAME .
 rtc-logger-i18n.tiktokv.com IN CNAME .
 rtc-logger-ie.tiktokv.eu IN CNAME .
-rtc-logger-ttp2.tiktokv.us IN CNAME .
 rtc-logger-va.tiktokv.com IN CNAME .
 rtc-logger16-normal-useastred.tiktokv.eu IN CNAME .
 rtlog.tiktokv.com IN CNAME .
