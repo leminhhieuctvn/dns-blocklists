@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1784684160    ; serial
+                                        1784771706    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7442,6 +7442,7 @@ bebpon.zetronix.com IN CNAME .
 becanium.com IN CNAME .
 bedsberry.com IN CNAME .
 beeline.beeline-tire.co.jp IN CNAME .
+beelinecolor.com IN CNAME .
 beer2s.millerbrewing.com IN CNAME .
 bee.tc.easebar.com IN CNAME .
 beewhispering.com IN CNAME .
@@ -7452,6 +7453,7 @@ belong.curtin.edu.au IN CNAME .
 beneficios.davivienda.hn IN CNAME .
 beneficios.davivienda.sv IN CNAME .
 benefits.aon.com IN CNAME .
+benefitssense.com IN CNAME .
 benelux2.secureforms.mcafee.com IN CNAME .
 bentengine.com IN CNAME .
 bento.agoda.com IN CNAME .
@@ -7755,6 +7757,7 @@ boundlessbrake.com IN CNAME .
 boundlessveil.com IN CNAME .
 boutique.ricoh.fr IN CNAME .
 bowl.actonservice.com IN CNAME .
+boxandcover.com IN CNAME .
 box.bossdata.be IN CNAME .
 b.parade.com IN CNAME .
 bpe2.destinia.co.il IN CNAME .
@@ -8316,6 +8319,7 @@ canyonpizza.net IN CNAME .
 caowuq.babyliss-romania.ro IN CNAME .
 capi.connatix.com IN CNAME .
 capitalopera.com IN CNAME .
+caplights.com IN CNAME .
 capping.sirius.press IN CNAME .
 capplanllc.actonservice.com IN CNAME .
 capriciouscorn.com IN CNAME .
@@ -8809,6 +8813,7 @@ clnmetrics.cisco.com IN CNAME .
 clohzp.hifi.lu IN CNAME .
 cloisteredcurve.com IN CNAME .
 c.lolamarket.com IN CNAME .
+clothsense.com IN CNAME .
 cloudchickens.com IN CNAME .
 cloud.diagral.fr IN CNAME .
 cloudfront-labs.amazonaws.com IN CNAME .
@@ -10032,6 +10037,7 @@ d1k8sb4xbepqao.cloudfront.net IN CNAME .
 d1l6p2sc9645hc.cloudfront.net IN CNAME .
 d1m6l9dfulcyw7.cloudfront.net IN CNAME .
 d1n00d49gkbray.cloudfront.net IN CNAME .
+d1qmrxg9gbf226.cloudfront.net IN CNAME .
 d1qnmu4nrib73p.cloudfront.net IN CNAME .
 d1r27qvpjiaqj3.cloudfront.net IN CNAME .
 d1r2sy6oc0ariq.cloudfront.net IN CNAME .
@@ -10055,9 +10061,11 @@ d23p9gffjvre9v.cloudfront.net IN CNAME .
 d24cze5sab2jwg.cloudfront.net IN CNAME .
 d24luoisenoi7j.cloudfront.net IN CNAME .
 d24rtvkqjwgutp.cloudfront.net IN CNAME .
+d27623md02evp.cloudfront.net IN CNAME .
 d276.ourmidland.com IN CNAME .
 d2cpw6kwpff7n5.cloudfront.net IN CNAME .
 d2ezz24t9nm0vu.cloudfront.net IN CNAME .
+d2fw3s7rfepszt.cloudfront.net IN CNAME .
 d2gbtcuv3w9qyv.cloudfront.net IN CNAME .
 d2gt2ux04o03l1.cloudfront.net IN CNAME .
 d2i34c80a0ftze.cloudfront.net IN CNAME .
@@ -10087,6 +10095,7 @@ d31y97ze264gaa.cloudfront.net IN CNAME .
 d34ko97cxuv4p7.cloudfront.net IN CNAME .
 d34r8q7sht0t9k.cloudfront.net IN CNAME .
 d35u1vg1q28b3w.cloudfront.net IN CNAME .
+d37l98t2r94go6.cloudfront.net IN CNAME .
 d39ion77s0ucuz.cloudfront.net IN CNAME .
 d39yds8oe4n4jq.cloudfront.net IN CNAME .
 d3banl4fzuxsjl.cloudfront.net IN CNAME .
@@ -11571,6 +11580,7 @@ dqs.actonservice.com IN CNAME .
 dqsfil.pikolinos.com IN CNAME .
 dr6vcclmzwk74.cloudfront.net IN CNAME .
 dragonbats.com IN CNAME .
+dragontamer.net IN CNAME .
 drainpaste.com IN CNAME .
 dramaticdirection.com IN CNAME .
 drau.viessmann.si IN CNAME .
@@ -11628,6 +11638,7 @@ dttrk.com IN CNAME .
 d.tv-asahi.co.jp IN CNAME .
 dt.xfyun.cn IN CNAME .
 dtxtngytz5im1.cloudfront.net IN CNAME .
+dty0ycn35t4d2.cloudfront.net IN CNAME .
 dtzrrz.green-japan.com IN CNAME .
 du4rq1xqh3i1k.cloudfront.net IN CNAME .
 dujgiq.trendhim.pl IN CNAME .
@@ -11793,6 +11804,7 @@ easysyncnews.com IN CNAME .
 eat9.thebeat925.ca IN CNAME .
 eatablesquare.com IN CNAME .
 ea.telecommandeonline.com IN CNAME .
+eatinglate.com IN CNAME .
 eatjav.ekosport.fr IN CNAME .
 eat.newtrina.com IN CNAME .
 eatonaero.advancedtech.com IN CNAME .
@@ -11923,6 +11935,7 @@ ecefyu.geox.com IN CNAME .
 e.channelexco.com IN CNAME .
 echoacloud.com IN CNAME .
 echoinghaven.com IN CNAME .
+echoturkey.com IN CNAME .
 eclick.360doc.com IN CNAME .
 eclick.baidu.com IN CNAME .
 ecn-analytics.emc.com IN CNAME .
@@ -12893,6 +12906,7 @@ esqxrp.bonprix-fl.be IN CNAME .
 esri.nl.actonservice.com IN CNAME .
 es-sa.siemensplmevents.com IN CNAME .
 essaygiants.com IN CNAME .
+essayplanet.com IN CNAME .
 essayspin.com IN CNAME .
 essential-apps-analytics.herokuapp.com IN CNAME .
 es.sharpmarketing.eu IN CNAME .
@@ -13502,6 +13516,7 @@ filtercutter.com IN CNAME .
 fimyxg.bloomberght.com IN CNAME .
 fimyxg.haberturk.com IN CNAME .
 finalizeforce.com IN CNAME .
+finaloptics.com IN CNAME .
 financefear.com IN CNAME .
 financialeducation-info.uchicago.edu IN CNAME .
 financialservices.nada.org IN CNAME .
@@ -15273,6 +15288,7 @@ heimdall.hearstapps.com IN CNAME .
 hej.henriksommerfeld.se IN CNAME .
 hekhnn.turnkeyvr.com IN CNAME .
 helens.actonservice.com IN CNAME .
+helios.g2a.com IN CNAME .
 helix.bitformations.ca IN CNAME .
 hello.bpost2.be IN CNAME .
 hello.bpost.be IN CNAME .
@@ -24821,7 +24837,6 @@ onlineshop.ricoh.lu IN CNAME .
 onlineshop.ricoh.no IN CNAME .
 onlineshop.ricoh.pl IN CNAME .
 online.siteboosters.de IN CNAME .
-online.spsglobal.com IN CNAME .
 onlinestarten.net IN CNAME .
 onlinevacationcenter.actonservice.com IN CNAME .
 onlywoofs.com IN CNAME .
@@ -35228,6 +35243,7 @@ t2.aboutyou.de IN CNAME .
 t2.click.subway.com IN CNAME .
 t2.hulu.com IN CNAME .
 t2.t2b.click IN CNAME .
+t.2x.nz IN CNAME .
 t.360.audion.fm IN CNAME .
 t.360playvid.info IN CNAME .
 t3e.firstchoice.co.uk IN CNAME .
