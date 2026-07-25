@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1784857826    ; serial
+                                        1784944236    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -13926,7 +13926,6 @@ funnelbox.actonservice.com IN CNAME .
 funnelserv.systems IN CNAME .
 funoverbored.com IN CNAME .
 funoverflow.com IN CNAME .
-funtoyplanet.com IN CNAME .
 fuooms.aetrex.com IN CNAME .
 furlhp.kango.mynavi.jp IN CNAME .
 furnishings.bellacor.com IN CNAME .
@@ -15370,6 +15369,7 @@ historytrade.com IN CNAME .
 hi.streetworkoutlist.com IN CNAME .
 hi.syllable.ai IN CNAME .
 hitachi-hightech-as.actonservice.com IN CNAME .
+hitboxdesigns.com IN CNAME .
 hit.cnbce.com IN CNAME .
 hit.interia.pl IN CNAME .
 hitmse.altinbas.com IN CNAME .
@@ -18102,6 +18102,7 @@ kzsisc.3.dk IN CNAME .
 kzutbh.takeappeal.com IN CNAME .
 l2k30jsa.theochu.com IN CNAME .
 l936.expressnews.com IN CNAME .
+labelsensor.com IN CNAME .
 laboredlocket.com IN CNAME .
 lab.prodesp.sp.gov.br IN CNAME .
 labs.verticurl.com IN CNAME .
@@ -18148,6 +18149,7 @@ landkarts.com IN CNAME .
 landlordspy.com IN CNAME .
 landrykling.actonservice.com IN CNAME .
 landstar.actonservice.com IN CNAME .
+landsuites.com IN CNAME .
 landuscooperative.actonservice.com IN CNAME .
 landwestern.com IN CNAME .
 lan.landing.ni.com IN CNAME .
@@ -19512,6 +19514,7 @@ longloops.com IN CNAME .
 loobmf.hardloop.fr IN CNAME .
 look-ahead.nurturemarketing.com IN CNAME .
 loopcybersec.com IN CNAME .
+looprecycled.com IN CNAME .
 loosecase.com IN CNAME .
 looseloaf.com IN CNAME .
 l.ooyala.com IN CNAME .
@@ -21835,6 +21838,7 @@ memorizematch.com IN CNAME .
 memorizeneck.com IN CNAME .
 m.enerpac.com IN CNAME .
 mennoc.mezlan.com IN CNAME .
+menteechain.com IN CNAME .
 mentorsticks.com IN CNAME .
 m.equinoxplus.com IN CNAME .
 mercadeo.promerica.fi.cr IN CNAME .
@@ -24805,6 +24809,7 @@ onelinksmartscript.appsflyer.com IN CNAME .
 onelinksmartscript.appsflyersdk.com IN CNAME .
 onelink.taptalk.io IN CNAME .
 onem.marketing.onemarketinguxp.com IN CNAME .
+onemorebump.com IN CNAME .
 onenet.gakujutsu.com IN CNAME .
 onesourcebackground.actonservice.com IN CNAME .
 one-source.tax.thomsonreuters.com IN CNAME .
@@ -24839,6 +24844,7 @@ onlineshop.ricoh.pl IN CNAME .
 online.siteboosters.de IN CNAME .
 onlinestarten.net IN CNAME .
 onlinevacationcenter.actonservice.com IN CNAME .
+onlystreets.com IN CNAME .
 onlywoofs.com IN CNAME .
 onmlkjiion.carte-gr.total.fr IN CNAME .
 onoztg.ultimate-guitar.com IN CNAME .
@@ -32365,6 +32371,7 @@ soccajoeys.actonservice.com IN CNAME .
 socialflow.branch.rocks IN CNAME .
 social.forddirectdealers.com IN CNAME .
 social.insidelpl.com IN CNAME .
+socialsend.net IN CNAME .
 social.talenttitan.com IN CNAME .
 social.tinyview.com IN CNAME .
 sockpacks.com IN CNAME .
@@ -43031,6 +43038,7 @@ fls-na.amazon.com.br IN CNAME .
 fls-na.amazon.com.mx IN CNAME .
 forester.a2z.com IN CNAME .
 ftv.bugsnag.appstore.a2z.com IN CNAME .
+fw-apc.stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 gamma-config.aps.amazon-adsystem.com IN CNAME .
 gamma-toolbox.aps.amazon-adsystem.com IN CNAME .
 gamma.useast.rtb.axp.amazon-adsystem.com IN CNAME .
@@ -43107,13 +43115,12 @@ notify.aca.bugsnag.appstore.a2z.com IN CNAME .
 notify.aca.ftv.bugsnag.appstore.a2z.com IN CNAME .
 notify.bugsnag.appstore.a2z.com IN CNAME .
 notify.firetv.bugsnag.appstore.a2z.com IN CNAME .
-origin-sq-tungsten-ts-fe.amazon-adsystem.com IN CNAME .
+origin-sq-tungsten-ts-eu.amazon-adsystem.com IN CNAME .
 origin-sq-tungsten-ts.amazon-adsystem.com IN CNAME .
 ott.eu-west.aps.axp.amazon-adsystem.com IN CNAME .
 ott.us-east.aps.axp.amazon-adsystem.com IN CNAME .
 ott.us-west.aps.axp.amazon-adsystem.com IN CNAME .
 paa-reporting-advertising.amazon IN CNAME .
-pg.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 pg.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 pri1-3ps.amazon-adsystem.com IN CNAME .
@@ -43197,6 +43204,7 @@ sponsored-ads.amazon.com.mx IN CNAME .
 sponsored-ads.amazon.es IN CNAME .
 sponsored-ads.amazon.fr IN CNAME .
 sponsored-ads.amazon.in IN CNAME .
+sponsored-ads.amazon.in.alphionsee.in IN CNAME .
 sponsored-ads.amazon.it IN CNAME .
 spp.bid-na.ads-beta.aps.amazon-adsystem.com IN CNAME .
 spp.bid-na.ads-gamma.aps.amazon-adsystem.com IN CNAME .
@@ -43300,7 +43308,6 @@ vfw-us-west.amazon-adsystem.com IN CNAME .
 vfw-us.amazon-adsystem.com IN CNAME .
 vfw.amazon-adsystem.com IN CNAME .
 vfwm-eu.amazon-adsystem.com IN CNAME .
-vfwm-us-west.amazon-adsystem.com IN CNAME .
 vfwm-us.amazon-adsystem.com IN CNAME .
 vfwm.amazon-adsystem.com IN CNAME .
 vfws.amazon-adsystem.com IN CNAME .
@@ -43320,7 +43327,6 @@ web-cf-event-cell8003.ads.aps.amazon-adsystem.com IN CNAME .
 web-cf-event-cell8004.ads.aps.amazon-adsystem.com IN CNAME .
 web-cf-event-cell8005.ads.aps.amazon-adsystem.com IN CNAME .
 web-cf-event-cell8006.ads.aps.amazon-adsystem.com IN CNAME .
-web-cf-event-cell8007.ads.aps.amazon-adsystem.com IN CNAME .
 web-cf-event-cell8011.ads.aps.amazon-adsystem.com IN CNAME .
 web-cf-event-cell8012.ads.aps.amazon-adsystem.com IN CNAME .
 web-cf-event-cell8013.ads.aps.amazon-adsystem.com IN CNAME .
@@ -44513,6 +44519,7 @@ log19-normal.tiktokv.com IN CNAME .
 log19-normal-alisg.tiktokv.com IN CNAME .
 log19-normal-useast1a.tiktokv.com IN CNAME .
 log19-normal-useast2a.tiktokv.com IN CNAME .
+log19-normal-useast8.tiktokv.us IN CNAME .
 log22-applog-useast1a.tiktokv.com IN CNAME .
 log22-applog-useast2a.tiktokv.com IN CNAME .
 log22-normal.tiktokv.com IN CNAME .
@@ -45245,6 +45252,7 @@ fhkex91.alphonso.tv IN CNAME .
 fjzlz5.alphonso.tv IN CNAME .
 fkflly0.alphonso.tv IN CNAME .
 fltqq84.alphonso.tv IN CNAME .
+fqkplwaite01.alphonso.tv IN CNAME .
 fwvrvdv95.alphonso.tv IN CNAME .
 ganltsl61.alphonso.tv IN CNAME .
 gbasccnma3.alphonso.tv IN CNAME .
@@ -45408,6 +45416,7 @@ krishnaw370.alphonso.tv IN CNAME .
 krishnaw371.alphonso.tv IN CNAME .
 krishnaw374.alphonso.tv IN CNAME .
 krishnaw375.alphonso.tv IN CNAME .
+krishnaw378.alphonso.tv IN CNAME .
 krishnaw380.alphonso.tv IN CNAME .
 krishnaw381.alphonso.tv IN CNAME .
 krishnaw382.alphonso.tv IN CNAME .
@@ -45481,7 +45490,6 @@ krishnaw476.alphonso.tv IN CNAME .
 krishnaw477.alphonso.tv IN CNAME .
 krishnaw478.alphonso.tv IN CNAME .
 krishnaw481.alphonso.tv IN CNAME .
-krishnaw482.alphonso.tv IN CNAME .
 krishnaw484.alphonso.tv IN CNAME .
 krishnaw485.alphonso.tv IN CNAME .
 krishnaw486.alphonso.tv IN CNAME .
@@ -45548,7 +45556,6 @@ oajdag50.alphonso.tv IN CNAME .
 oclvs18.alphonso.tv IN CNAME .
 ocpuu36.alphonso.tv IN CNAME .
 ocvzw98.alphonso.tv IN CNAME .
-ogb-poc1.alphonso.tv IN CNAME .
 ojstejnuo72.alphonso.tv IN CNAME .
 okgbuy7.alphonso.tv IN CNAME .
 olktn60.alphonso.tv IN CNAME .
@@ -46109,6 +46116,7 @@ tyftsjph74.alphonso.tv IN CNAME .
 ubescyza51.alphonso.tv IN CNAME .
 ugelxexv9.alphonso.tv IN CNAME .
 ugiys71.alphonso.tv IN CNAME .
+ujdcipvr0.alphonso.tv IN CNAME .
 ujuyhix2.alphonso.tv IN CNAME .
 ujzkkj8.alphonso.tv IN CNAME .
 uk-ad-inserter.alphonso.tv IN CNAME .
@@ -46121,6 +46129,7 @@ uwysugvwcb5.alphonso.tv IN CNAME .
 uzfsfnxy61.alphonso.tv IN CNAME .
 valkxt74.alphonso.tv IN CNAME .
 vbpfpbmodz9.alphonso.tv IN CNAME .
+vdtokbvr50.alphonso.tv IN CNAME .
 vewxchtqs1.alphonso.tv IN CNAME .
 vfqtgvx0.alphonso.tv IN CNAME .
 vgflwz29.alphonso.tv IN CNAME .
@@ -46942,7 +46951,6 @@ ppc-word-telemetry.officeapps.live.com IN CNAME .
 sgtus1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 sgtus1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 sgtus1-word-telemetry-vip.officeapps.live.com IN CNAME .
-telemetry.officeapps.live.com IN CNAME .
 tgtus1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 tgtus1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 tgtus1-word-telemetry-vip.officeapps.live.com IN CNAME .
@@ -47196,7 +47204,6 @@ t-ring-s.msedge.net IN CNAME .
 t-ring-s2.msedge.net IN CNAME .
 t-ring-trafficshield.msedge.net IN CNAME .
 t-s1-ring.msedge.net IN CNAME .
-t-s2-ring.msedge.net IN CNAME .
 win10-trt.msedge.net IN CNAME .
 ac2.msn.com IN CNAME .
 ad.msn.com IN CNAME .
@@ -47405,6 +47412,7 @@ ppc-powerpoint-telemetry.wac.trafficmanager.net IN CNAME .
 ppc-word-telemetry.wac.trafficmanager.net IN CNAME .
 word-telemetry.wac.trafficmanager.net IN CNAME .
 win-global-asimov-leafs-events-data.trafficmanager.net IN CNAME .
+wttwebsiteprodapi-liveevents.trafficmanager.net IN CNAME .
 dc.services.visualstudio.com IN CNAME .
 h4g3z1-native.winoffice.web.app IN CNAME .
 activity.windows.com IN CNAME .
