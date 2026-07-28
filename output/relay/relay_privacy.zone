@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1785117607    ; serial
+                                        1785202456    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4246,6 +4246,7 @@ acv.mc-doctor.net IN CNAME .
 acv.mc-nurse.net IN CNAME .
 acv.mc-pharma.net IN CNAME .
 acv.me-hikari.net IN CNAME .
+acv.mira-dsp.com IN CNAME .
 acv.next-air-wifi.com IN CNAME .
 acv.next-internet.info IN CNAME .
 acv.nft-hikari.net IN CNAME .
@@ -4881,6 +4882,7 @@ alliedfundingcorp.actonservice.com IN CNAME .
 allinsurance.allinsure.ca IN CNAME .
 allnewhost.com IN CNAME .
 alloutdubstep.com IN CNAME .
+alloy-rap.reclameaqui.com.br IN CNAME .
 alloytitans.com IN CNAME .
 alloy-web.zvuk.com IN CNAME .
 allreach.actonservice.com IN CNAME .
@@ -7467,6 +7469,7 @@ b.escardio.org IN CNAME .
 be.slowmographer.co IN CNAME .
 bestboundary.com IN CNAME .
 bestbuy.actonservice.com IN CNAME .
+bestclimbers.net IN CNAME .
 bestill.help.no IN CNAME .
 bestinfo.bluetrustloans.com IN CNAME .
 bestshoesboot.com IN CNAME .
@@ -13522,6 +13525,7 @@ financialeducation-info.uchicago.edu IN CNAME .
 financialservices.nada.org IN CNAME .
 financialservices.teranet.ca IN CNAME .
 find.api.micloud.xiaomi.net.iberostar.com IN CNAME .
+findcalculator.com IN CNAME .
 findthetruth.allergyai.com IN CNAME .
 findyourdelight.com IN CNAME .
 findyourinfluence.actonservice.com IN CNAME .
@@ -24449,6 +24453,7 @@ observe-nexus.pointandplace.com IN CNAME .
 observer.ip-label.net IN CNAME .
 obs.esnlocco.com IN CNAME .
 obseu.netgreencolumn.com IN CNAME .
+obs.greencolumnblog.com IN CNAME .
 obsidiangems.com IN CNAME .
 obs.jollyoutdoorjogger.com IN CNAME .
 obs.system1onesource.com IN CNAME .
@@ -25740,6 +25745,7 @@ play.b-t11.com IN CNAME .
 play.colorplay.fun IN CNAME .
 playerhappy.com IN CNAME .
 player-metrics.instaread.co IN CNAME .
+playerscache.com IN CNAME .
 player-telemetry.vimeo.com IN CNAME .
 play.fanslide.com IN CNAME .
 playfulriver.com IN CNAME .
@@ -26106,6 +26112,7 @@ protestcopy.com IN CNAME .
 protosell.actonservice.com IN CNAME .
 protys.protys.fr IN CNAME .
 providentcrm.actonservice.com IN CNAME .
+provingmagic.com IN CNAME .
 prowareness.actonservice.com IN CNAME .
 proxima.midjourney.com IN CNAME .
 proxy.dzeio.com IN CNAME .
@@ -26491,6 +26498,7 @@ r2r.utas.edu.au IN CNAME .
 r.3hentai.net IN CNAME .
 r42tag.com IN CNAME .
 r4nds.absorba.com IN CNAME .
+rabbitboots.com IN CNAME .
 rabbitbreath.com IN CNAME .
 rabbit.donald.cat IN CNAME .
 rabbitrifle.com IN CNAME .
@@ -29043,6 +29051,7 @@ sign.use-neo.com IN CNAME .
 sihoqd.sheridan.com.au IN CNAME .
 silentcredit.com IN CNAME .
 silentjackal.com IN CNAME .
+silentsingle.com IN CNAME .
 siliconslow.com IN CNAME .
 sillyscrew.com IN CNAME .
 s.imagica.ai IN CNAME .
@@ -32261,6 +32270,7 @@ smon.copyright.gov IN CNAME .
 smon.loc.gov IN CNAME .
 smqzbr.proozy.com IN CNAME .
 smrt.as IN CNAME .
+smrtwheel.com IN CNAME .
 sms.3.se IN CNAME .
 sms.ajopharmabeta.riteaid.com IN CNAME .
 sms.apac.coca-cola.com IN CNAME .
@@ -34253,6 +34263,7 @@ stats.oyster.com IN CNAME .
 stats.ozwebsites.biz IN CNAME .
 stats.p42.ai IN CNAME .
 stats.pacificdentalservices.com IN CNAME .
+stats.panet.com IN CNAME .
 stats.parqet.com IN CNAME .
 stats.parrot.dev IN CNAME .
 stats.passwordyeti.com IN CNAME .
@@ -36970,6 +36981,7 @@ tracking-api-4lasu2nlcq-ew.a.run.app IN CNAME .
 tracking-api.bookzone.ro IN CNAME .
 tracking-api.hotmart.com IN CNAME .
 tracking-api.mangopulse.net IN CNAME .
+tracking-api.razor.media IN CNAME .
 tracking.arabiancentres.com IN CNAME .
 tracking.arbor.edu IN CNAME .
 tracking.arcadis.com IN CNAME .
@@ -45560,6 +45572,7 @@ lrgiu86.alphonso.tv IN CNAME .
 lttwupj7.alphonso.tv IN CNAME .
 lvrbwkzu2.alphonso.tv IN CNAME .
 lwwue70.alphonso.tv IN CNAME .
+lzfjgrp86.alphonso.tv IN CNAME .
 mcomuid8.alphonso.tv IN CNAME .
 mczcxzlxj2.alphonso.tv IN CNAME .
 medtmpwecm01.alphonso.tv IN CNAME .
@@ -45569,6 +45582,7 @@ mercury-lb-staging.alphonso.tv IN CNAME .
 mercury-staging.alphonso.tv IN CNAME .
 mhfzxyb54.alphonso.tv IN CNAME .
 miadhqsm4.alphonso.tv IN CNAME .
+mjrlg36.alphonso.tv IN CNAME .
 mmfmkbhbvj6.alphonso.tv IN CNAME .
 mogrs74.alphonso.tv IN CNAME .
 mopezmv99.alphonso.tv IN CNAME .
@@ -45581,6 +45595,7 @@ mwuvclbed2.alphonso.tv IN CNAME .
 myjfricv2.alphonso.tv IN CNAME .
 naassttei6.alphonso.tv IN CNAME .
 nbacc1.alphonso.tv IN CNAME .
+nhundu5.alphonso.tv IN CNAME .
 nmjvt6.alphonso.tv IN CNAME .
 ntkfbsqfxy2.alphonso.tv IN CNAME .
 ntmonou0.alphonso.tv IN CNAME .
@@ -45650,6 +45665,7 @@ rldmdjb95.alphonso.tv IN CNAME .
 rlhfiwgg16.alphonso.tv IN CNAME .
 rrmunf5.alphonso.tv IN CNAME .
 rvahs48.alphonso.tv IN CNAME .
+rwtjrztik97.alphonso.tv IN CNAME .
 rxcxlnkoij6.alphonso.tv IN CNAME .
 rymckhd6.alphonso.tv IN CNAME .
 sbifpdbzb7.alphonso.tv IN CNAME .
