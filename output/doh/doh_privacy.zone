@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1785288905    ; serial
+                                        1785374870    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4812,6 +4812,7 @@ aircuity.actonservice.com IN CNAME .
 airefcoinc.actonservice.com IN CNAME .
 airplanecoffee.com IN CNAME .
 air-weigh.actonservice.com IN CNAME .
+aisiteanalytics.com IN CNAME .
 ai.thermo.com IN CNAME .
 ai.thermofisher.com IN CNAME .
 a.itim.es IN CNAME .
@@ -5516,6 +5517,7 @@ analytics.sixt.jp IN CNAME .
 analytics.sixtmiddleeast.com IN CNAME .
 analytics.sixt.nl IN CNAME .
 analytics.skinit.com IN CNAME .
+analytics.skroutz.gr IN CNAME .
 analytics.skyscanner.net IN CNAME .
 analytics.slashdotmedia.com IN CNAME .
 analytics.sleeknote.com IN CNAME .
@@ -5601,6 +5603,7 @@ analytics.vedantu.com IN CNAME .
 analytics.vendemore.com IN CNAME .
 analytics.verizon.com IN CNAME .
 analytics.verizonwireless.com IN CNAME .
+analytics.veygo.co IN CNAME .
 analytics.vgtimes.com IN CNAME .
 analytics.villagehouse.jp IN CNAME .
 analytics.vinovo.si IN CNAME .
@@ -8362,6 +8365,7 @@ caringcast.com IN CNAME .
 carlisleit.actonservice.com IN CNAME .
 carloforward.com IN CNAME .
 carolina.actonservice.com IN CNAME .
+carpoolmatch.com IN CNAME .
 carpoolqueen.com IN CNAME .
 carreras.unisabana.edu.co IN CNAME .
 carsarace.com IN CNAME .
@@ -8989,7 +8993,6 @@ collect.helsana.ch IN CNAME .
 collect.helsana-preprod.ch IN CNAME .
 collect.hollisterco.com IN CNAME .
 collect.igodigital.com IN CNAME .
-collection.e-satisfaction.com IN CNAME .
 collection.mola.tv IN CNAME .
 collection.saga.co.uk IN CNAME .
 collections.equifax.com IN CNAME .
@@ -13620,6 +13623,7 @@ fluentco.actonservice.com IN CNAME .
 flushingbeast.com IN CNAME .
 flutteringfireman.com IN CNAME .
 fly.caljetelite.com IN CNAME .
+flyflightstar.com IN CNAME .
 flystranger.com IN CNAME .
 flznib.weblio.jp IN CNAME .
 fma7.aegon.es IN CNAME .
@@ -13654,6 +13658,7 @@ foodpackaging.kpfilms.com IN CNAME .
 food.pentonmarketingsvcs.com IN CNAME .
 foodsouvlakibar.openapp.link IN CNAME .
 foomjy.teacollection.com IN CNAME .
+footballmedal.com IN CNAME .
 forbes.realclearpolitics.com IN CNAME .
 forbidden.actonservice.com IN CNAME .
 forbin.actonservice.com IN CNAME .
@@ -14380,6 +14385,7 @@ global-guardians.actonservice.com IN CNAME .
 globallearningsystems.actonservice.com IN CNAME .
 globalmed.actonservice.com IN CNAME .
 global-mktg.transunion.com IN CNAME .
+globalorders.net IN CNAME .
 global.raboag.com IN CNAME .
 globalsolutions.risk.lexisnexis.com IN CNAME .
 global.successfactors.com IN CNAME .
@@ -14449,6 +14455,7 @@ go.anthonyliftgates.com IN CNAME .
 go.app.sharekey.com IN CNAME .
 go.asian.mingle.com IN CNAME .
 go.askbee.my IN CNAME .
+goatcounter.ssp.sh IN CNAME .
 goat.hepicgamerz.com IN CNAME .
 goat.nhimmeo.cf IN CNAME .
 goat.skeetstats.xyz IN CNAME .
@@ -14773,6 +14780,7 @@ go.noondate.com IN CNAME .
 go.northsidemedia.com IN CNAME .
 go.norway.innovatedating.com IN CNAME .
 go.nvp.com IN CNAME .
+goodfoodtours.com IN CNAME .
 google-analytics-cn.com IN CNAME .
 googleoptimize-cn.com IN CNAME .
 googleoptimize.com IN CNAME .
@@ -23598,6 +23606,7 @@ m.moomoo.com IN CNAME .
 mm.openapp.link IN CNAME .
 mm-sdk-analytics.api.cx.metamask.io IN CNAME .
 mmulsx.comet.it IN CNAME .
+mm-uxrv.com IN CNAME .
 mmwlwm.autoscout24.pl IN CNAME .
 m.mylifetime.com IN CNAME .
 m.mywd.com IN CNAME .
@@ -24049,6 +24058,7 @@ net.mydays.ch IN CNAME .
 net.shop.com.mm IN CNAME .
 netstat.yunnan.cn IN CNAME .
 net.steiner-vision.de IN CNAME .
+netsurfconsult.com IN CNAME .
 net.tradeers.de IN CNAME .
 net.voopter.com.br IN CNAME .
 network.cogentco.com IN CNAME .
@@ -24204,6 +24214,7 @@ nlgzhd.yoox.com IN CNAME .
 nljjem.honeys-onlineshop.com IN CNAME .
 nl-nl.coloplastcare.com IN CNAME .
 nlp-japan.life-and-mind.com IN CNAME .
+nltcs.idfnet.net IN CNAME .
 nltihf.fashiondays.ro IN CNAME .
 nltzqx.autodoc.co.uk IN CNAME .
 nlvnht.miror.jp IN CNAME .
@@ -24506,6 +24517,7 @@ offers.la-z-boy.com IN CNAME .
 offer.slgnt.eu IN CNAME .
 offers.storagepipe.com IN CNAME .
 offgridcrops.com IN CNAME .
+officestylist.com IN CNAME .
 offshoreassets.com IN CNAME .
 offshorecyclone.com IN CNAME .
 offshoregeology.com IN CNAME .
@@ -25548,6 +25560,7 @@ pixel.mintigo.com IN CNAME .
 pixel.mtrcs.samba.tv IN CNAME .
 pixel.newscred.com IN CNAME .
 pixel.nine.com.au IN CNAME .
+pixel.nudgify.com IN CNAME .
 pixel.patch.com IN CNAME .
 pixel.poptok.com IN CNAME .
 pixel.propublica.org IN CNAME .
@@ -25837,6 +25850,7 @@ pntbrs.reflectwindow.com IN CNAME .
 pnvnpy.scullyandscully.com IN CNAME .
 pny.net.penny.de IN CNAME .
 pocketfaucet.com IN CNAME .
+pocustrack.com IN CNAME .
 poczta.carte-gr.total.fr IN CNAME .
 poczta.happ.social IN CNAME .
 podbooth.martela.com IN CNAME .
@@ -45328,7 +45342,6 @@ krishnaw263.alphonso.tv IN CNAME .
 krishnaw268.alphonso.tv IN CNAME .
 krishnaw270.alphonso.tv IN CNAME .
 krishnaw271.alphonso.tv IN CNAME .
-krishnaw272.alphonso.tv IN CNAME .
 krishnaw273.alphonso.tv IN CNAME .
 krishnaw274.alphonso.tv IN CNAME .
 krishnaw275.alphonso.tv IN CNAME .
@@ -46821,6 +46834,7 @@ ukwest-0.in.applicationinsights.azure.com IN CNAME .
 usgovarizona-0.in.applicationinsights.azure.us IN CNAME .
 usgovvirginia-0.in.applicationinsights.azure.us IN CNAME .
 usgovvirginia-1.in.applicationinsights.azure.us IN CNAME .
+usgovvirginia-global.in.applicationinsights.azure.us IN CNAME .
 westeurope.in.applicationinsights.azure.com IN CNAME .
 westeurope-0.in.applicationinsights.azure.com IN CNAME .
 westeurope-1.in.applicationinsights.azure.com IN CNAME .
@@ -46959,6 +46973,7 @@ ppc-word-telemetry.officeapps.live.com IN CNAME .
 sgtus1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 sgtus1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 sgtus1-word-telemetry-vip.officeapps.live.com IN CNAME .
+telemetry.officeapps.live.com IN CNAME .
 tgtus1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 tgtus1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 tgtus1-word-telemetry-vip.officeapps.live.com IN CNAME .
